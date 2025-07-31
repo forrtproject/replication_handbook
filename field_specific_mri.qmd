@@ -1,5 +1,6 @@
-
-## ***Field-Specific Replication Challenges: An example from MRI research*** {#field-specific-replication-challenges:-an-example-from-mri-research}
+---
+title: "Field-Specific Replication Challenges: An example from MRI research"
+---
 
 ### **Introduction** {#introduction}
 

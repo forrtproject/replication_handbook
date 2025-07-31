@@ -1,5 +1,6 @@
-
-# Publishing and Communicating {#publishing-and-communicating}
+---
+title: "Publishing and Communicating"
+---
 
 The final step of replication research is publishing and communicating the results. Researchers should adhere to best practices of transparency and openness promotion guidelines (TOP, 2025; Grant et al., 2024\) and to the reporting standards of their respective field (e.g., JARS standards for reporting psychology replications, [https://apastyle.apa.org/jars/quant-table-6.pdf](https://apastyle.apa.org/jars/quant-table-6.pdf)). For example, they should report a link to the pre-registration, analysis plan, and analysis script, share all materials and data (if possible in light of ethical and legal limitations) under an open license (see also Janz & Freese, 2021), and report methods and results comprehensively.
 

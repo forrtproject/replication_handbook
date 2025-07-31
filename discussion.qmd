@@ -1,5 +1,6 @@
-
-### **Discussion** {#discussion-1}
+---
+title: "Discussion"
+---
 
 #### Defining and Determining Replication Success {#defining-and-determining-replication-success}
 
@@ -33,6 +34,8 @@ If researchers are unsure about how to compare results for their replication stu
 #### Interpreting Divergent Results (Replication Failures) {#interpreting-divergent-results-(replication-failures)}
 
 When replications succeed, the original claim gains further credence (as long as the methods are sound). However, when replications fail, many explanations and interpretations can be advanced, which need to be carefully considered and discussed in a report. While replication failure can highlight issues with statistical conclusion validity in the original studies (John et al., 2012; Nelson et al., 2018; Simmons et al., 2011), other explanations need to be considered, including issues with internal, external, and construct validity in both original and replication studies (Fabrigar et al., 2020; Vazire et al., 2022). For example, internal validity is threatened when attrition rates differ between experimental conditions in original or replication studies, creating potential confounds in the interpretation of treatment effects (Zhou & Fishbach, 2016). Construct validity is threatened when original or replication studies use unvalidated ad-hoc measures, fail to employ validated manipulations of the target construct, or when differences in sample characteristics between original and replication studies mean that manipulations and measures do not work as intended (Fabrigar et al., 2020; Fiedler et al., 2021; Flake & Fried, 2020). External validity is threatened when original findings do not generalize to the specifics of the replication study due to person and context differences between studies that moderate the effect. Thus, before making statements about the original finding’s robustness and generalizability, replication researchers need to critically discuss potential methodological shortcomings in both original studies and replication attempts that limit statistical conclusion, internal, external, and construct validity. 
+
+
 
 ##### Hidden Moderator Account {#hidden-moderator-account}
 

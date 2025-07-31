@@ -1,4 +1,7 @@
-## ***Execution of Replications*** {#execution-of-replications}
+---
+title: "Execution of Replications"
+---
+
 
 ### **Preregistration and Registered (Replication) Reports** {#preregistration-and-registered-(replication)-reports}
 

@@ -55,13 +55,15 @@ book:
         - execution_reproductions.qmd
         - execution_replications.qmd
         - discussion.qmd
-    - part: "Advanced Topics and Conclusion"
+    - part: "Advanced Topics and Applications"
       chapters:
-        - field_specific_mri.qmd
         - publishing.qmd
+        - field_specific_mri.qmd
+    - part: "Conclusion and Checklist"
+      chapters:
         - conclusion.qmd
     - references.qmd
-  
+
   appendices:
     - contributions.qmd
     - appendix_templates.qmd
@@ -70,6 +72,7 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [cosmo, theme.scss]
   pdf:
     documentclass: scrreprt

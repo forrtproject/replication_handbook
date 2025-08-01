@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-# Asking for materials and data 
+# Asking for materials and data
 
 Dear \[name of author(s)\], we are conducting replication research using
 some of your research. Specifically, we \[brief name of the phenomenon
@@ -48,10 +48,10 @@ replication studies to be submitted alongside comments from the authors
 of the original study. Your comment – if you choose to give one – will
 be part of the report.
 
-\- Citation of original study: \[add citation\] \
+\- Citation of original study: \[add citation\]\
 - Replication study:\[add link to document or attach it to the e-mail\]
 
 We are looking forward to your responses!
 
-Thank you \
+Thank you\
 *\[Your name\]*

@@ -1,0 +1,26 @@
+% Century Schoolbook-like font
+\usepackage{newcent}
+
+% Colors and page background
+\usepackage{xcolor}
+\definecolor{forrtbg}{HTML}{FEFDF6}
+\definecolor{FORRTblue}{HTML}{2C3E50}
+\pagecolor{forrtbg}
+
+% Section heading colors
+\addtokomafont{section}{\color{FORRTblue}}
+\addtokomafont{subsection}{\color{FORRTblue}}
+
+% Safe link color configuration
+\AtBeginDocument{
+  \hypersetup{
+    colorlinks=true,
+    linkcolor=FORRTblue,
+    urlcolor=FORRTblue,
+    citecolor=FORRTblue
+  }
+}
+
+% Line spacing for better readability
+\usepackage{setspace}
+\setstretch{1.25} % Slightly more space between lines; adjust as needed

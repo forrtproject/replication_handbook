@@ -69,6 +69,8 @@ book:
         - conclusion.qmd
     - references.qmd
 
+  downloads: [pdf]
+
   appendices:
     - contributions.qmd
     - appendix_templates.qmd

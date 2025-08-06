@@ -1,8 +1,6 @@
 ---
-title: "Understanding Replications and Reproductions"
+title: "Choosing the Target Study"
 ---
-
-# Choosing the Target Study {#choosing-the-target-study}
 
 Reproduction and replication studies can serve different goals and depending on the goal, the way of choosing a target study differs (see Pittelkow et al. 2023). In large-scale reproduction and replication projects, such as Brodeur et al. (2024), the Reproducibility Project: Psychology (Open Science Collaboration, 2015) or the Reproducibility Project: Cancer Biology (Errington et al., 2021), the primary aim is to assess the overall reliability of a field or a set of findings, leading to a top-down approach in which the decision to replicate comes first, followed by the selection of specific replication targets. This is often done in a way aimed to be representative of a field, ideally through random sampling, though this is generally constrained by practicalities. Here, individual studies are not the primary focus in the decision to repeat; instead, choices are guided by broader methodological or theoretical considerations. In contrast, individual researchers frequently adopt a bottom-up approach, where the decision to replicate is driven by engagement with a specific study (or theoretically related set of studies, e.g., Röseler, et al., 2021). This may occur when a researcher wishes to build upon an existing finding and seeks to verify its robustness before doing so, or when they harbor doubts about a claim and aim to test its validity. Since reproductions and replications can serve multiple purposes—from assessing theoretical frameworks to correcting potential errors—there is no singular correct way to decide what to repeat. The choice of targets ultimately depends on the overarching goals and methodological approach of the replication effort, as well as on practical constraints. However, what does matter is that the selection of reproduction and replication targets is well justified and transparently communicated. For instance, researchers can use structured frameworks such as the replication target selection checklist to ensure clarity and consistency in their decision-making process (Pittelkow et al. 2023). For a comment on what empirical reasons for replications are, see Kamermans et al. (2025).
 
@@ -71,7 +69,7 @@ In addition, the formation of the replication team is important, as replications
 *Types of repetitive research ordered by reproduction and replication and respective closeness to the original study.*
 
 | Type | Description | Goals |
-|:---|:---|:---|
+|:-----------------------|:-----------------------|:-----------------------|
 | Computational Reproduction | Reanalysis of the same data with the same code | Correctness of original report |
 | Recoding reproduction | Reanalysis of the same data, with new (equivalent) code | Correctness of original report |
 | Robustness Reproduction | Reanalysis of the same data with new coding choices; can vary in closeness | Robustness of original finding and sensitivity to different analytical decisions or software |

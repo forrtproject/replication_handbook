@@ -2,8 +2,6 @@
 title: "Understanding Replications and Reproductions"
 ---
 
-# Understanding Reproductions and Replications {#understanding-reproductions-and-replications}
-
 In this guide, we focus on studies that re-examine a previously tested hypothesis and refer to them as repetitions (i.e., reproductions and replications) with the general field being called repetitive research as suggested by Schöch (2023). However, it is important to note from the outset, that there is no overarching terminology or consensus (e.g., Voelkl et al., 2025), as the formal development of replication methods has begun relatively late in the social, behavioral, and cognitive sciences. For example, empirical psychology is more than 100 years old, but until the advent of the replication/reproducibility crisis in the early 2010s, replication methods have been rarely discussed (e.g., King, 1995). Different fields of research seem to tackle the task differently and independently, which has led to multiple overlapping terminologies across psychology (Schmidt, 2009; Hüffmeier et al., 2016), management (Tsang & Kwan, 1999), marketing (Urminsky & Dietvorst, 2024), organizational sciences (Köhler & Cortina, 2021), computer sciences (Heroux et al., 2018), language learning (MacManus, 2024), and the humanities (Schöch, 2023).
 
 ## ***Reproduction and Replication*** {#reproduction-and-replication}
@@ -17,7 +15,7 @@ Reproduction and replication should always be considered together and if possibl
 *Possible combinations of reproduction and replication outcomes.*
 
 | Case | Reproducible? | Replicable? | Possible interpretation |
-|----|----|----|:---|
+|------------------|------------------|------------------|:-----------------|
 | A | Yes | Yes | The original finding is reproducible and generalizable. |
 | B | Yes | No | The original finding is reproducible but not generalizable. |
 | C | No | Yes | The original finding is not reproducible but replicators could determine a scenario where it holds. |

@@ -1,11 +1,9 @@
 ---
-title: "Appendix"
+title: "Asking for materials and data"
 editor: 
   markdown: 
     wrap: 72
 ---
-
-# Asking for materials and data
 
 Dear \[name of author(s)\], we are conducting replication research using
 some of your research. Specifically, we \[brief name of the phenomenon

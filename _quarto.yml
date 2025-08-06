@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 book:
+  description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
   title: "Handbook on Conducting Reproduction and Replication Studies"
   author:
     - name: "Lukas Röseler*"
@@ -44,7 +45,6 @@ book:
     - name: "Flavio Azevedo"
       affiliation: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
       orcid: 0000-0001-9000-8513
-  description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
   reader-mode: true
   date: "08-01-2025"
   chapters:
@@ -90,13 +90,11 @@ format:
       light: [cosmo, theme.scss]
   pdf:
     documentclass: scrreprt
-    classoption: ["fontsize=11pt", "parskip=half", "headings=big", "numbers=noenddot"]
-    geometry:
-      - top=25mm
-      - bottom=25mm
-      - left=25mm
-      - right=25mm
+    classoption: ["openany", "fontsize=11pt", "parskip=half", "headings=big", "numbers=noenddot"]
+    geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
     colorlinks: true
     link-citations: true
     include-in-header: preamble.tex
     include-before-body: cover-page.tex
+    title: ""      # disables title in PDF
+    author: ""     # disables authors in PDF

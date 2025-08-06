@@ -120,7 +120,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Abstract</span></span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -158,7 +158,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./choosing_study.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Understanding Replications and Reproductions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Choosing the Target Study</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -251,7 +251,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./appendix_templates.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Appendix</span></span></a>
+ <span class="menu-text"><span class="chapter-number">B</span>&nbsp; <span class="chapter-title">Asking for materials and data</span></span></a>
   </div>
 </li>
       </ul>
@@ -300,8 +300,8 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="gathering-resources" class="level3" data-number="6.0.1">
 <h3 data-number="6.0.1" class="anchored" data-anchor-id="gathering-resources"><span class="header-section-number">6.0.1</span> <strong>Gathering resources</strong></h3>
-<p>Prerequisites for reproduction studies are available data and ideally also code. These are usually linked within the manuscript and shared via repositories (e.g., Zenodo, OSF.io, github.com, gitlab.com) or they are part of the supplemental materials that are listed on the article’s website. In special cases, an entire original manuscript may be reproducible and written in Markdown language. Researchers searching for target studies to reproduce can check topfactor.org and filter for Data transparency level 3 (<a href="https://topfactor.org/journals?factor=Data+Transparency">https://topfactor.org/journals?factor=Data+Transparency</a>; will no longer be updated. They can also use the extensive database of economics studies with available data compiled by Sebastian Kranz (<a href="https://ejd.econ.mathematik.uni-ulm.de/">https://ejd.econ.mathematik.uni-ulm.de/</a>).</p>
-<p>If data are not publicly available, researchers can contact the authors of the original study. In this case, we recommend them to adhere to <em>Guide for Accelerating Computational Reproducibility in the Social Sciences</em> (ACRE) guidelines for constructive communication (Berkeley Initiative for Transparency in the Social Sciences, 2020; <a href="https://bitss.github.io/ACRE/comunications.html">https://bitss.github.io/ACRE/comunications.html</a>).</p>
+<p>Prerequisites for reproduction studies are available data and ideally also code. These are usually linked within the manuscript and shared via repositories (e.g., Zenodo, OSF.io, github.com, gitlab.com) or they are part of the supplemental materials that are listed on the article’s website. In special cases, an entire original manuscript may be reproducible and written in Markdown language. Researchers searching for target studies to reproduce can check topfactor.org and filter for Data transparency level 3 (<a href="https://topfactor.org/journals?factor=Data+Transparency" class="uri">https://topfactor.org/journals?factor=Data+Transparency</a>; will no longer be updated. They can also use the extensive database of economics studies with available data compiled by Sebastian Kranz (<a href="https://ejd.econ.mathematik.uni-ulm.de/" class="uri">https://ejd.econ.mathematik.uni-ulm.de/</a>).</p>
+<p>If data are not publicly available, researchers can contact the authors of the original study. In this case, we recommend them to adhere to <em>Guide for Accelerating Computational Reproducibility in the Social Sciences</em> (ACRE) guidelines for constructive communication (Berkeley Initiative for Transparency in the Social Sciences, 2020; <a href="https://bitss.github.io/ACRE/comunications.html" class="uri">https://bitss.github.io/ACRE/comunications.html</a>).</p>
 <p>When re-using data, researchers need to respect licenses. Generally, research data should be licensed openly, that is re-use and alteration should be permitted, likely requiring citation of the original resource (e.g., CC-BY 4.0 Attribution). Note, however, that non-derivative licenses may prohibit reproductions; in that case separate approval would be required from the copyright holder.</p>
 <p>When it comes to reporting, Ankel-Peters et al.&nbsp;(2025) provide a table for reporting results from the computational reproduction that includes resource availability (e.g., raw data, cleaning code, analysis code).</p>
 </section>
@@ -324,7 +324,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="analysis" class="level3" data-number="6.0.6">
 <h3 data-number="6.0.6" class="anchored" data-anchor-id="analysis"><span class="header-section-number">6.0.6</span> <strong>Analysis</strong></h3>
-<p>The main part of the reproduction is the analysis. Factors that are potentially relevant for reproduction success include the software of the machine that is running the code as well as versions of the software and additional packages or plug-ins. For example, users of the open source software R can get a comprehensive overview of the program version and their machine using the function sessionInfo(), which should be included in supplementary materials. For python users, a package has been developed to run a similar function session_info.show() (<a href="https://gitlab.com/joelostblom/session_info">https://gitlab.com/joelostblom/session_info</a>).</p>
+<p>The main part of the reproduction is the analysis. Factors that are potentially relevant for reproduction success include the software of the machine that is running the code as well as versions of the software and additional packages or plug-ins. For example, users of the open source software R can get a comprehensive overview of the program version and their machine using the function sessionInfo(), which should be included in supplementary materials. For python users, a package has been developed to run a similar function session_info.show() (<a href="https://gitlab.com/joelostblom/session_info" class="uri">https://gitlab.com/joelostblom/session_info</a>).</p>
 <p>Apart from a numerical reproduction where the same code is used, reproduction researchers can explore alternative ways that should and should not affect the results, test new hypotheses or theories, and run exploratory analyses. Their report should be clearly structured to discern these methods. Finally, for statistical analyses, the reproduction report should include reproducibility indicators (Dreber &amp; Johannesson, 2024) that summarize statistical significance and relative effect sizes across the original and reproduction results. Ankle-Peters et al.&nbsp;(2025) recommend a visual summary of these indicators in the form of a reproducibility dashboard and specification curves (e.g., Simonsohn et al., 2020, see also Mazei et al., 2025). We strongly recommend reproduction researchers to consult the respective resources for further details.</p>
 </section>
 <section id="discussion" class="level3" data-number="6.0.7">

@@ -2,7 +2,7 @@
 title: "Execution of Replications"
 ---
 
-### **Preregistration and Registered (Replication) Reports** {#preregistration-and-registered-(replication)-reports}
+### **Preregistration and Registered (Replication) Reports** {#{#preregistration-and-registered-(replication)-reports}}
 
 Due to the replications being met with skepticism, we encourage researchers to adhere to the highest standards of openness and transparency. This includes preregistering the replication including the analysis plan (ideally with an analysis code that was tested beforehand using data from test runs or simulations), and criteria for the results to distinguish between a replication success and failure. A preregistration without an analysis plan provides no safeguard against *p*-hacking (Brodeur et al., 2024). Beware that these criteria can be structured sequentially. For example, if there is a manipulation check, it can be defined that it has to work for the replicability to actually be evaluated. Boyce et al. (2024) also found that repeating unsuccessful replications did not change the outcomes unless obvious weaknesses were fixed.
 

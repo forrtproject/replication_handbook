@@ -23,4 +23,9 @@
 
 % Line spacing for better readability
 \usepackage{setspace}
-\setstretch{1.25} % Slightly more space between lines; adjust as needed
+\setstretch{1.5} % Slightly more space between lines; adjust as needed
+
+% Reduce font size for all tables in PDF
+\usepackage{etoolbox}
+\AtBeginEnvironment{longtable}{\small}
+\AtBeginEnvironment{tabular}{\small}

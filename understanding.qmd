@@ -15,7 +15,7 @@ Reproduction and replication should always be considered together and if possibl
 *Possible combinations of reproduction and replication outcomes.*
 
 | Case | Reproducible? | Replicable? | Possible interpretation |
-|------------------|------------------|------------------|:-----------------|
+|----|----|----|:---|
 | A | Yes | Yes | The original finding is reproducible and generalizable. |
 | B | Yes | No | The original finding is reproducible but not generalizable. |
 | C | No | Yes | The original finding is not reproducible but replicators could determine a scenario where it holds. |

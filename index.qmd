@@ -7,3 +7,8 @@ The practice of repeatedly testing published results with the same data (reprodu
 ![](images/clipboard-410410403.png){width="316"}
 
 ![](images/mücos_forrt.png){width="298"}
+
+```{r}
+#| echo: false
+cat(paste("Last update:", Sys.Date()))
+```

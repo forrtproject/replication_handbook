@@ -4,7 +4,7 @@ project:
 
 book:
   description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
-  title: "Handbook on Conducting Reproduction and Replication Studies"
+  title: "Handbook for Reproduction and Replication Studies"
   author:
     - name: "Lukas Röseler*"
       affiliation: "Münster Center for Open Science, University of Münster, Germany"
@@ -46,7 +46,7 @@ book:
       affiliation: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
       orcid: 0000-0001-9000-8513
   reader-mode: true
-  date: "08-01-2025"
+  date: "08-15-2025"
   chapters:
     - index.qmd
     - part: "Foundations"
@@ -77,7 +77,7 @@ book:
 
   page-footer:
     center: |
-       Röseler, L.\*, Wallrich, L.\*, Hartmann, H., Hüffmeier, J., Goltermann, J., Pennington, C. R., Boyce, V., Field, S. M., Pittelkow, M.-M., Silverstein, P., van Ravenzwaaij, D., Azevedo, F. (2025). Handbook on Conducting Reproduction and Replication Studies. https://forrt.org/replication_guide *shared first authorship
+       Röseler, L.\*, Wallrich, L.\*, Hartmann, H., Hüffmeier, J., Goltermann, J., Pennington, C. R., Boyce, V., Field, S. M., Pittelkow, M.-M., Silverstein, P., van Ravenzwaaij, D., Azevedo, F. (2025). Handbook for Reproduction and Replication Studies. https://forrt.org/replication_guide *shared first authorship
   favicon: images/favicon.png
   cookie-consent: false
   repo-url: https://github.com/forrtproject/replication_guide/
@@ -98,3 +98,5 @@ format:
     include-before-body: cover-page.tex
     title: ""      # disables title in PDF
     author: ""     # disables authors in PDF
+
+editor: visual

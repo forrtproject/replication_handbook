@@ -3,7 +3,7 @@ title: "Author Contributions"
 ---
 
 | No. | Author (last name, first name) | ORCID-ID | Contribution (CRediT) | Affiliation |
-|:--------------|:--------------|:--------------|:--------------|:--------------|
+|:---|:---|:---|:---|:---|
 | 1 | Röseler, Lukas\* ✉ | <https://orcid.org/0000-0002-6446-1901> | Conceptualization, Project Administration, Writing – original draft, Writing – review & editing | Münster Center for Open Science, University of Münster |
 | 2 | Wallrich, Lukas\* ✉ | <https://orcid.org/0000-0003-2121-5177> | Writing – original draft, Writing – review & editing | Birkbeck Business School, University of London |
 | 3 | Hartmann, Helena | <https://orcid.org/0000-0002-1331-6683> | Writing – original draft, Writing – review & editing | Department for Neurology and Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Hospital Essen |

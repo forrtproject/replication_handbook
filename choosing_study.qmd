@@ -69,7 +69,7 @@ In addition, the formation of the replication team is important, as replications
 *Types of repetitive research ordered by reproduction and replication and respective closeness to the original study.*
 
 | Type | Description | Goals |
-|:-----------------------|:-----------------------|:-----------------------|
+|:---|:---|:---|
 | Computational Reproduction | Reanalysis of the same data with the same code | Correctness of original report |
 | Recoding reproduction | Reanalysis of the same data, with new (equivalent) code | Correctness of original report |
 | Robustness Reproduction | Reanalysis of the same data with new coding choices; can vary in closeness | Robustness of original finding and sensitivity to different analytical decisions or software |

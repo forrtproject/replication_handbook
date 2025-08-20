@@ -6,11 +6,11 @@ title: "Discussion"
 
 There is no strong consensus yet on what constitutes a replication success and some approaches can be biased (e.g., Schauer & Hedges, 2021) or imprecise (Patil et al., 2016b). Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs. failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or *p*-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their pre-registration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.
 
-Below, we briefly present different approaches to assessing replication success. For a review and a computational implementation of these and other replication success criteria, see also Heyard et al., 2025; Muradchanian et al., 2021; Röseler & Wallrich, 2024; Errington et al., 2021, Table 1).
+Below, we present different approaches to assessing replication success as summarized by Heyard et al. (2025; see also Muradchanian et al., 2021; Röseler & Wallrich, 2024; Errington et al., 2021, Table 1).
 
 **Table 3**
 
-*Quantitative criteria to operationalize replication success*
+*Criteria to operationalize replication success (excerpt from Heyard et al., 2025)*
 
 ```{r}
 #| label: success criteria
@@ -55,7 +55,7 @@ names(rs) <- gsub("\\.", " ", names(rs)) # replace "." with " " in variable name
 knitr::kable(rs, caption = "Success Criteria Table")
 ```
 
-*Note*. For reference and descriptions see the full table by Heyard et al. (2025, Table 4) also available at [http://rachelheyard.com/reproducibility_metrics/#table](#0). Reused in accordance with the CC-BY license of the published article and the OSF-project ([https://osf.io/sbcy3](#0)).
+*Note*. For reference and descriptions see the full table by Heyard et al. (2025, Table 4) also available at [http://rachelheyard.com/reproducibility_metrics/#table](http://localhost:3962/discussion.html#0). Reused in accordance with the CC-BY license of the published article and the OSF-project ([https://osf.io/sbcy3](http://localhost:3962/discussion.html#0)).
 
 #### Interpreting Divergent Results (Replication Failures) {#interpreting-divergent-results-(replication-failures)}
 
@@ -75,7 +75,12 @@ Each replication outcome should be evaluated in the light of its closeness, whic
 
 *Interpretation of replication outcomes depend on similarity of closeness and results as well as the view (inductive vs. deductive).*
 
-\![\]\[image5\]
+![](img/hlf_Image_5.png)
+
+*Note.*
+
+-   Inductive or phenomenon-oriented views assume minimal generalizability of the original finding. For example, they cannot cast doubts on the original finding unless the replication is highly similar to the original study.\
+-   Deductive or theory-oriented views assume maximal generality of a theory. For example, different results (i.e., replication failures) cast doubts on the *theory* regardless of the replication type.
 
 #### Comments from the Original Study’s Authors {#comments-from-the-original-study’s-authors}
 

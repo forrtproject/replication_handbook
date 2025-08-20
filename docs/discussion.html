@@ -205,7 +205,7 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./execution_replications.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title"><strong>Preregistration and Registered (Replication) Reports</strong></span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -318,9 +318,9 @@ window.Quarto = {
 <section id="defining-and-determining-replication-success" class="level4" data-number="7.0.0.1">
 <h4 data-number="7.0.0.1" class="anchored" data-anchor-id="defining-and-determining-replication-success"><span class="header-section-number">7.0.0.1</span> Defining and Determining Replication Success</h4>
 <p>There is no strong consensus yet on what constitutes a replication success and some approaches can be biased (e.g., Schauer &amp; Hedges, 2021) or imprecise (Patil et al., 2016b). Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs.&nbsp;failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or <em>p</em>-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their pre-registration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.</p>
-<p>Below, we briefly present different approaches to assessing replication success. For a review and a computational implementation of these and other replication success criteria, see also Heyard et al., 2025; Muradchanian et al., 2021; Röseler &amp; Wallrich, 2024; Errington et al., 2021, Table 1).</p>
+<p>Below, we present different approaches to assessing replication success as summarized by Heyard et al.&nbsp;(2025; see also Muradchanian et al., 2021; Röseler &amp; Wallrich, 2024; Errington et al., 2021, Table 1).</p>
 <p><strong>Table 3</strong></p>
-<p><em>Quantitative criteria to operationalize replication success</em></p>
+<p><em>Criteria to operationalize replication success (excerpt from Heyard et al., 2025)</em></p>
 <div class="cell">
 <div class="cell-output-display">
 <table class="caption-top table table-sm table-striped small">
@@ -592,7 +592,7 @@ window.Quarto = {
 </table>
 </div>
 </div>
-<p><em>Note</em>. For reference and descriptions see the full table by Heyard et al.&nbsp;(2025, Table 4) also available at <a href="#0">http://rachelheyard.com/reproducibility_metrics/#table</a>. Reused in accordance with the CC-BY license of the published article and the OSF-project (<a href="#0">https://osf.io/sbcy3</a>).</p>
+<p><em>Note</em>. For reference and descriptions see the full table by Heyard et al.&nbsp;(2025, Table 4) also available at <a href="http://localhost:3962/discussion.html#0">http://rachelheyard.com/reproducibility_metrics/#table</a>. Reused in accordance with the CC-BY license of the published article and the OSF-project (<a href="http://localhost:3962/discussion.html#0">https://osf.io/sbcy3</a>).</p>
 </section>
 <section id="interpreting-divergent-results-replication-failures-interpreting-divergent-results-replication-failures" class="level4" data-number="7.0.0.2">
 <h4 data-number="7.0.0.2" class="anchored" data-anchor-id="interpreting-divergent-results-replication-failures-interpreting-divergent-results-replication-failures"><span class="header-section-number">7.0.0.2</span> Interpreting Divergent Results (Replication Failures) {#interpreting-divergent-results-(replication-failures)}</h4>
@@ -608,7 +608,13 @@ window.Quarto = {
 <p>Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in Figure 5 and integrated from previous accounts by Borgstede and Scholz (2021) and Freese and Peterson (2017, Figure 3).</p>
 <p><strong>Figure 5</strong></p>
 <p><em>Interpretation of replication outcomes depend on similarity of closeness and results as well as the view (inductive vs.&nbsp;deductive).</em></p>
-<p>![][image5]</p>
+<p><img src="img/hlf_Image_5.png" class="img-fluid"></p>
+<p><em>Note.</em></p>
+<ul>
+<li>Inductive or phenomenon-oriented views assume minimal generalizability of the original finding. For example, they cannot cast doubts on the original finding unless the replication is highly similar to the original study.<br>
+</li>
+<li>Deductive or theory-oriented views assume maximal generality of a theory. For example, different results (i.e., replication failures) cast doubts on the <em>theory</em> regardless of the replication type.</li>
+</ul>
 </section>
 <section id="comments-from-the-original-studys-authors-comments-from-the-original-studys-authors" class="level4" data-number="7.0.0.4">
 <h4 data-number="7.0.0.4" class="anchored" data-anchor-id="comments-from-the-original-studys-authors-comments-from-the-original-studys-authors"><span class="header-section-number">7.0.0.4</span> Comments from the Original Study’s Authors {#comments-from-the-original-study’s-authors}</h4>
@@ -1040,8 +1046,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./execution_replications.html" class="pagination-link" aria-label="Execution of Replications">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span>
+      <a href="./execution_replications.html" class="pagination-link" aria-label="**Preregistration and Registered (Replication) Reports**">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title"><strong>Preregistration and Registered (Replication) Reports</strong></span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">

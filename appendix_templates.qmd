@@ -5,12 +5,14 @@ editor:
     wrap: 72
 ---
 
-Dear \[name of author(s)\], we are conducting replication research using
-some of your research. Specifically, we \[brief name of the phenomenon
-and study that was replicated\]. \[We do this because … e.g., your
-research addresses a very important question.\] Can you please send us
-the following materials to help us design a replication as close as
-possible to your original study?
+Dear \[name of author(s)\],
+
+we are conducting replication research using some of your research.
+Specifically, we \[brief name of the phenomenon and study that was
+replicated\]. \[We do this because … e.g., your research addresses a
+very important question.\] Can you please send us the following
+materials to help us design a replication as close as possible to your
+original study?
 
 -   \[list of required materials/data/code\]
 
@@ -32,19 +34,20 @@ possible to your original study?
     and I will note this sample decision prominently in any writeups.\]
 
 Thanks again,\
-Your name Signature
+\[*Your* *name*\]
 
 # Asking for comments on replication results
 
-Dear \[name of author(s)\], we have conducted replication research using
-some of your research. Specifically, we \[brief name of the phenomenon
-and study that was replicated\]. In our study \[description of
-results\]. We want to provide you with an opportunity to comment on
-these findings. We plan to publish the replication report via \[paper or
-publication platform, e.g., FORRT’s Replication Hub\], which asks
-replication studies to be submitted alongside comments from the authors
-of the original study. Your comment – if you choose to give one – will
-be part of the report.
+Dear \[name of author(s)\],
+
+we have conducted replication research using some of your research.
+Specifically, we \[brief name of the phenomenon and study that was
+replicated\]. In our study \[description of results\]. We want to
+provide you with an opportunity to comment on these findings. We plan to
+publish the replication report via \[paper or publication platform,
+e.g., FORRT’s Replication Hub\], which asks replication studies to be
+submitted alongside comments from the authors of the original study.
+Your comment – if you choose to give one – will be part of the report.
 
 \- Citation of original study: \[add citation\]\
 - Replication study:\[add link to document or attach it to the e-mail\]
@@ -53,3 +56,4 @@ We are looking forward to your responses!
 
 Thank you\
 *\[Your name\]*
+

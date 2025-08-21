@@ -1,0 +1,30 @@
+// theme.scss
+
+/*-- scss:defaults --*/
+// Base document colors
+$body-bg: #fefdf6;
+$body-color: #000;
+$link-color: #009DD1;
+
+// Code blocks
+$code-block-bg-alpha: -.9;
+
+// Set background color
+body {
+  background-color: #fefdf6 !important;
+  color: #000 !important;
+}
+
+// Use Century Schoolbook font if available, otherwise fallback
+body, p, h1, h2, h3, h4, h5, h6, .nav-tabs, .nav, .list-group {
+  font-family: "Century Schoolbook", "Century Schoolbook L", "Georgia", serif;
+}
+
+// Override code block font
+code, pre {
+  font-family: "Fira Mono", "Consolas", monospace;
+}
+
+main.content {
+  padding: 2rem;
+}

@@ -1,0 +1,5859 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1016/j.jbusres.2023.114189",
+            "author": [
+                {
+                    "family": "Adler",
+                    "given": "S. J."
+                },
+                {
+                    "family": "Röseler",
+                    "given": "L."
+                },
+                {
+                    "family": "Schöniger",
+                    "given": "M. K."
+                }
+            ],
+            "container-title": "Journal of Business Research",
+            "id": "AdlerEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "114189",
+            "title": "A toolbox to evaluate the trustworthiness of published findings",
+            "type": "article-journal",
+            "volume": "167"
+        },
+        {
+            "DOI": "10.1002/smj.3015",
+            "author": [
+                {
+                    "family": "Aguinis",
+                    "given": "H."
+                },
+                {
+                    "family": "Solarino",
+                    "given": "A. M."
+                }
+            ],
+            "container-title": "Strategic Management Journal",
+            "id": "AguinisSolarino2019",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "1291-1315",
+            "title": "Transparency and replicability in qualitative research: The case of interviews with elite informants",
+            "title-short": "Transparency and replicability in qualitative research",
+            "type": "article-journal",
+            "volume": "40"
+        },
+        {
+            "DOI": "10.1037/met0000051",
+            "author": [
+                {
+                    "family": "Anderson",
+                    "given": "S. F."
+                },
+                {
+                    "family": "Maxwell",
+                    "given": "S. E."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "AndersonMaxwell2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "1",
+            "title": "There’s more than one way to conduct a replication study: Beyond statistical significance",
+            "title-short": "There’s more than one way to conduct a replication study",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "DOI": "10.1093/qopen/qoaf004",
+            "author": [
+                {
+                    "family": "Ankel-Peters",
+                    "given": "J."
+                },
+                {
+                    "family": "Brodeur",
+                    "given": "A."
+                },
+                {
+                    "family": "Dreber",
+                    "given": "A."
+                },
+                {
+                    "family": "Johannesson",
+                    "given": "M."
+                },
+                {
+                    "family": "Neubauer",
+                    "given": "F."
+                },
+                {
+                    "family": "Rose",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Q Open",
+            "id": "AnkelPetersEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "page": "qoaf004",
+            "title": "A protocol for structured robustness reproductions and replicability assessments",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.jebo.2023.05.009",
+            "author": [
+                {
+                    "family": "Ankel-Peters",
+                    "given": "J."
+                },
+                {
+                    "family": "Fiala",
+                    "given": "N."
+                },
+                {
+                    "family": "Neubauer",
+                    "given": "F."
+                }
+            ],
+            "container-title": "Journal of Economic Behavior & Organization",
+            "id": "AnkelPetersEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "219-232",
+            "title": "Do economists replicate?",
+            "type": "article-journal",
+            "volume": "212"
+        },
+        {
+            "DOI": "10.1177/1745691612459060",
+            "author": [
+                {
+                    "family": "Bakker",
+                    "given": "M."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Dijk",
+                    "given": "A."
+                },
+                {
+                    "family": "Wicherts",
+                    "given": "J. M."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "BakkerEtAl2012",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "543-554",
+            "title": "The rules of the game called psychological science",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.1002/ejsp.336",
+            "author": [
+                {
+                    "family": "Bargh",
+                    "given": "J. A."
+                }
+            ],
+            "container-title": "European Journal of Social Psychology",
+            "id": "Bargh2006",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006
+                    ]
+                ]
+            },
+            "page": "147-168",
+            "title": "What have we been priming all these years? On the development, mechanisms, and ecology of nonconscious social behavior",
+            "type": "article-journal",
+            "volume": "36"
+        },
+        {
+            "DOI": "10.15626/MP.2021.2720",
+            "author": [
+                {
+                    "family": "Bartoš",
+                    "given": "F."
+                },
+                {
+                    "family": "Schimmack",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Meta-Psychology",
+            "id": "BartosSchimmack2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Z-curve 2.0: Estimating replication rates and discovery rates",
+            "title-short": "Z-curve 2.0",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1177/1745691616652878",
+            "author": [
+                {
+                    "family": "Baumeister",
+                    "given": "R. F."
+                },
+                {
+                    "family": "Vohs",
+                    "given": "K. D."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "BaumeisterVohs2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "574-575",
+            "title": "Misguided effort with elusive implications",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1177/17456916221121815",
+            "author": [
+                {
+                    "family": "Baumeister",
+                    "given": "R. F."
+                },
+                {
+                    "family": "Tice",
+                    "given": "D. M."
+                },
+                {
+                    "family": "Bushman",
+                    "given": "B. J."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "BaumeisterEtAl2022",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "912-935",
+            "title": "A review of multisite replication projects in social psychology: Is it viable to sustain any confidence in social psychology’s knowledge base?",
+            "title-short": "A review of multisite replication projects in social psychology",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "DOI": "10.31234/osf.io/uj5g7",
+            "author": [
+                {
+                    "family": "Bekkers",
+                    "given": "R."
+                }
+            ],
+            "id": "Bekkers2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Replication value: A comment and alternative",
+            "title-short": "Replication value",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/03616843211036460",
+            "author": [
+                {
+                    "family": "Bennett",
+                    "given": "E. A."
+                }
+            ],
+            "container-title": "Psychology of Women Quarterly",
+            "id": "Bennett2021",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "448-456",
+            "title": "Open science from a qualitative, feminist perspective: Epistemological dogmas and a call for critical examination",
+            "title-short": "Open science from a qualitative, feminist perspective",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "DOI": "10.1017/pan.2020.34",
+            "author": [
+                {
+                    "family": "Berinsky",
+                    "given": "A. J."
+                },
+                {
+                    "family": "Druckman",
+                    "given": "J. N."
+                },
+                {
+                    "family": "Yamamoto",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Political Analysis",
+            "id": "BerinskyEtAl2021",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "370-384",
+            "title": "Publication biases in replication studies",
+            "type": "article-journal",
+            "volume": "29"
+        },
+        {
+            "URL": "https://bitss.github.io/ACRE/",
+            "author": [
+                {
+                    "literal": "Berkeley Initiative for Transparency in the Social Sciences"
+                }
+            ],
+            "id": "BITSS2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "title": "Guide for advancing computational reproducibility in the social sciences",
+            "type": "report"
+        },
+        {
+            "DOI": "10.23668/PSYCHARCHIVES.5121",
+            "author": [
+                {
+                    "family": "Beyer",
+                    "given": "F."
+                },
+                {
+                    "family": "Flannery",
+                    "given": "J."
+                },
+                {
+                    "family": "Gau",
+                    "given": "R."
+                },
+                {
+                    "family": "Janssen",
+                    "given": "L."
+                },
+                {
+                    "family": "Schaare",
+                    "given": "L."
+                },
+                {
+                    "family": "Hartmann",
+                    "given": "H."
+                },
+                {
+                    "family": "Nilsonne",
+                    "given": "G."
+                },
+                {
+                    "family": "Martin",
+                    "given": "S."
+                },
+                {
+                    "family": "Khalil",
+                    "given": "A."
+                },
+                {
+                    "family": "Lipp",
+                    "given": "I."
+                },
+                {
+                    "family": "Puhlmann",
+                    "given": "L."
+                },
+                {
+                    "family": "Heinrichs",
+                    "given": "H."
+                },
+                {
+                    "family": "Mohamed",
+                    "given": "A."
+                },
+                {
+                    "family": "Herholz",
+                    "given": "P."
+                },
+                {
+                    "family": "Sicorello",
+                    "given": "M."
+                },
+                {
+                    "family": "Panagoulas",
+                    "given": "E."
+                }
+            ],
+            "container-title": "PsychArchives",
+            "id": "BeyerEtAl2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "title": "A fMRI pre-registration template",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1007/s11301-018-0149-3",
+            "author": [
+                {
+                    "family": "Block",
+                    "given": "J."
+                },
+                {
+                    "family": "Kuckertz",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Management Review Quarterly",
+            "id": "BlockKuckertz2018",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "355-359",
+            "title": "Seven principles of effective replication studies: Strengthening the evidence base of management research",
+            "title-short": "Seven principles of effective replication studies",
+            "type": "article-journal",
+            "volume": "68"
+        },
+        {
+            "DOI": "10.1177/1094428120911088",
+            "author": [
+                {
+                    "family": "Bonett",
+                    "given": "D. G."
+                }
+            ],
+            "container-title": "Organizational Research Methods",
+            "id": "Bonett2021",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "513-529",
+            "title": "Design and analysis of replication studies",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.3389/fpsyg.2021.605191",
+            "author": [
+                {
+                    "family": "Borgstede",
+                    "given": "M."
+                },
+                {
+                    "family": "Scholz",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Frontiers in Psychology",
+            "id": "BorgstedeScholz2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "605191",
+            "title": "Quantitative and qualitative approaches to generalization and replication–a representationalist view",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "DOI": "10.1016/j.hrmr.2016.09.013",
+            "author": [
+                {
+                    "family": "Bosco",
+                    "given": "F. A."
+                },
+                {
+                    "family": "Uggerslev",
+                    "given": "K. L."
+                },
+                {
+                    "family": "Steel",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Human Resource Management Review",
+            "id": "BoscoEtAl2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "237-254",
+            "title": "MetaBUS as a vehicle for facilitating meta-analysis",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "author": [
+                {
+                    "family": "Botvinik-Nezer",
+                    "given": "R."
+                },
+                {
+                    "family": "Holzmeister",
+                    "given": "F."
+                },
+                {
+                    "family": "Camerer",
+                    "given": "C. F."
+                },
+                {
+                    "family": "Dreber",
+                    "given": "A."
+                },
+                {
+                    "family": "Huber",
+                    "given": "J."
+                },
+                {
+                    "family": "Johannesson",
+                    "given": "M."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Rieck",
+                    "given": "J. R."
+                }
+            ],
+            "container-title": "Nature",
+            "id": "BotvinikNezerEtAl2020",
+            "issue": "7810",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "84-88",
+            "title": "Variability in the analysis of a single neuroimaging dataset by many teams",
+            "type": "article-journal",
+            "volume": "582"
+        },
+        {
+            "DOI": "10.31234/osf.io/an3yb",
+            "author": [
+                {
+                    "family": "Boyce",
+                    "given": "V."
+                },
+                {
+                    "family": "Prystawski",
+                    "given": "B."
+                },
+                {
+                    "family": "Abutto",
+                    "given": "A. B."
+                },
+                {
+                    "family": "Chen",
+                    "given": "E. M."
+                },
+                {
+                    "family": "Chen",
+                    "given": "Z."
+                },
+                {
+                    "family": "Chiu",
+                    "given": "H."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Frank",
+                    "given": "M. C."
+                }
+            ],
+            "id": "BoyceEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5
+                    ]
+                ]
+            },
+            "title": "Estimating the replicability of psychology experiments after an initial failure to replicate",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.jesp.2013.10.005",
+            "author": [
+                {
+                    "family": "Brandt",
+                    "given": "M. J."
+                },
+                {
+                    "family": "IJzerman",
+                    "given": "H."
+                },
+                {
+                    "family": "Dijksterhuis",
+                    "given": "A."
+                },
+                {
+                    "family": "Farach",
+                    "given": "F. J."
+                },
+                {
+                    "family": "Geller",
+                    "given": "J."
+                },
+                {
+                    "family": "Giner-Sorolla",
+                    "given": "R."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Van’t Veer",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Journal of Experimental Social Psychology",
+            "id": "BrandtEtAl2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "217-224",
+            "title": "The replication recipe: What makes for a convincing replication?",
+            "title-short": "The replication recipe",
+            "type": "article-journal",
+            "volume": "50"
+        },
+        {
+            "DOI": "10.1086/730455",
+            "author": [
+                {
+                    "family": "Brodeur",
+                    "given": "A."
+                },
+                {
+                    "family": "Cook",
+                    "given": "N. M."
+                },
+                {
+                    "family": "Hartley",
+                    "given": "J. S."
+                },
+                {
+                    "family": "Heyes",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Journal of Political Economy Microeconomics",
+            "id": "BrodeurEtAl2024a",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "527-561",
+            "title": "Do preregistration and preanalysis plans reduce p-hacking and publication bias? Evidence from 15,992 test statistics and suggestions for improvement",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.1038/s41562-023-01807-2",
+            "author": [
+                {
+                    "family": "Brodeur",
+                    "given": "A."
+                },
+                {
+                    "family": "Dreber",
+                    "given": "A."
+                },
+                {
+                    "family": "Hoces de la Guardia",
+                    "given": "F."
+                },
+                {
+                    "family": "Miguel",
+                    "given": "E."
+                }
+            ],
+            "container-title": "Nature Human Behaviour",
+            "id": "BrodeurEtAl2024b",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "2-3",
+            "title": "Reproduction and replication at scale",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.2139/ssrn.4790780",
+            "author": [
+                {
+                    "family": "Brodeur",
+                    "given": "A."
+                },
+                {
+                    "family": "Mikola",
+                    "given": "D."
+                },
+                {
+                    "family": "Cook",
+                    "given": "N."
+                }
+            ],
+            "id": "BrodeurEtAl2024c",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Mass reproducibility and replicability: A new hope",
+            "title-short": "Mass reproducibility and replicability",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1073/pnas.1910951116",
+            "author": [
+                {
+                    "family": "Bryan",
+                    "given": "C. J."
+                },
+                {
+                    "family": "Yeager",
+                    "given": "D. S."
+                },
+                {
+                    "family": "O’Brien",
+                    "given": "J. M."
+                }
+            ],
+            "container-title": "Proceedings of the National Academy of Sciences",
+            "id": "BryanEtAl2019",
+            "issue": "51",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "25535-25545",
+            "title": "Replicator degrees of freedom allow publication of misleading failures to replicate",
+            "type": "article-journal",
+            "volume": "116"
+        },
+        {
+            "DOI": "10.31234/osf.io/c6r8x",
+            "author": [
+                {
+                    "family": "Buttliere",
+                    "given": "B."
+                }
+            ],
+            "id": "Buttliere2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Was this registered report pilot tested? Examination of vaidis, sleegers, van leeuwen, DeMarree, ... & priolo, d. (2024)",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1038/nrn3475",
+            "author": [
+                {
+                    "family": "Button",
+                    "given": "K."
+                },
+                {
+                    "family": "Ioannidis",
+                    "given": "J."
+                },
+                {
+                    "family": "Mokrysz",
+                    "given": "C."
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Nature Reviews Neuroscience",
+            "id": "ButtonEtAl2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "365-376",
+            "title": "Power failure: Why small sample size undermines the reliability of neuroscience",
+            "title-short": "Power failure",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.1086/208856",
+            "author": [
+                {
+                    "family": "Calder",
+                    "given": "B. J."
+                },
+                {
+                    "family": "Phillips",
+                    "given": "L. W."
+                },
+                {
+                    "family": "Tybout",
+                    "given": "A. M."
+                }
+            ],
+            "container-title": "Journal of Consumer Research",
+            "id": "CalderEtAl1981",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1981
+                    ]
+                ]
+            },
+            "page": "197-207",
+            "title": "Designing research for application",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1177/2515245919847196",
+            "author": [
+                {
+                    "family": "Carter",
+                    "given": "E. C."
+                },
+                {
+                    "family": "Schönbrodt",
+                    "given": "F. D."
+                },
+                {
+                    "family": "Gervais",
+                    "given": "W. M."
+                },
+                {
+                    "family": "Hilgard",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "CarterEtAl2019",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "115-144",
+            "title": "Correcting for bias in psychology: A comparison of meta-analytic methods",
+            "title-short": "Correcting for bias in psychology",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.1037/0022-3514.76.6.893",
+            "author": [
+                {
+                    "family": "Chartrand",
+                    "given": "T. L."
+                },
+                {
+                    "family": "Bargh",
+                    "given": "J. A."
+                }
+            ],
+            "container-title": "Journal of Personality and Social Psychology",
+            "id": "ChartrandBargh1999",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "page": "893",
+            "title": "The chameleon effect: The perception–behavior link and social interaction",
+            "title-short": "The chameleon effect",
+            "type": "article-journal",
+            "volume": "76"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/YU25A",
+            "author": [
+                {
+                    "family": "Cheng",
+                    "given": "Y. T."
+                },
+                {
+                    "family": "Feldman",
+                    "given": "G."
+                }
+            ],
+            "id": "ChengFeldman2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Do pain and effort increase prosocial contributions?: Revisiting the martyrdom effect with a replication and extensions registered report of olivola and shafir (2013)[stage 1]",
+            "title-short": "Do pain and effort increase prosocial contributions?",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1037/mac0000004",
+            "author": [
+                {
+                    "family": "Clark",
+                    "given": "C. J."
+                },
+                {
+                    "family": "Costello",
+                    "given": "T."
+                },
+                {
+                    "family": "Mitchell",
+                    "given": "G."
+                },
+                {
+                    "family": "Tetlock",
+                    "given": "P. E."
+                }
+            ],
+            "container-title": "Journal of Applied Research in Memory and Cognition",
+            "id": "ClarkEtAl2022",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "1",
+            "title": "Keep your enemies close: Adversarial collaborations will improve behavioral science",
+            "title-short": "Keep your enemies close",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1037/amp0001385",
+            "author": [
+                {
+                    "family": "Clarke",
+                    "given": "B."
+                },
+                {
+                    "family": "Lee",
+                    "given": "P. Y. (K.)"
+                },
+                {
+                    "family": "Schiavone",
+                    "given": "S. R."
+                },
+                {
+                    "family": "Rhemtulla",
+                    "given": "M."
+                },
+                {
+                    "family": "Vazire",
+                    "given": "S."
+                }
+            ],
+            "container-title": "American Psychologist",
+            "id": "ClarkeEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "Advance online publication",
+            "title": "The prevalence of direct replication articles in top-ranking psychology journals",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1038/s41562-022-01458-9",
+            "author": [
+                {
+                    "family": "Coles",
+                    "given": "N. A."
+                },
+                {
+                    "family": "March",
+                    "given": "D. S."
+                },
+                {
+                    "family": "Marmolejo-Ramos",
+                    "given": "F."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "others"
+                }
+            ],
+            "container-title": "Nature Human Behaviour",
+            "id": "ColesEtAl2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "1731-1742",
+            "title": "A multi-lab test of the facial feedback hypothesis by the many smiles collaboration",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.31222/osf.io/n5zkw_v1",
+            "author": [
+                {
+                    "family": "Cole",
+                    "given": "N. L."
+                },
+                {
+                    "family": "Ulpts",
+                    "given": "S."
+                },
+                {
+                    "family": "Bochynska",
+                    "given": "A."
+                },
+                {
+                    "family": "Kormann",
+                    "given": "E."
+                },
+                {
+                    "family": "Good",
+                    "given": "M."
+                },
+                {
+                    "family": "Leitner",
+                    "given": "B."
+                },
+                {
+                    "family": "Ross-Hellauer",
+                    "given": "T."
+                }
+            ],
+            "id": "ColeEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Reproducibility and replicability of qualitative research: An integrative review of concepts, barriers and enablers",
+            "title-short": "Reproducibility and replicability of qualitative research",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.neuron.2023.08.027",
+            "author": [
+                {
+                    "family": "Corcoran",
+                    "given": "A. W."
+                },
+                {
+                    "family": "Hohwy",
+                    "given": "J."
+                },
+                {
+                    "family": "Friston",
+                    "given": "K. J."
+                }
+            ],
+            "container-title": "Neuron",
+            "id": "CorcoranEtAl2023",
+            "issue": "22",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "3505-3516",
+            "title": "Accelerating scientific progress through bayesian adversarial collaboration",
+            "type": "article-journal",
+            "volume": "111"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/5Z4A8",
+            "author": [
+                {
+                    "literal": "CORE Team"
+                }
+            ],
+            "id": "CORETeam2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Collaborative open-science and meta REsearch",
+            "type": ""
+        },
+        {
+            "DOI": "10.1177/27550311231202696",
+            "author": [
+                {
+                    "family": "Cortina",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Köhler",
+                    "given": "T."
+                },
+                {
+                    "family": "Aulisi",
+                    "given": "L. C."
+                }
+            ],
+            "container-title": "Journal of Management Scientific Reports",
+            "id": "CortinaEtAl2023",
+            "issue": "3-4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "171-205",
+            "title": "Current reproducibility practices in management: What they are versus what they could be",
+            "title-short": "Current reproducibility practices in management",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1177/1745691620906415",
+            "author": [
+                {
+                    "family": "Cowan",
+                    "given": "N."
+                },
+                {
+                    "family": "Belletier",
+                    "given": "C."
+                },
+                {
+                    "family": "Doherty",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Jaroslawska",
+                    "given": "A. J."
+                },
+                {
+                    "family": "Rhodes",
+                    "given": "S."
+                },
+                {
+                    "family": "Forsberg",
+                    "given": "A."
+                },
+                {
+                    "family": "Naveh-Benjamin",
+                    "given": "M."
+                },
+                {
+                    "family": "Barrouillet",
+                    "given": "P."
+                },
+                {
+                    "family": "Camos",
+                    "given": "V."
+                },
+                {
+                    "family": "Logie",
+                    "given": "R. H."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "CowanEtAl2020",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "1011-1025",
+            "title": "How do scientific views change? Notes from an extended adversarial collaboration",
+            "type": "article-journal",
+            "volume": "15"
+        },
+        {
+            "DOI": "10.1111/ecin.13244",
+            "author": [
+                {
+                    "family": "Dreber",
+                    "given": "A."
+                },
+                {
+                    "family": "Johannesson",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Economic Inquiry",
+            "id": "DreberJohannesson2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "A framework for evaluating reproducibility and replicability in economics",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1037/11020-022",
+            "author": [
+                {
+                    "family": "Dunlap",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Psychologies of 1925",
+            "editor": [
+                {
+                    "family": "Murchison",
+                    "given": "C."
+                }
+            ],
+            "id": "Dunlap1926",
+            "issued": {
+                "date-parts": [
+                    [
+                        1926
+                    ]
+                ]
+            },
+            "page": "331-351",
+            "publisher": "Clark University Press",
+            "title": "The experimental methods of psychology",
+            "type": "chapter"
+        },
+        {
+            "DOI": "10.1177/2515245920958687",
+            "author": [
+                {
+                    "family": "Ebersole",
+                    "given": "C. R."
+                },
+                {
+                    "family": "Mathur",
+                    "given": "M. B."
+                },
+                {
+                    "family": "Baranski",
+                    "given": "E."
+                },
+                {
+                    "family": "Bart-Plange",
+                    "given": "D. J."
+                },
+                {
+                    "family": "Buttrick",
+                    "given": "N. R."
+                },
+                {
+                    "family": "Chartier",
+                    "given": "C. R."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Szecsi",
+                    "given": "P."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "EbersoleEtAl2020",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "309-331",
+            "title": "Many labs 5: Testing pre-data-collection peer review as an intervention to increase replicability",
+            "title-short": "Many labs 5",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.7554/eLife.67995",
+            "author": [
+                {
+                    "family": "Errington",
+                    "given": "T. M."
+                },
+                {
+                    "family": "Denis",
+                    "given": "A."
+                },
+                {
+                    "family": "Perfito",
+                    "given": "N."
+                },
+                {
+                    "family": "Iorns",
+                    "given": "E."
+                },
+                {
+                    "family": "Nosek",
+                    "given": "B. A."
+                }
+            ],
+            "container-title": "eLife",
+            "id": "ErringtonEtAl2021a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "e67995",
+            "title": "Challenges for assessing replicability in preclinical cancer biology",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.7554/eLife.71601",
+            "author": [
+                {
+                    "family": "Errington",
+                    "given": "T. M."
+                },
+                {
+                    "family": "Mathur",
+                    "given": "M."
+                },
+                {
+                    "family": "Soderberg",
+                    "given": "C. K."
+                },
+                {
+                    "family": "Denis",
+                    "given": "A."
+                },
+                {
+                    "family": "Perfito",
+                    "given": "N."
+                },
+                {
+                    "family": "Iorns",
+                    "given": "E."
+                },
+                {
+                    "family": "Nosek",
+                    "given": "B. A."
+                }
+            ],
+            "container-title": "eLife",
+            "id": "ErringtonEtAl2021b",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "e71601",
+            "title": "Investigating the replicability of preclinical cancer biology",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "author": [
+                {
+                    "family": "Esteban",
+                    "given": "O."
+                },
+                {
+                    "family": "Markiewicz",
+                    "given": "C. J."
+                },
+                {
+                    "family": "Blair",
+                    "given": "R. W."
+                },
+                {
+                    "family": "Moodie",
+                    "given": "C. A."
+                },
+                {
+                    "family": "Isik",
+                    "given": "A. I."
+                },
+                {
+                    "family": "Erramuzpe",
+                    "given": "A."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Gorgolewski",
+                    "given": "K. J."
+                }
+            ],
+            "container-title": "Nature Methods",
+            "id": "EstebanEtAl2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "111-116",
+            "title": "fMRIPrep: A robust preprocessing pipeline for functional MRI",
+            "title-short": "fMRIPrep",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1177/1088868320931366",
+            "author": [
+                {
+                    "family": "Fabrigar",
+                    "given": "L. R."
+                },
+                {
+                    "family": "Wegener",
+                    "given": "D. T."
+                },
+                {
+                    "family": "Petty",
+                    "given": "R. E."
+                }
+            ],
+            "container-title": "Personality and Social Psychology Review",
+            "id": "FabrigarEtAl2020",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "316-344",
+            "title": "A validity-based framework for understanding replication in psychology",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/YQXTP",
+            "author": [
+                {
+                    "family": "Feldman",
+                    "given": "G."
+                }
+            ],
+            "id": "Feldman2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Registered report stage 1 manuscript template",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.15626/MP.2024.4326",
+            "author": [
+                {
+                    "family": "Feldman",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Meta Psychology",
+            "id": "Feldman2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "The value of replications goes beyond replicability and is associated with the value of the research it replicates: Commentary on isager et al., 2021",
+            "title-short": "The value of replications goes beyond replicability and is associated with the value of the research it replicates",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1177/1745691611400237",
+            "author": [
+                {
+                    "family": "Fiedler",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "Fiedler2011",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "163-171",
+            "title": "Voodoo correlations are everywhere—not only in neuroscience",
+            "type": "article-journal",
+            "volume": "6"
+        },
+        {
+            "DOI": "10.1525/collabra.218",
+            "author": [
+                {
+                    "family": "Field",
+                    "given": "S. M."
+                },
+                {
+                    "family": "Hoekstra",
+                    "given": "R."
+                },
+                {
+                    "family": "Bringmann",
+                    "given": "L."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Collabra: Psychology",
+            "id": "FieldEtAl2019",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "46",
+            "title": "When and why to replicate: As easy as 1, 2, 3?",
+            "title-short": "When and why to replicate",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1177/1745691620970602",
+            "author": [
+                {
+                    "family": "Fiedler",
+                    "given": "K."
+                },
+                {
+                    "family": "McCaughey",
+                    "given": "L."
+                },
+                {
+                    "family": "Prager",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "FiedlerEtAl2021",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "816-826",
+            "title": "Quo vadis, methodology? The key role of manipulation checks for validity control and quality of science",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1177/2515245920952393",
+            "author": [
+                {
+                    "family": "Flake",
+                    "given": "J. K."
+                },
+                {
+                    "family": "Fried",
+                    "given": "E. I."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "FlakeFried2020",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "456-465",
+            "title": "Measurement schmeasurement: Questionable measurement practices and how to avoid them",
+            "title-short": "Measurement schmeasurement",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.3758/s13423-012-0227-9",
+            "author": [
+                {
+                    "family": "Francis",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Psychonomic Bulletin & Review",
+            "id": "Francis2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "151-156",
+            "title": "Too good to be true: Publication bias in two prominent studies from experimental psychology",
+            "title-short": "Too good to be true",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.25936/3JP6-5M50",
+            "author": [
+                {
+                    "family": "Frank",
+                    "given": "M. C."
+                },
+                {
+                    "family": "Braginsky",
+                    "given": "M."
+                },
+                {
+                    "family": "Cachia",
+                    "given": "J."
+                },
+                {
+                    "family": "Coles",
+                    "given": "N."
+                },
+                {
+                    "family": "Hardwicke",
+                    "given": "T. E."
+                }
+            ],
+            "id": "FrankEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "publisher": "MIT Press",
+            "title": "Experimentology: An open science approach to experimental psychology methods",
+            "title-short": "Experimentology",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1146/annurev-soc-060116-053450",
+            "author": [
+                {
+                    "family": "Freese",
+                    "given": "J."
+                },
+                {
+                    "family": "Peterson",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Annual Review of Sociology",
+            "id": "FreesePeterson2017",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "147-165",
+            "title": "Replication in social science",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.1177/1088868318762183",
+            "author": [
+                {
+                    "family": "Friese",
+                    "given": "M."
+                },
+                {
+                    "family": "Loschelder",
+                    "given": "D. D."
+                },
+                {
+                    "family": "Gieseler",
+                    "given": "K."
+                },
+                {
+                    "family": "Frankenbach",
+                    "given": "J."
+                },
+                {
+                    "family": "Inzlicht",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Personality and Social Psychology Review",
+            "id": "FrieseEtAl2019",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "107-131",
+            "title": "Is ego depletion real? An analysis of arguments",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1111/spc3.12267",
+            "author": [
+                {
+                    "family": "Goh",
+                    "given": "J. X."
+                },
+                {
+                    "family": "Hall",
+                    "given": "J. A."
+                },
+                {
+                    "family": "Rosenthal",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Social and Personality Psychology Compass",
+            "id": "GohEtAl2016",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "535-549",
+            "title": "Mini meta‐analysis of your own studies: Some arguments on why and a primer on how",
+            "title-short": "Mini meta‐analysis of your own studies",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/N86Q9",
+            "author": [
+                {
+                    "family": "Goltermann",
+                    "given": "J."
+                },
+                {
+                    "family": "Altegoer",
+                    "given": "L."
+                }
+            ],
+            "id": "GoltermannAltegoer2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "ReFiNe-MDD: Replicability of findings in neuroimaging in depression",
+            "title-short": "ReFiNe-MDD",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31222/osf.io/nmfs6",
+            "author": [
+                {
+                    "family": "Grant",
+                    "given": "S."
+                },
+                {
+                    "family": "Corker",
+                    "given": "K. S."
+                },
+                {
+                    "family": "Mellor",
+                    "given": "D. T."
+                },
+                {
+                    "family": "Stewart",
+                    "given": "S. L. K."
+                },
+                {
+                    "family": "Cashin",
+                    "given": "A. G."
+                },
+                {
+                    "family": "Lagisz",
+                    "given": "M."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Nosek",
+                    "given": "B. A."
+                }
+            ],
+            "id": "GrantEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "TOP 2025: An update to the transparency and openness promotion guidelines",
+            "title-short": "TOP 2025",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/1745691616652873",
+            "author": [
+                {
+                    "family": "Hagger",
+                    "given": "M. S."
+                },
+                {
+                    "family": "Chatzisarantis",
+                    "given": "N. L. D."
+                },
+                {
+                    "family": "Alberts",
+                    "given": "H."
+                },
+                {
+                    "family": "Anggono",
+                    "given": "C. O."
+                },
+                {
+                    "family": "Batailler",
+                    "given": "C."
+                },
+                {
+                    "family": "Birt",
+                    "given": "A. R."
+                },
+                {
+                    "family": "Brand",
+                    "given": "R."
+                },
+                {
+                    "family": "Brandt",
+                    "given": "M. J."
+                },
+                {
+                    "family": "Brewer",
+                    "given": "G."
+                },
+                {
+                    "family": "Bruyneel",
+                    "given": "S."
+                },
+                {
+                    "family": "Calvillo",
+                    "given": "D. P."
+                },
+                {
+                    "family": "Campbell",
+                    "given": "W. K."
+                },
+                {
+                    "family": "Cannon",
+                    "given": "P. R."
+                },
+                {
+                    "family": "Carlucci",
+                    "given": "M."
+                },
+                {
+                    "family": "Carruth",
+                    "given": "N. P."
+                },
+                {
+                    "family": "Cheung",
+                    "given": "T."
+                },
+                {
+                    "family": "Crowell",
+                    "given": "A."
+                },
+                {
+                    "family": "De Ridder",
+                    "given": "D. T. D."
+                },
+                {
+                    "family": "Dewitte",
+                    "given": "S."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Zwienenberg",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "HaggerEtAl2016",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "546-573",
+            "title": "A multilab preregistered replication of the ego-depletion effect",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.3390/brainsci9080198",
+            "author": [
+                {
+                    "family": "Han",
+                    "given": "H."
+                },
+                {
+                    "family": "Glenn",
+                    "given": "A. L."
+                },
+                {
+                    "family": "Dawson",
+                    "given": "K. J."
+                }
+            ],
+            "container-title": "Brain Sciences",
+            "id": "HanEtAl2019",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "198",
+            "title": "Evaluating alternative correction methods for multiple comparison in functional neuroimaging research",
+            "type": "article-journal",
+            "volume": "9"
+        },
+        {
+            "DOI": "10.1038/s41562-022-01497-2",
+            "author": [
+                {
+                    "family": "Hardwicke",
+                    "given": "T. E."
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "E. J."
+                }
+            ],
+            "container-title": "Nature Human Behaviour",
+            "id": "HardwickeWagenmakers2023",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "15-26",
+            "title": "Reducing bias, increasing transparency and calibrating confidence with preregistration",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.1177/2515245917740427",
+            "author": [
+                {
+                    "family": "Hawkins",
+                    "given": "R. X."
+                },
+                {
+                    "family": "Smith",
+                    "given": "E. N."
+                },
+                {
+                    "family": "Au",
+                    "given": "C."
+                },
+                {
+                    "family": "Arias",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Catapano",
+                    "given": "R."
+                },
+                {
+                    "family": "Hermann",
+                    "given": "E."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Frank",
+                    "given": "M. C."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "HawkinsEtAl2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "7-18",
+            "title": "Improving the replicability of psychological science through pedagogy",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.5281/zenodo.14871843",
+            "URL": "www.forensicmetascience.com",
+            "author": [
+                {
+                    "family": "Heathers",
+                    "given": "J."
+                }
+            ],
+            "id": "Heathers2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "An introduction to forensic metascience",
+            "type": ""
+        },
+        {
+            "DOI": "10.15626/MP.2021.2909",
+            "author": [
+                {
+                    "family": "Heirene",
+                    "given": "R."
+                },
+                {
+                    "family": "LaPlante",
+                    "given": "D."
+                },
+                {
+                    "family": "Louderback",
+                    "given": "E."
+                },
+                {
+                    "family": "Keen",
+                    "given": "B."
+                },
+                {
+                    "family": "Bakker",
+                    "given": "M."
+                },
+                {
+                    "family": "Serafimovska",
+                    "given": "A."
+                },
+                {
+                    "family": "Gainsbury",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Meta-Psychology",
+            "id": "HeireneEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Preregistration specificity and adherence: A review of preregistered gambling studies and cross-disciplinary comparison",
+            "title-short": "Preregistration specificity and adherence",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1214/21-AOAS1502",
+            "author": [
+                {
+                    "family": "Held",
+                    "given": "L."
+                },
+                {
+                    "family": "Micheloud",
+                    "given": "C."
+                },
+                {
+                    "family": "Pawel",
+                    "given": "S."
+                }
+            ],
+            "container-title": "The Annals of Applied Statistics",
+            "id": "HeldEtAl2022",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "706-720",
+            "title": "The assessment of replication success based on relative effect size",
+            "type": "article-journal",
+            "volume": "16"
+        },
+        {
+            "DOI": "10.1098/rsos.240149",
+            "author": [
+                {
+                    "family": "Held",
+                    "given": "L."
+                },
+                {
+                    "family": "Pawel",
+                    "given": "S."
+                },
+                {
+                    "family": "Micheloud",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Royal Society Open Science",
+            "id": "HeldEtAl2024",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "240149",
+            "title": "The assessment of replicability using the sum of p-values",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.31235/osf.io/8c6xm",
+            "author": [
+                {
+                    "family": "Henriques",
+                    "given": "S. O."
+                },
+                {
+                    "family": "Rzayeva",
+                    "given": "N."
+                },
+                {
+                    "family": "Pinfield",
+                    "given": "S."
+                },
+                {
+                    "family": "Waltman",
+                    "given": "L."
+                }
+            ],
+            "id": "HenriquesEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Preprint review services: Disrupting the scholarly communication landscape?",
+            "title-short": "Preprint review services",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.2172/1481626",
+            "author": [
+                {
+                    "family": "Heroux",
+                    "given": "Michael A."
+                },
+                {
+                    "family": "Barba",
+                    "given": "Lorena A."
+                },
+                {
+                    "family": "Parashar",
+                    "given": "Manish"
+                },
+                {
+                    "family": "Stodden",
+                    "given": "Victoria"
+                },
+                {
+                    "family": "Taufer",
+                    "given": "Michela"
+                }
+            ],
+            "id": "HerouxEtAl2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "title": "Toward a compatible reproducibility taxonomy for computational and computing sciences",
+            "type": "report"
+        },
+        {
+            "DOI": "10.1045/march2017-hoeffler",
+            "author": [
+                {
+                    "family": "Höffler",
+                    "given": "J. H."
+                }
+            ],
+            "container-title": "D-Lib Magazine",
+            "id": "Hoeffler2017",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1",
+            "title": "ReplicationWiki: Improving transparency in social sciences research",
+            "title-short": "ReplicationWiki",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.1177/2515245917751886",
+            "author": [
+                {
+                    "family": "Houtkoop",
+                    "given": "B. L."
+                },
+                {
+                    "family": "Chambers",
+                    "given": "C."
+                },
+                {
+                    "family": "Macleod",
+                    "given": "M."
+                },
+                {
+                    "family": "Bishop",
+                    "given": "D. V."
+                },
+                {
+                    "family": "Nichols",
+                    "given": "T. E."
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "E. J."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "HoutkoopEtAl2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "70-85",
+            "title": "Data sharing in psychology: A survey on barriers and preconditions",
+            "title-short": "Data sharing in psychology",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1080/2372966X.2024.2346781",
+            "author": [
+                {
+                    "family": "Huang",
+                    "given": "F. L."
+                },
+                {
+                    "family": "Huang",
+                    "given": "A. B."
+                }
+            ],
+            "container-title": "School Psychology Review",
+            "id": "HuangHuang2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "1-15",
+            "title": "Replication studies using secondary or nonexperimental datasets",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1016/j.jesp.2015.09.009",
+            "author": [
+                {
+                    "family": "Hüffmeier",
+                    "given": "J."
+                },
+                {
+                    "family": "Mazei",
+                    "given": "J."
+                },
+                {
+                    "family": "Schultze",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Journal of Experimental Social Psychology",
+            "id": "HueffmeierEtAl2016",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "81-92",
+            "title": "Reconceptualizing replication as a sequence of different studies: A replication typology",
+            "title-short": "Reconceptualizing replication as a sequence of different studies",
+            "type": "article-journal",
+            "volume": "66"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hume",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Seven masterpieces of philosophy",
+            "id": "Hume1748",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "note": "Original work published 1748",
+            "page": "183-276",
+            "publisher": "Routledge",
+            "title": "An enquiry concerning human understanding",
+            "type": "chapter"
+        },
+        {
+            "author": [
+                {
+                    "family": "Hummel",
+                    "given": "T."
+                },
+                {
+                    "family": "Manner",
+                    "given": "J."
+                }
+            ],
+            "container-title": "Proceedings of the 16th ZEUS workshop on services and their composition (ZEUS 2024)(CEUR)",
+            "id": "HummelManner2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "A literature review on reproducibility studies in computer science",
+            "type": "paper-conference",
+            "volume": "3673"
+        },
+        {
+            "author": [
+                {
+                    "family": "Ioannidis",
+                    "given": "J. P."
+                }
+            ],
+            "container-title": "PLoS Medicine",
+            "id": "Ioannidis2005",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005
+                    ]
+                ]
+            },
+            "page": "e124",
+            "title": "Why most published research findings are false",
+            "type": "article-journal",
+            "volume": "2"
+        },
+        {
+            "DOI": "10.1037/met0000438",
+            "author": [
+                {
+                    "family": "Isager",
+                    "given": "P. M."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Aert",
+                    "given": "R. C. M."
+                },
+                {
+                    "family": "Bahník",
+                    "given": "Š."
+                },
+                {
+                    "family": "Brandt",
+                    "given": "M. J."
+                },
+                {
+                    "family": "DeSoto",
+                    "given": "K. A."
+                },
+                {
+                    "family": "Giner-Sorolla",
+                    "given": "R."
+                },
+                {
+                    "family": "Krueger",
+                    "given": "J. I."
+                },
+                {
+                    "family": "Perugini",
+                    "given": "M."
+                },
+                {
+                    "family": "Ropovik",
+                    "given": "I."
+                },
+                {
+                    "dropping-particle": "van ’t",
+                    "family": "Veer",
+                    "given": "A. E."
+                },
+                {
+                    "family": "Vranka",
+                    "given": "M."
+                },
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "IsagerEtAl2023",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "438-451",
+            "title": "Deciding what to replicate: A decision model for replication study selection under resource and knowledge constraints",
+            "title-short": "Deciding what to replicate",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1177/01461672952111004",
+            "author": [
+                {
+                    "family": "Jacowitz",
+                    "given": "K. E."
+                },
+                {
+                    "family": "Kahneman",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Personality and Social Psychology Bulletin",
+            "id": "JacowitzKahneman1995",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "page": "1161-1166",
+            "title": "Measures of anchoring in estimation tasks",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "DOI": "10.1017/S1049096520000943",
+            "author": [
+                {
+                    "family": "Janz",
+                    "given": "N."
+                },
+                {
+                    "family": "Freese",
+                    "given": "J."
+                }
+            ],
+            "container-title": "PS: Political Science & Politics",
+            "id": "JanzFreese2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "305-308",
+            "title": "Replicate others as you would like to be replicated yourself",
+            "type": "article-journal",
+            "volume": "54"
+        },
+        {
+            "DOI": "10.1177/1475725719868149",
+            "author": [
+                {
+                    "family": "Jekel",
+                    "given": "M."
+                },
+                {
+                    "family": "Fiedler",
+                    "given": "S."
+                },
+                {
+                    "family": "Allstadt Torras",
+                    "given": "R."
+                },
+                {
+                    "family": "Mischkowski",
+                    "given": "D."
+                },
+                {
+                    "family": "Dorrough",
+                    "given": "A. R."
+                },
+                {
+                    "family": "Glöckner",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Psychology Learning & Teaching",
+            "id": "JekelEtAl2020",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "91-106",
+            "title": "How to teach open science principles in the undergraduate curriculum—the hagen cumulative science project",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.1177/0956797611430953",
+            "author": [
+                {
+                    "family": "John",
+                    "given": "L. K."
+                },
+                {
+                    "family": "Loewenstein",
+                    "given": "G."
+                },
+                {
+                    "family": "Prelec",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "JohnEtAl2012",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "524-532",
+            "title": "Measuring the prevalence of questionable research practices with incentives for truth telling",
+            "type": "article-journal",
+            "volume": "23"
+        },
+        {
+            "DOI": "10.31234/osf.io/6xdy2_v2",
+            "author": [
+                {
+                    "family": "Kamermans",
+                    "given": "K. L."
+                },
+                {
+                    "family": "Dudda",
+                    "given": "L."
+                },
+                {
+                    "family": "Daikoku",
+                    "given": "T."
+                },
+                {
+                    "family": "Verheyen",
+                    "given": "S."
+                }
+            ],
+            "id": "KamermansEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "The is-ought problem in deciding what to replicate: Which motives guide current replication practices?",
+            "title-short": "The is-ought problem in deciding what to replicate",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31219/osf.io/sn5gh",
+            "author": [
+                {
+                    "family": "Kapitány",
+                    "given": "R."
+                },
+                {
+                    "family": "Kavanagh",
+                    "given": "C. M."
+                }
+            ],
+            "id": "KapitanyKavanagh2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Best practices and ethical considerations for crowd-sourced data in the behavioral sciences",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31234/osf.io/5gn7m",
+            "author": [
+                {
+                    "family": "Karhulahti",
+                    "given": "V."
+                },
+                {
+                    "family": "Martončik",
+                    "given": "M."
+                },
+                {
+                    "family": "Adamkovic",
+                    "given": "M."
+                }
+            ],
+            "id": "KarhulahtiEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "Pre-replication in meaningful science",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.2307/420301",
+            "author": [
+                {
+                    "family": "King",
+                    "given": "G."
+                }
+            ],
+            "container-title": "PS: Political Science & Politics",
+            "id": "King1995",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        1995
+                    ]
+                ]
+            },
+            "page": "444-452",
+            "title": "Replication, replication",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1027/1864-9335/a000178",
+            "author": [
+                {
+                    "family": "Klein",
+                    "given": "R. A."
+                },
+                {
+                    "family": "Ratliff",
+                    "given": "K. A."
+                },
+                {
+                    "family": "Vianello",
+                    "given": "M."
+                },
+                {
+                    "family": "Adams Jr",
+                    "given": "R. B."
+                },
+                {
+                    "family": "Bahník",
+                    "given": "Š."
+                },
+                {
+                    "family": "Bernstein",
+                    "given": "M. J."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Nosek",
+                    "given": "B. A."
+                }
+            ],
+            "container-title": "Social Psychology",
+            "id": "KleinEtAl2014",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "title": "Investigating variation in replicability",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/0149206319843985",
+            "author": [
+                {
+                    "family": "Köhler",
+                    "given": "T."
+                },
+                {
+                    "family": "Cortina",
+                    "given": "J. M."
+                }
+            ],
+            "container-title": "Journal of Management",
+            "id": "KohlerCortina2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "488-518",
+            "title": "Play it again, sam! An analysis of constructive replication in the organizational sciences",
+            "type": "article-journal",
+            "volume": "47"
+        },
+        {
+            "DOI": "10.1177/1745691612462586",
+            "author": [
+                {
+                    "family": "Koole",
+                    "given": "S. L."
+                },
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Perspectives in Psychological Science",
+            "id": "KooleLakens2012",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "608-614",
+            "title": "Rewarding replications: A sure and simple way to improve psychological science",
+            "title-short": "Rewarding replications",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.5281/zenodo.6409077",
+            "URL": "https://lakens.github.io/statistical_inferences/",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "id": "Lakens2022a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Improving your statistical inferences",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1525/collabra.33267",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Collabra: Psychology",
+            "id": "Lakens2022b",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "33267",
+            "title": "Sample size justification",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1525/collabra.117094",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Collabra: Psychology",
+            "id": "Lakens2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "title": "When and how to deviate from a preregistration",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.1177/1948550617693058",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                },
+                {
+                    "family": "Etz",
+                    "given": "A. J."
+                }
+            ],
+            "container-title": "Social Psychological and Personality Science",
+            "id": "LakensEtz2017",
+            "issue": "8",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "875-881",
+            "title": "Too true to be bad: When sets of studies with significant and nonsignificant findings are probably true",
+            "title-short": "Too true to be bad",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1177/2515245918770963",
+            "author": [
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                },
+                {
+                    "family": "Scheel",
+                    "given": "A. M."
+                },
+                {
+                    "family": "Isager",
+                    "given": "P. M."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "LakensEtAl2018",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "259-269",
+            "title": "Equivalence testing for psychological research: A tutorial",
+            "title-short": "Equivalence testing for psychological research",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1037/bul0000220",
+            "author": [
+                {
+                    "family": "Landy",
+                    "given": "J. F."
+                },
+                {
+                    "family": "Jia",
+                    "given": "M. L."
+                },
+                {
+                    "family": "Ding",
+                    "given": "I. L."
+                },
+                {
+                    "family": "Viganola",
+                    "given": "D."
+                },
+                {
+                    "family": "Tierney",
+                    "given": "W."
+                },
+                {
+                    "family": "Dreber",
+                    "given": "A."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Crowdsourcing Hypothesis Tests Collaboration"
+                }
+            ],
+            "container-title": "Psychological Bulletin",
+            "id": "LandyEtAl2020",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "451",
+            "title": "Crowdsourcing hypothesis tests: Making transparent how design choices shape research results",
+            "title-short": "Crowdsourcing hypothesis tests",
+            "type": "article-journal",
+            "volume": "146"
+        },
+        {
+            "author": [
+                {
+                    "family": "Lash",
+                    "given": "T. L."
+                },
+                {
+                    "family": "Collin",
+                    "given": "L. J."
+                },
+                {
+                    "family": "Van Dyke",
+                    "given": "M. E."
+                }
+            ],
+            "container-title": "Current Epidemiology Reports",
+            "id": "LashEtAl2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "175-183",
+            "title": "The replication crisis in epidemiology: Snowball, snow job, or winter solstice?",
+            "title-short": "The replication crisis in epidemiology",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1177/2515245918787489",
+            "author": [
+                {
+                    "family": "LeBel",
+                    "given": "E. P."
+                },
+                {
+                    "family": "McCarthy",
+                    "given": "R. J."
+                },
+                {
+                    "family": "Earp",
+                    "given": "B. D."
+                },
+                {
+                    "family": "Elson",
+                    "given": "M."
+                },
+                {
+                    "family": "Vanpaemel",
+                    "given": "W."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "LeBelEtAl2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "389-402",
+            "title": "A unified framework to quantify the credibility of scientific findings",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Leehr",
+                    "given": "E. J."
+                },
+                {
+                    "family": "Seeger",
+                    "given": "F. R."
+                },
+                {
+                    "family": "Böhnlein",
+                    "given": "J."
+                },
+                {
+                    "family": "Gathmann",
+                    "given": "B."
+                },
+                {
+                    "family": "Straube",
+                    "given": "T."
+                },
+                {
+                    "family": "Roesmann",
+                    "given": "K."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Lueken",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Translational Psychiatry",
+            "id": "LeehrEtAl2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "137",
+            "title": "Association between resting-state connectivity patterns in the defensive system network and treatment response in spider phobia—a replication approach",
+            "type": "article-journal",
+            "volume": "14"
+        },
+        {
+            "DOI": "10.1037/met0000402",
+            "author": [
+                {
+                    "family": "Linde",
+                    "given": "M."
+                },
+                {
+                    "family": "Tendeiro",
+                    "given": "J. N."
+                },
+                {
+                    "family": "Selker",
+                    "given": "R."
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "E.-J."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "LindeEtAl2023",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "740-755",
+            "title": "Decisions about equivalence: A comparison of TOST, HDI-ROPE, and the bayes factor",
+            "title-short": "Decisions about equivalence",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1038/s41586-024-07805-2",
+            "author": [
+                {
+                    "family": "Lynch",
+                    "given": "C. J."
+                },
+                {
+                    "family": "Elbau",
+                    "given": "I. G."
+                },
+                {
+                    "family": "Ng",
+                    "given": "T."
+                },
+                {
+                    "literal": "others"
+                }
+            ],
+            "container-title": "Nature",
+            "id": "LynchEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "624-633",
+            "title": "Frontostriatal salience network expansion in individuals in depression",
+            "type": "article-journal",
+            "volume": "633"
+        },
+        {
+            "DOI": "10.1007/BF01173636",
+            "author": [
+                {
+                    "family": "Mahoney",
+                    "given": "M. J."
+                }
+            ],
+            "container-title": "Cognitive Therapy and Research",
+            "id": "Mahoney1977",
+            "issued": {
+                "date-parts": [
+                    [
+                        1977
+                    ]
+                ]
+            },
+            "page": "161-175",
+            "title": "Publication prejudices: An experimental study of confirmatory bias in the peer review system",
+            "title-short": "Publication prejudices",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "DOI": "10.1177/1745691612460688",
+            "author": [
+                {
+                    "family": "Makel",
+                    "given": "M. C."
+                },
+                {
+                    "family": "Plucker",
+                    "given": "J. A."
+                },
+                {
+                    "family": "Hegarty",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "MakelEtAl2012",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "537-542",
+            "title": "Replications in psychology research: How often do they really occur?",
+            "title-short": "Replications in psychology research",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "author": [
+                {
+                    "family": "Marek",
+                    "given": "S."
+                },
+                {
+                    "family": "Tervo-Clemmens",
+                    "given": "B."
+                },
+                {
+                    "family": "Calabro",
+                    "given": "F. J."
+                },
+                {
+                    "family": "Montez",
+                    "given": "D. F."
+                },
+                {
+                    "family": "Kay",
+                    "given": "B. P."
+                },
+                {
+                    "family": "Hatoum",
+                    "given": "A. S."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Dosenbach",
+                    "given": "N. U."
+                }
+            ],
+            "container-title": "Nature",
+            "id": "MarekEtAl2022",
+            "issue": "7902",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "654-660",
+            "title": "Reproducible brain-wide association studies require thousands of individuals",
+            "type": "article-journal",
+            "volume": "603"
+        },
+        {
+            "DOI": "10.1017/S0272263124000652",
+            "author": [
+                {
+                    "family": "McManus",
+                    "given": "K."
+                }
+            ],
+            "container-title": "Studies in Second Language Acquisition",
+            "id": "McManus2024",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "1299-1319",
+            "title": "Replication studies in second language acquisition research: Definitions, issues, resources, and future directions: Introduction to the special issue",
+            "title-short": "Replication studies in second language acquisition research",
+            "type": "article-journal",
+            "volume": "46"
+        },
+        {
+            "DOI": "10.1525/collabra.18738",
+            "author": [
+                {
+                    "family": "McCarthy",
+                    "given": "R."
+                },
+                {
+                    "family": "Gervais",
+                    "given": "W."
+                },
+                {
+                    "family": "Aczel",
+                    "given": "B."
+                },
+                {
+                    "family": "Al-Kire",
+                    "given": "R. L."
+                },
+                {
+                    "family": "Aveyard",
+                    "given": "M."
+                },
+                {
+                    "family": "Marcella Baraldo",
+                    "given": "S."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Zogmaister",
+                    "given": "C."
+                }
+            ],
+            "container-title": "Collabra: Psychology",
+            "id": "McCarthyEtAl2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "18738",
+            "title": "A multi-site collaborative study of the hostile priming effect",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "DOI": "10.1093/jcr/ucw085",
+            "author": [
+                {
+                    "family": "McShane",
+                    "given": "B. B."
+                },
+                {
+                    "family": "Böckenholt",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Journal of Consumer Research",
+            "id": "McShaneBockenholt2017",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2017
+                    ]
+                ]
+            },
+            "page": "1048-1063",
+            "title": "Single-paper meta-analysis: Benefits for study summary, theory testing, and replicability",
+            "title-short": "Single-paper meta-analysis",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.1214/21-STS828",
+            "author": [
+                {
+                    "family": "Micheloud",
+                    "given": "C."
+                },
+                {
+                    "family": "Held",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Statistical Science",
+            "id": "MicheloudHeld2022",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "369-379",
+            "title": "Power calculations for replication studies",
+            "type": "article-journal",
+            "volume": "37"
+        },
+        {
+            "DOI": "10.1007/s10827-018-0702-z",
+            "author": [
+                {
+                    "family": "Miłkowski",
+                    "given": "M."
+                },
+                {
+                    "family": "Hensel",
+                    "given": "W. M."
+                },
+                {
+                    "family": "Hohol",
+                    "given": "M."
+                }
+            ],
+            "container-title": "Journal of Computational Neuroscience",
+            "id": "MilkowskiEtAl2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "163-172",
+            "title": "Replicability or reproducibility? On the replication crisis in computational neuroscience and sharing only relevant detail",
+            "type": "article-journal",
+            "volume": "45"
+        },
+        {
+            "DOI": "10.1371/journal.pcbi.1010957",
+            "author": [
+                {
+                    "family": "Moreau",
+                    "given": "D."
+                },
+                {
+                    "family": "Wiebels",
+                    "given": "K."
+                }
+            ],
+            "container-title": "PLOS Computational Biology",
+            "id": "MoreauWiebels2023",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "e1010957",
+            "title": "Ten simple rules for designing and conducting undergraduate replication projects",
+            "type": "article-journal",
+            "volume": "19"
+        },
+        {
+            "DOI": "10.1016/j.tics.2019.12.002",
+            "author": [
+                {
+                    "family": "Munafò",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Chambers",
+                    "given": "C. D."
+                },
+                {
+                    "family": "Collins",
+                    "given": "A. M."
+                },
+                {
+                    "family": "Fortunato",
+                    "given": "L."
+                },
+                {
+                    "family": "Macleod",
+                    "given": "M. R."
+                }
+            ],
+            "container-title": "Trends in Cognitive Sciences",
+            "id": "MunafoEtAl2020",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "91-93",
+            "title": "Research culture and reproducibility",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.1098/rsos.201697",
+            "author": [
+                {
+                    "family": "Muradchanian",
+                    "given": "J."
+                },
+                {
+                    "family": "Hoekstra",
+                    "given": "R."
+                },
+                {
+                    "family": "Kiers",
+                    "given": "H."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Royal Society Open Science",
+            "id": "MuradchanianEtAl2021",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "201697",
+            "title": "How best to quantify replication success? A simulation study on the comparison of replication success metrics",
+            "type": "article-journal",
+            "volume": "8"
+        },
+        {
+            "DOI": "10.1177/01461672002611010",
+            "author": [
+                {
+                    "family": "Mussweiler",
+                    "given": "T."
+                },
+                {
+                    "family": "Strack",
+                    "given": "F."
+                },
+                {
+                    "family": "Pfeiffer",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Personality and Social Psychology Bulletin",
+            "id": "MussweilerEtAl2000",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "page": "1142-1150",
+            "title": "Overcoming the inevitable anchoring effect: Considering the opposite compensates for selective accessibility",
+            "title-short": "Overcoming the inevitable anchoring effect",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "DOI": "10.31234/osf.io/fhk98",
+            "author": [
+                {
+                    "family": "Nagy",
+                    "given": "T."
+                },
+                {
+                    "family": "Hergert",
+                    "given": "J."
+                },
+                {
+                    "family": "Elsherif",
+                    "given": "M. M."
+                },
+                {
+                    "family": "Wallrich",
+                    "given": "L."
+                },
+                {
+                    "family": "Schmidt",
+                    "given": "K."
+                },
+                {
+                    "family": "Waltzer",
+                    "given": "T."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Rubínová",
+                    "given": "E."
+                }
+            ],
+            "id": "NagyEtAl2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        5
+                    ]
+                ]
+            },
+            "title": "Bestiary of questionable research practices in psychology",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1146/annurev-psych-122216-011836",
+            "author": [
+                {
+                    "family": "Nelson",
+                    "given": "L. D."
+                },
+                {
+                    "family": "Simmons",
+                    "given": "J."
+                },
+                {
+                    "family": "Simonsohn",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Annual Review of Psychology",
+            "id": "NelsonEtAl2018",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "511-534",
+            "title": "Psychology’s renaissance",
+            "type": "article-journal",
+            "volume": "69"
+        },
+        {
+            "DOI": "10.1371/journal.pbio.3000691",
+            "author": [
+                {
+                    "family": "Nosek",
+                    "given": "B. A."
+                },
+                {
+                    "family": "Errington",
+                    "given": "T. M."
+                }
+            ],
+            "container-title": "PLoS Biology",
+            "id": "NosekErrington2020",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "e3000691",
+            "title": "What is replication?",
+            "type": "article-journal",
+            "volume": "18"
+        },
+        {
+            "DOI": "10.12688/f1000research.51738.2",
+            "author": [
+                {
+                    "family": "Nüst",
+                    "given": "D."
+                },
+                {
+                    "family": "Eglen",
+                    "given": "S. J."
+                }
+            ],
+            "container-title": "F1000Research",
+            "id": "NuestEglen2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "253",
+            "title": "CODECHECK: An open science initiative for the independent execution of computations underlying research articles during peer review to improve reproducibility",
+            "title-short": "CODECHECK",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.1002/jrsm.1408",
+            "author": [
+                {
+                    "family": "Nuijten",
+                    "given": "M. B."
+                },
+                {
+                    "family": "Polanin",
+                    "given": "J. R."
+                }
+            ],
+            "container-title": "Research Synthesis Methods",
+            "id": "NuijtenPolanin2020",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "574-579",
+            "title": "“Statcheck”: Automatically detect statistical reporting inconsistencies to increase reproducibility of meta‐analyses",
+            "title-short": "“Statcheck”",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.1126/science.aac4716",
+            "author": [
+                {
+                    "literal": "Open Science Collaboration"
+                }
+            ],
+            "container-title": "Science",
+            "id": "OpenScienceCollab2015",
+            "issue": "6251",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "aac4716",
+            "title": "Estimating the reproducibility of psychological science",
+            "type": "article-journal",
+            "volume": "349"
+        },
+        {
+            "DOI": "10.1037/met0000604",
+            "author": [
+                {
+                    "family": "Pawel",
+                    "given": "S."
+                },
+                {
+                    "family": "Consonni",
+                    "given": "G."
+                },
+                {
+                    "family": "Held",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "PawelEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "title": "Bayesian approaches to designing replication studies",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1101/066803",
+            "author": [
+                {
+                    "family": "Patil",
+                    "given": "P."
+                },
+                {
+                    "family": "Peng",
+                    "given": "R. D."
+                },
+                {
+                    "family": "Leek",
+                    "given": "J. T."
+                }
+            ],
+            "container-title": "BioRxiv",
+            "id": "PatilEtAl2016a",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "066803",
+            "title": "A statistical definition for reproducibility and replicability",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/1745691616646366",
+            "author": [
+                {
+                    "family": "Patil",
+                    "given": "P."
+                },
+                {
+                    "family": "Peng",
+                    "given": "R. D."
+                },
+                {
+                    "family": "Leek",
+                    "given": "J. T."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "PatilEtAl2016b",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "539-544",
+            "title": "What should researchers expect when they replicate studies? A statistical view of replicability in psychological science",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "author": [
+                {
+                    "family": "Pennington",
+                    "given": "C. R."
+                }
+            ],
+            "id": "Pennington2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "publisher": "Open University Press",
+            "title": "A student’s guide to open science: Using the replication crisis to reform psychology",
+            "title-short": "A student’s guide to open science",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1080/13803611.2021.2022315",
+            "author": [
+                {
+                    "family": "Perry",
+                    "given": "T."
+                },
+                {
+                    "family": "Morris",
+                    "given": "R."
+                },
+                {
+                    "family": "Lea",
+                    "given": "R."
+                }
+            ],
+            "container-title": "Educational Research and Evaluation",
+            "id": "PerryEtAl2022",
+            "issue": "1-2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "12-34",
+            "title": "A decade of replication study in education? A mapping review (2011–2020)",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1037/cps0000013",
+            "author": [
+                {
+                    "family": "Pittelkow",
+                    "given": "M. M."
+                },
+                {
+                    "family": "Hoekstra",
+                    "given": "R."
+                },
+                {
+                    "family": "Karsten",
+                    "given": "J."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Clinical Psychology: Science and Practice",
+            "id": "PittelkowEtAl2021",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "210",
+            "title": "Replication target selection in clinical psychology: A bayesian and qualitative reevaluation",
+            "title-short": "Replication target selection in clinical psychology",
+            "type": "article-journal",
+            "volume": "28"
+        },
+        {
+            "DOI": "10.1098/rsos.210586",
+            "author": [
+                {
+                    "family": "Pittelkow",
+                    "given": "M. M."
+                },
+                {
+                    "family": "Field",
+                    "given": "S. M."
+                },
+                {
+                    "family": "Isager",
+                    "given": "P. M."
+                },
+                {
+                    "dropping-particle": "van’t",
+                    "family": "Veer",
+                    "given": "A. E."
+                },
+                {
+                    "family": "Anderson",
+                    "given": "T."
+                },
+                {
+                    "family": "Cole",
+                    "given": "S. N."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Van Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Royal Society Open Science",
+            "id": "PittelkowEtAl2023",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "210586",
+            "title": "The process of replication target selection in psychology: What to consider?",
+            "title-short": "The process of replication target selection in psychology",
+            "type": "article-journal",
+            "volume": "10"
+        },
+        {
+            "DOI": "10.31234/osf.io/6tmyx_v2",
+            "author": [
+                {
+                    "family": "Pittelkow",
+                    "given": "M."
+                },
+                {
+                    "family": "Field",
+                    "given": "S. M."
+                },
+                {
+                    "dropping-particle": "van",
+                    "family": "Ravenzwaaij",
+                    "given": "D."
+                }
+            ],
+            "id": "PittelkowEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Thinking beyond RVCN: Addressing the complexity of replication target selection",
+            "title-short": "Thinking beyond RVCN",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31234/osf.io/dwxeg",
+            "author": [
+                {
+                    "family": "Pownall",
+                    "given": "M."
+                }
+            ],
+            "id": "Pownall2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Is replication possible for qualitative research?",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.3758/s13423-013-0418-z",
+            "author": [
+                {
+                    "family": "Powers",
+                    "given": "K. L."
+                },
+                {
+                    "family": "Brooks",
+                    "given": "P. J."
+                },
+                {
+                    "family": "Aldrich",
+                    "given": "N. J."
+                },
+                {
+                    "family": "Palladino",
+                    "given": "M. A."
+                },
+                {
+                    "family": "Alfieri",
+                    "given": "L."
+                }
+            ],
+            "container-title": "Psychonomic Bulletin & Review",
+            "id": "PowersEtAl2013",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "page": "1055-1079",
+            "title": "Effects of video-game play on information processing: A meta-analytic investigation",
+            "title-short": "Effects of video-game play on information processing",
+            "type": "article-journal",
+            "volume": "20"
+        },
+        {
+            "DOI": "10.31234/osf.io/9y3mp",
+            "author": [
+                {
+                    "family": "Protzko",
+                    "given": "J."
+                }
+            ],
+            "id": "Protzko2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "title": "Null-hacking, a lurking problem",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31219/osf.io/rju75_v1",
+            "author": [
+                {
+                    "family": "Puhlmann",
+                    "given": "L."
+                },
+                {
+                    "family": "Koppold",
+                    "given": "A."
+                },
+                {
+                    "family": "Feld",
+                    "given": "G."
+                },
+                {
+                    "family": "Lonsdorf",
+                    "given": "T."
+                },
+                {
+                    "family": "Hilger",
+                    "given": "K."
+                },
+                {
+                    "family": "Vogel",
+                    "given": "S."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Hartmann",
+                    "given": "H."
+                }
+            ],
+            "container-title": "OSF Preprint",
+            "id": "PuhlmannEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "There is no research on a dead planet–fostering ecologically sustainable open science practices in neuroscience",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1038/s41592-023-02145-x",
+            "author": [
+                {
+                    "family": "Renton",
+                    "given": "A. I."
+                },
+                {
+                    "family": "Dao",
+                    "given": "T. T."
+                },
+                {
+                    "family": "Johnstone",
+                    "given": "T."
+                },
+                {
+                    "family": "Civier",
+                    "given": "O."
+                },
+                {
+                    "family": "Sullivan",
+                    "given": "R. P."
+                },
+                {
+                    "family": "White",
+                    "given": "D. J."
+                },
+                {
+                    "family": "Lyons",
+                    "given": "P."
+                },
+                {
+                    "family": "Slade",
+                    "given": "B. M."
+                },
+                {
+                    "family": "Abbott",
+                    "given": "D. F."
+                },
+                {
+                    "family": "Amos",
+                    "given": "T. J."
+                },
+                {
+                    "family": "Bollmann",
+                    "given": "S."
+                },
+                {
+                    "family": "Botting",
+                    "given": "A."
+                },
+                {
+                    "family": "Campbell",
+                    "given": "M. E. J."
+                },
+                {
+                    "family": "Chang",
+                    "given": "J."
+                },
+                {
+                    "family": "Close",
+                    "given": "T. G."
+                },
+                {
+                    "family": "Dörig",
+                    "given": "M."
+                },
+                {
+                    "family": "Eckstein",
+                    "given": "K."
+                },
+                {
+                    "family": "Egan",
+                    "given": "G. F."
+                },
+                {
+                    "family": "Evas",
+                    "given": "S."
+                },
+                {
+                    "family": "Bollmann",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Nature Methods",
+            "id": "RentonEtAl2024",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "804-808",
+            "title": "Neurodesk: An accessible, flexible and portable data analysis environment for reproducible neuroimaging",
+            "title-short": "Neurodesk",
+            "type": "article-journal",
+            "volume": "21"
+        },
+        {
+            "DOI": "10.31222/osf.io/8psw2",
+            "author": [
+                {
+                    "family": "Röseler",
+                    "given": "L."
+                },
+                {
+                    "family": "Gendlina",
+                    "given": "T."
+                },
+                {
+                    "family": "Krapp",
+                    "given": "J."
+                },
+                {
+                    "family": "Labusch",
+                    "given": "N."
+                },
+                {
+                    "family": "Schütz",
+                    "given": "A."
+                }
+            ],
+            "id": "RoselerEtAl2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "title": "Successes and failures of replications: A meta-analysis of independent replication studies based on the OSF registries",
+            "title-short": "Successes and failures of replications",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/BRXTD",
+            "author": [
+                {
+                    "family": "Röseler",
+                    "given": "L."
+                },
+                {
+                    "family": "Hein",
+                    "given": "M."
+                },
+                {
+                    "family": "Oppong Boakye",
+                    "given": "P."
+                }
+            ],
+            "id": "RoselerEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Standardized reproduction and replication templates (StaRT)",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.5334/jopd.101",
+            "author": [
+                {
+                    "family": "Röseler",
+                    "given": "L."
+                },
+                {
+                    "family": "Kaiser",
+                    "given": "L."
+                },
+                {
+                    "family": "Doetsch",
+                    "given": "C."
+                },
+                {
+                    "family": "Klett",
+                    "given": "N."
+                },
+                {
+                    "family": "Seida",
+                    "given": "C."
+                },
+                {
+                    "family": "Schütz",
+                    "given": "A."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Zhang",
+                    "given": "Y."
+                }
+            ],
+            "container-title": "Journal of Open Psychology Data",
+            "id": "RoselerEtAl2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "8",
+            "title": "The replication database: Documenting the replicability of psychological science",
+            "title-short": "The replication database",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "URL": "http://forrt.org/FReD/",
+            "author": [
+                {
+                    "family": "Röseler",
+                    "given": "L."
+                },
+                {
+                    "family": "Wallrich",
+                    "given": "L."
+                }
+            ],
+            "id": "RoselerWallrich2024",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "note": "R package version 0.0.0.9001",
+            "title": "FReD: Interfaces to the FORRT replication database",
+            "title-short": "FReD",
+            "type": "book"
+        },
+        {
+            "DOI": "10.1038/s41593-022-01110-9",
+            "author": [
+                {
+                    "family": "Rosenberg",
+                    "given": "M. D."
+                },
+                {
+                    "family": "Finn",
+                    "given": "E. S."
+                }
+            ],
+            "container-title": "Nature Neuroscience",
+            "id": "RosenbergFinn2022",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "835-837",
+            "title": "How to establish robust brain–behavior relationships without thousands of individuals",
+            "type": "article-journal",
+            "volume": "25"
+        },
+        {
+            "DOI": "10.1037/met0000302",
+            "author": [
+                {
+                    "family": "Schauer",
+                    "given": "J. M."
+                },
+                {
+                    "family": "Hedges",
+                    "given": "L. V."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "SchauerHedges2021",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "127-139",
+            "title": "Reconsidering statistical methods for assessing replication",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "DOI": "10.1037/a0029487",
+            "author": [
+                {
+                    "family": "Schimmack",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "Schimmack2012",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2012
+                    ]
+                ]
+            },
+            "page": "551",
+            "title": "The ironic effect of significant results on the credibility of multiple-study articles",
+            "type": "article-journal",
+            "volume": "17"
+        },
+        {
+            "DOI": "10.1037/a0015108",
+            "author": [
+                {
+                    "family": "Schmidt",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Review of General Psychology",
+            "id": "Schmidt2009",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2009
+                    ]
+                ]
+            },
+            "page": "90-100",
+            "title": "Shall we really do it again? The powerful concept of replication is neglected in the social sciences",
+            "type": "article-journal",
+            "volume": "13"
+        },
+        {
+            "DOI": "10.1007/s42803-023-00073-y",
+            "author": [
+                {
+                    "family": "Schöch",
+                    "given": "C."
+                }
+            ],
+            "container-title": "International Journal of Digital Humanities",
+            "id": "Schoch2023",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "373-403",
+            "title": "Repetitive research: A conceptual space and terminology of replication, reproduction, revision, reanalysis, reinvestigation and reuse in digital humanities",
+            "title-short": "Repetitive research",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1002/bdm.2065",
+            "author": [
+                {
+                    "family": "Schultze",
+                    "given": "T."
+                },
+                {
+                    "family": "Gerlach",
+                    "given": "T. M."
+                },
+                {
+                    "family": "Rittich",
+                    "given": "J. C."
+                }
+            ],
+            "container-title": "Journal of Behavioral Decision Making",
+            "id": "SchultzeEtAl2018",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "430-445",
+            "title": "Some people heed advice less than others: Agency (but not communion) predicts advice taking",
+            "title-short": "Some people heed advice less than others",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "DOI": "10.1177/0956797611417632",
+            "author": [
+                {
+                    "family": "Simmons",
+                    "given": "J. P."
+                },
+                {
+                    "family": "Nelson",
+                    "given": "L. D."
+                },
+                {
+                    "family": "Simonsohn",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "SimmonsEtAl2011",
+            "issue": "11",
+            "issued": {
+                "date-parts": [
+                    [
+                        2011
+                    ]
+                ]
+            },
+            "page": "1359-1366",
+            "title": "False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant",
+            "title-short": "False-positive psychology",
+            "type": "article-journal",
+            "volume": "22"
+        },
+        {
+            "DOI": "10.1177/0956797614567341",
+            "author": [
+                {
+                    "family": "Simonsohn",
+                    "given": "U."
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "Simonsohn2015",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2015
+                    ]
+                ]
+            },
+            "page": "559-569",
+            "title": "Small telescopes: Detectability and the evaluation of replication results",
+            "title-short": "Small telescopes",
+            "type": "article-journal",
+            "volume": "26"
+        },
+        {
+            "DOI": "10.1038/s41562-020-0912-z",
+            "author": [
+                {
+                    "family": "Simonsohn",
+                    "given": "U."
+                },
+                {
+                    "family": "Simmons",
+                    "given": "J. P."
+                },
+                {
+                    "family": "Nelson",
+                    "given": "L. D."
+                }
+            ],
+            "container-title": "Nature Human Behaviour",
+            "id": "SimonsohnEtAl2020",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "page": "1208-1214",
+            "title": "Specification curve analysis",
+            "type": "article-journal",
+            "volume": "4"
+        },
+        {
+            "DOI": "10.1038/s41562-021-01142-4",
+            "author": [
+                {
+                    "family": "Soderberg",
+                    "given": "C. K."
+                },
+                {
+                    "family": "Errington",
+                    "given": "T. M."
+                },
+                {
+                    "family": "Schiavone",
+                    "given": "S. R."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "others"
+                }
+            ],
+            "container-title": "Nature Human Behaviour",
+            "id": "SoderbergEtAl2021",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "990-997",
+            "title": "Initial evidence of research quality of registered reports compared with the standard publishing model",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1177/0956797619831612",
+            "author": [
+                {
+                    "family": "Soto",
+                    "given": "C. J."
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "Soto2019",
+            "issue": "5",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "page": "711-727",
+            "title": "How replicable are links between personality traits and consequential life outcomes? The life outcomes of personality replication project",
+            "type": "article-journal",
+            "volume": "30"
+        },
+        {
+            "DOI": "10.1038/s41586-023-05745-x",
+            "author": [
+                {
+                    "family": "Spisak",
+                    "given": "T."
+                },
+                {
+                    "family": "Bingel",
+                    "given": "U."
+                },
+                {
+                    "family": "Wager",
+                    "given": "T. D."
+                }
+            ],
+            "container-title": "Nature",
+            "id": "SpisakEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "E4-E7",
+            "title": "Multivariate BWAS can be replicable with moderate sample sizes",
+            "type": "article-journal",
+            "volume": "615"
+        },
+        {
+            "DOI": "10.1037/met0000597",
+            "author": [
+                {
+                    "family": "Steiner",
+                    "given": "P. M."
+                },
+                {
+                    "family": "Sheehan",
+                    "given": "P."
+                },
+                {
+                    "family": "Wong",
+                    "given": "V. C."
+                }
+            ],
+            "container-title": "Psychological Methods",
+            "id": "SteinerEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "Advance online publication",
+            "title": "Correspondence measures for assessing replication success",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.31234/osf.io/znv5r",
+            "author": [
+                {
+                    "family": "Syed",
+                    "given": "M."
+                }
+            ],
+            "id": "Syed2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5
+                    ]
+                ]
+            },
+            "title": "Replication or generalizability? How flexible inferences uphold unfounded universal claims",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Taylor",
+                    "given": "P. A."
+                },
+                {
+                    "family": "Reynolds",
+                    "given": "R. C."
+                },
+                {
+                    "family": "Calhoun",
+                    "given": "V."
+                },
+                {
+                    "family": "Gonzalez-Castillo",
+                    "given": "J."
+                },
+                {
+                    "family": "Handwerker",
+                    "given": "D. A."
+                },
+                {
+                    "family": "Bandettini",
+                    "given": "P. A."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Chen",
+                    "given": "G."
+                }
+            ],
+            "container-title": "Neuroimage",
+            "id": "TaylorEtAl2023",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "page": "120138",
+            "title": "Highlight results, don’t hide them: Enhance interpretation, reduce biases and improve reproducibility",
+            "title-short": "Highlight results, don’t hide them",
+            "type": "article-journal",
+            "volume": "274"
+        },
+        {
+            "DOI": "10.2307/259353",
+            "author": [
+                {
+                    "family": "Tsang",
+                    "given": "E. W."
+                },
+                {
+                    "family": "Kwan",
+                    "given": "K. M."
+                }
+            ],
+            "container-title": "Academy of Management Review",
+            "id": "TsangKwan1999",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        1999
+                    ]
+                ]
+            },
+            "page": "759-780",
+            "title": "Replication and theory development in organizational science: A critical realist perspective",
+            "title-short": "Replication and theory development in organizational science",
+            "type": "article-journal",
+            "volume": "24"
+        },
+        {
+            "DOI": "10.1093/jcr/ucae007",
+            "author": [
+                {
+                    "family": "Urminsky",
+                    "given": "O."
+                },
+                {
+                    "family": "Dietvorst",
+                    "given": "B. J."
+                }
+            ],
+            "container-title": "Journal of Consumer Research",
+            "id": "UrminskyDietvorst2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "157-168",
+            "title": "Taking the full measure: Integrating replication into research practice to assess generalizability",
+            "title-short": "Taking the full measure",
+            "type": "article-journal",
+            "volume": "51"
+        },
+        {
+            "DOI": "10.1177/09637214211067779",
+            "author": [
+                {
+                    "family": "Vazire",
+                    "given": "S."
+                },
+                {
+                    "family": "Schiavone",
+                    "given": "S. R."
+                },
+                {
+                    "family": "Bottesini",
+                    "given": "J. G."
+                }
+            ],
+            "container-title": "Current Directions in Psychological Science",
+            "id": "VazireEtAl2022",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "162-168",
+            "title": "Credibility beyond replicability: Improving the four validities in psychological science",
+            "title-short": "Credibility beyond replicability",
+            "type": "article-journal",
+            "volume": "31"
+        },
+        {
+            "DOI": "10.1037/a0036731",
+            "author": [
+                {
+                    "family": "Verhagen",
+                    "given": "J."
+                },
+                {
+                    "family": "Wagenmakers",
+                    "given": "E.-J."
+                }
+            ],
+            "container-title": "Journal of Experimental Psychology: General",
+            "id": "VerhagenWagenmakers2014",
+            "issue": "4",
+            "issued": {
+                "date-parts": [
+                    [
+                        2014
+                    ]
+                ]
+            },
+            "page": "1457-1475",
+            "title": "Bayesian tests to quantify the result of a replication attempt",
+            "type": "article-journal",
+            "volume": "143"
+        },
+        {
+            "DOI": "10.17605/OSF.IO/BR9SP",
+            "author": [
+                {
+                    "family": "Voelkl",
+                    "given": "B."
+                },
+                {
+                    "family": "Heyard",
+                    "given": "R."
+                },
+                {
+                    "family": "Fanelli",
+                    "given": "D."
+                },
+                {
+                    "family": "Wever",
+                    "given": "K. E."
+                },
+                {
+                    "family": "Held",
+                    "given": "L."
+                },
+                {
+                    "family": "Maniadis",
+                    "given": "Z."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Würbel",
+                    "given": "H."
+                }
+            ],
+            "id": "VoelklEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "title": "Defining reproducibility",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1177/0956797621989733",
+            "author": [
+                {
+                    "family": "Vohs",
+                    "given": "K. D."
+                },
+                {
+                    "family": "Schmeichel",
+                    "given": "B. J."
+                },
+                {
+                    "family": "Lohmann",
+                    "given": "S."
+                },
+                {
+                    "family": "Gronau",
+                    "given": "Q. F."
+                },
+                {
+                    "family": "Finley",
+                    "given": "A. J."
+                },
+                {
+                    "family": "Ainsworth",
+                    "given": "S. E."
+                },
+                {
+                    "family": "Alquist",
+                    "given": "J. L."
+                },
+                {
+                    "family": "Baker",
+                    "given": "M. D."
+                },
+                {
+                    "family": "Brizi",
+                    "given": "A."
+                },
+                {
+                    "family": "Bunyi",
+                    "given": "A."
+                },
+                {
+                    "family": "Butschek",
+                    "given": "G. J."
+                },
+                {
+                    "family": "Campbell",
+                    "given": "C."
+                },
+                {
+                    "family": "Capaldi",
+                    "given": "J."
+                },
+                {
+                    "family": "Cau",
+                    "given": "C."
+                },
+                {
+                    "family": "Chambers",
+                    "given": "H."
+                },
+                {
+                    "family": "Chatzisarantis",
+                    "given": "N. L. D."
+                },
+                {
+                    "family": "Christensen",
+                    "given": "W. J."
+                },
+                {
+                    "family": "Clay",
+                    "given": "S. L."
+                },
+                {
+                    "family": "Curtis",
+                    "given": "J."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Albarracín",
+                    "given": "D."
+                }
+            ],
+            "container-title": "Psychological Science",
+            "id": "VohsEtAl2021",
+            "issue": "10",
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "page": "1566-1581",
+            "title": "A multisite preregistered paradigmatic test of the ego-depletion effect",
+            "type": "article-journal",
+            "volume": "32"
+        },
+        {
+            "DOI": "10.1177/1745691616674458",
+            "author": [
+                {
+                    "family": "Wagenmakers",
+                    "given": "E.-J."
+                },
+                {
+                    "family": "Beek",
+                    "given": "T."
+                },
+                {
+                    "family": "Dijkhoff",
+                    "given": "L."
+                },
+                {
+                    "family": "Gronau",
+                    "given": "Q. F."
+                },
+                {
+                    "family": "Acosta",
+                    "given": "A."
+                },
+                {
+                    "family": "Adams",
+                    "given": "R. B."
+                },
+                {
+                    "family": "Albohn",
+                    "given": "D. N."
+                },
+                {
+                    "family": "Allard",
+                    "given": "E. S."
+                },
+                {
+                    "family": "Benning",
+                    "given": "S. D."
+                },
+                {
+                    "family": "Blouin-Hudon",
+                    "given": "E.-M."
+                },
+                {
+                    "family": "Bulnes",
+                    "given": "L. C."
+                },
+                {
+                    "family": "Caldwell",
+                    "given": "T. L."
+                },
+                {
+                    "family": "Calin-Jageman",
+                    "given": "R. J."
+                },
+                {
+                    "family": "Capaldi",
+                    "given": "C. A."
+                },
+                {
+                    "family": "Carfagno",
+                    "given": "N. S."
+                },
+                {
+                    "family": "Chasten",
+                    "given": "K. T."
+                },
+                {
+                    "family": "Cleeremans",
+                    "given": "A."
+                },
+                {
+                    "family": "Connell",
+                    "given": "L."
+                },
+                {
+                    "family": "DeCicco",
+                    "given": "J. M."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Zwaan",
+                    "given": "R. A."
+                }
+            ],
+            "container-title": "Perspectives on Psychological Science",
+            "id": "WagenmakersEtAl2016",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "917-928",
+            "title": "Registered replication report: Strack, martin, & stepper (1988)",
+            "title-short": "Registered replication report",
+            "type": "article-journal",
+            "volume": "11"
+        },
+        {
+            "DOI": "10.31234/osf.io/5ntkd",
+            "author": [
+                {
+                    "family": "Wagenmakers",
+                    "given": "E. J."
+                },
+                {
+                    "family": "Gronau",
+                    "given": "Q. F."
+                },
+                {
+                    "family": "Vandekerckhove",
+                    "given": "J."
+                }
+            ],
+            "id": "WagenmakersEtAl2019",
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "title": "Five bayesian intuitions for the stopping rule principle",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1038/sdata.2016.18",
+            "author": [
+                {
+                    "family": "Wilkinson",
+                    "given": "M. D."
+                },
+                {
+                    "family": "Dumontier",
+                    "given": "M."
+                },
+                {
+                    "family": "Aalbersberg",
+                    "given": "I. J."
+                },
+                {
+                    "family": "Appleton",
+                    "given": "G."
+                },
+                {
+                    "family": "Axton",
+                    "given": "M."
+                },
+                {
+                    "family": "Baak",
+                    "given": "A."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Mons",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Scientific Data",
+            "id": "WilkinsonEtAl2016",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2016
+                    ]
+                ]
+            },
+            "page": "1-9",
+            "title": "The FAIR guiding principles for scientific data management and stewardship",
+            "type": "article-journal",
+            "volume": "3"
+        },
+        {
+            "DOI": "10.1177/25152459231213802",
+            "author": [
+                {
+                    "family": "Willroth",
+                    "given": "E. C."
+                },
+                {
+                    "family": "Atherton",
+                    "given": "O. E."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "WillrothAtherton2024",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "page": "25152459231213802",
+            "title": "Best laid plans: A guide to reporting preregistration deviations",
+            "title-short": "Best laid plans",
+            "type": "article-journal",
+            "volume": "7"
+        },
+        {
+            "author": [
+                {
+                    "family": "Winter",
+                    "given": "N. R."
+                },
+                {
+                    "family": "Leenings",
+                    "given": "R."
+                },
+                {
+                    "family": "Ernsting",
+                    "given": "J."
+                },
+                {
+                    "family": "Sarink",
+                    "given": "K."
+                },
+                {
+                    "family": "Fisch",
+                    "given": "L."
+                },
+                {
+                    "family": "Emden",
+                    "given": "D."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Hahn",
+                    "given": "T."
+                }
+            ],
+            "container-title": "JAMA Psychiatry",
+            "id": "WinterEtAl2022",
+            "issue": "9",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "879-888",
+            "title": "Quantifying deviations of brain structure and function in major depressive disorder across neuroimaging modalities",
+            "type": "article-journal",
+            "volume": "79"
+        },
+        {
+            "author": [
+                {
+                    "family": "Yarkoni",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Talyarkoni.org/blog",
+            "id": "Yarkoni2013",
+            "issued": {
+                "date-parts": [
+                    [
+                        2013
+                    ]
+                ]
+            },
+            "title": "“What we can and can’t learn from the many labs replication project”",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "family": "Zhou",
+                    "given": "X."
+                },
+                {
+                    "family": "Wu",
+                    "given": "R."
+                },
+                {
+                    "family": "Zeng",
+                    "given": "Y."
+                },
+                {
+                    "family": "Qi",
+                    "given": "Z."
+                },
+                {
+                    "family": "Ferraro",
+                    "given": "S."
+                },
+                {
+                    "family": "Xu",
+                    "given": "L."
+                },
+                {
+                    "dropping-particle": "and",
+                    "family": "Becker",
+                    "given": "B."
+                }
+            ],
+            "container-title": "Communications Biology",
+            "id": "ZhouEtAl2022",
+            "issue": "1",
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "page": "913",
+            "title": "Choice of voxel-based morphometry processing pipeline drives variability in the location of neuroanatomical brain markers",
+            "type": "article-journal",
+            "volume": "5"
+        },
+        {
+            "DOI": "10.1017/S0140525X17001972",
+            "author": [
+                {
+                    "family": "Zwaan",
+                    "given": "R. A."
+                },
+                {
+                    "family": "Etz",
+                    "given": "A."
+                },
+                {
+                    "family": "Lucas",
+                    "given": "R. E."
+                },
+                {
+                    "family": "Donnellan",
+                    "given": "M. B."
+                }
+            ],
+            "container-title": "Behavioral and Brain Sciences",
+            "id": "ZwaanEtAl2018",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "e120",
+            "title": "Making replication mainstream",
+            "type": "article-journal",
+            "volume": "41"
+        },
+        {
+            "author": [
+                {
+                    "family": "Mazei",
+                    "given": "J."
+                },
+                {
+                    "family": "Hüffmeier",
+                    "given": "J."
+                },
+                {
+                    "family": "Schultze",
+                    "given": "T."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "MazeiEtAl2025",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "in press",
+            "title": "Specification curve and reproducibility dashboards for social science research: Recommendations for implementation",
+            "title-short": "Specification curve and reproducibility dashboards for social science research",
+            "type": "article-journal"
+        },
+        {
+            "DOI": "10.1098/rsos.242076",
+            "author": [
+                {
+                    "family": "Heyard",
+                    "given": "R."
+                },
+                {
+                    "family": "Pawel",
+                    "given": "S."
+                },
+                {
+                    "family": "Frese",
+                    "given": "J."
+                },
+                {
+                    "family": "Voelkl",
+                    "given": "B."
+                },
+                {
+                    "family": "Würbel",
+                    "given": "H."
+                },
+                {
+                    "family": "McCann",
+                    "given": "S."
+                },
+                {
+                    "family": "Zellers",
+                    "given": "S."
+                }
+            ],
+            "container-title": "Royal Society Open Science",
+            "id": "HeyardEtAl2025",
+            "issue": "7",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "page": "242076",
+            "title": "A scoping review on metrics to quantify reproducibility: A multitude of questions leads to a multitude of metrics",
+            "title-short": "A scoping review on metrics to quantify reproducibility",
+            "type": "article-journal",
+            "volume": "12"
+        },
+        {
+            "author": [
+                {
+                    "family": "Heyard",
+                    "given": "R."
+                }
+            ],
+            "id": "ReplicabilityMetricsTable",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "Accessed June 2024",
+            "publisher": "http://rachelheyard.com/reproducibility_metrics/#table",
+            "title": "Reproducibility metrics table",
+            "type": ""
+        },
+        {
+            "DOI": "10.1177/2515245918787489",
+            "author": [
+                {
+                    "family": "LeBel",
+                    "given": "E. P."
+                },
+                {
+                    "family": "McCarthy",
+                    "given": "R. J."
+                },
+                {
+                    "family": "Earp",
+                    "given": "B. D."
+                },
+                {
+                    "family": "Elson",
+                    "given": "M."
+                },
+                {
+                    "family": "Vanpaemel",
+                    "given": "W."
+                }
+            ],
+            "container-title": "Advances in Methods and Practices in Psychological Science",
+            "id": "LeBelEtAl2018fig",
+            "issue": "3",
+            "issued": {
+                "date-parts": [
+                    [
+                        2018
+                    ]
+                ]
+            },
+            "page": "389-402",
+            "title": "A unified framework to quantify the credibility of scientific findings (for figure x)",
+            "type": "article-journal",
+            "volume": "1"
+        },
+        {
+            "author": [
+                {
+                    "family": "Nuijten",
+                    "given": "M. B."
+                }
+            ],
+            "id": "statcheckio",
+            "note": "Accessed June 2024",
+            "publisher": "https://www.statcheck.io/",
+            "title": "Statcheck.io: Online statistical reporting checker",
+            "title-short": "Statcheck.io",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Association",
+                    "given": "American Psychological"
+                }
+            ],
+            "id": "openpsychdataJARS",
+            "note": "Accessed June 2024",
+            "publisher": "https://apastyle.apa.org/jars/quant-table-6.pdf",
+            "title": "Journal article reporting standards (JARS): Quantitative replications reporting table",
+            "title-short": "Journal article reporting standards (JARS)",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Nuijten",
+                    "given": "M. B."
+                },
+                {
+                    "family": "Polanin",
+                    "given": "J. R."
+                }
+            ],
+            "id": "statcheckR",
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "note": "R package version 1.3.0",
+            "title": "Statcheck: R package",
+            "title-short": "Statcheck",
+            "type": "book"
+        },
+        {
+            "author": [
+                {
+                    "family": "DeBruine",
+                    "given": "L."
+                },
+                {
+                    "family": "Lakens",
+                    "given": "D."
+                }
+            ],
+            "id": "papercheckR",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "Accessed 2025-07-01",
+            "publisher": "https://github.com/scienceverse/papercheck",
+            "title": "Papercheck: Check scientific papers for best practices. R package version 0.0.0.9053",
+            "title-short": "Papercheck",
+            "type": "book"
+        },
+        {
+            "DOI": "10.25936/3JP6-5M50",
+            "author": [
+                {
+                    "family": "Frank",
+                    "given": "M. C."
+                },
+                {
+                    "family": "Braginsky",
+                    "given": "M."
+                },
+                {
+                    "family": "Cachia",
+                    "given": "J."
+                },
+                {
+                    "family": "Coles",
+                    "given": "N."
+                },
+                {
+                    "family": "Hardwicke",
+                    "given": "T. E."
+                }
+            ],
+            "id": "FrankEtAl2025book",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "publisher": "MIT Press",
+            "title": "Experimentology: An open science approach to experimental psychology methods",
+            "title-short": "Experimentology",
+            "type": "article-journal"
+        },
+        {
+            "author": [
+                {
+                    "literal": "Leibniz Institute for the Social Sciences"
+                }
+            ],
+            "id": "topfactorDataSharing",
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "note": "Accessed 2025-06-16",
+            "publisher": "https://topfactor.org/journals?factor=Data+Transparency",
+            "title": "TOP factor: Open data levels of social science journals",
+            "title-short": "TOP factor",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Kranz",
+                    "given": "S."
+                }
+            ],
+            "id": "KranzDataList",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "Accessed 2025-07-16",
+            "publisher": "https://ejd.econ.mathematik.uni-ulm.de/",
+            "title": "Extensive database of economics studies with available data",
+            "type": ""
+        },
+        {
+            "author": [
+                {
+                    "family": "Röseler",
+                    "given": "L. & FORRT Replication Hub"
+                }
+            ],
+            "id": "OSFProjectReplicationHandbook",
+            "issued": {
+                "date-parts": [
+                    [
+                        2025
+                    ]
+                ]
+            },
+            "note": "Accessed July 2025",
+            "publisher": "https://osf.io/73y82/",
+            "title": "FORRT replication handbook OSF project",
+            "type": ""
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

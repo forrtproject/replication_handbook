@@ -1,7 +1,0 @@
-"0","names(df) <- gsub(""\\."", "" "", names(df)) # replace ""."" with "" "" in variable names
-"
-"2","G1;Fehler in names(df) <- gsub(""\\."", "" "", names(df)) : 
-  names() angewendet auf einen Nicht-Vektor
-Fehler während wrapup: nicht so viele einschließende Umgebungen im Stack
-Fehler: Keine weiteren Fehler-Behandler verfügbar (rekursive Fehler?); 'abort' restart wird ausgelöst
-g"

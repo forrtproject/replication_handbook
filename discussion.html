@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.7.33">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="description" content="How to carry out reproductions and replications in the social, cognitive, and behavioral sciences">
 
-<title>8&nbsp; Discussion – Handbook on Conducting Reproduction and Replication Studies</title>
+<title>7&nbsp; Discussion – Handbook for Reproduction and Replication Studies</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,10 +60,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1bead5f5d11cdccb6a4d3c3d2a660ce4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-4ec7246897d00c06100498262f8bc0a3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -72,6 +92,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -84,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./choosing_study.html">The Replication Process</a></li><li class="breadcrumb-item"><a href="./discussion.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Discussion</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./choosing_study.html">The Replication Process</a></li><li class="breadcrumb-item"><a href="./discussion.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Discussion</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -99,10 +148,10 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Handbook on Conducting Reproduction and Replication Studies</a> 
+      <a href="./">Handbook for Reproduction and Replication Studies</a> 
         <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/forrtproject/replication_guide/" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
-    <a href="./Handbook-on-Conducting-Reproduction-and-Replication-Studies.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+    <a href="./Handbook-for-Reproduction-and-Replication-Studies.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
@@ -121,7 +170,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
+ <span class="menu-text">Summary</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
@@ -136,13 +185,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./background.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Background</span></span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Background</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./understanding.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Understanding Replications and Reproductions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Understanding Replications and Reproductions</span></span></a>
   </div>
 </li>
       </ul>
@@ -159,31 +208,31 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./choosing_study.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Choosing the Target Study</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Choosing the Target Study</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./planning.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Planning and Conducting Reproductions and Replications</span></span></a>
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Planning and Conducting Reproductions and Replications</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./execution_reproductions.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Execution of Reproductions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Execution of Reproductions</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./execution_replications.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./discussion.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Discussion</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Discussion</span></span></a>
   </div>
 </li>
       </ul>
@@ -200,13 +249,13 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./publishing.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Publishing and Communicating</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Communicating and Publishing</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./field_specific_mri.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Field-Specific Replication Challenges: An example from MRI research</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Field-Specific Replication Challenges: An example from MRI research</span></span></a>
   </div>
 </li>
       </ul>
@@ -223,7 +272,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./conclusion.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Conclusion</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Conclusion</span></span></a>
   </div>
 </li>
       </ul>
@@ -268,9 +317,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./choosing_study.html">The Replication Process</a></li><li class="breadcrumb-item"><a href="./discussion.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Discussion</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./choosing_study.html">The Replication Process</a></li><li class="breadcrumb-item"><a href="./discussion.html"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Discussion</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Discussion</span></h1>
+<h1 class="title"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Discussion</span></h1>
 </div>
 
 
@@ -287,89 +336,372 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="defining-and-determining-replication-success" class="level4" data-number="8.0.0.1">
-<h4 data-number="8.0.0.1" class="anchored" data-anchor-id="defining-and-determining-replication-success"><span class="header-section-number">8.0.0.1</span> Defining and Determining Replication Success</h4>
-<p>There is no strong consensus yet on what constitutes a replication success and some approaches can be biased (e.g., Schauer &amp; Hedges, 2021) or imprecise (Patil et al., 2016b). Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs.&nbsp;failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or <em>p</em>-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their pre-registration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.</p>
-<p>Below, we briefly present different approaches to assessing replication success. For a review and a computational implementation of these and other replication success criteria, see also Heyard et al., 2025; Muradchanian et al., 2021; Röseler &amp; Wallrich, 2024; Errington et al., 2021, Table 1).</p>
-<section id="qualitative-criteria" class="level5" data-number="8.0.0.1.1">
-<h5 data-number="8.0.0.1.1" class="anchored" data-anchor-id="qualitative-criteria"><span class="header-section-number">8.0.0.1.1</span> Qualitative criteria</h5>
-<p>Researchers often face the difficulty of making an overarching decision on replication success, failure, or inconclusiveness due to the decision relying on a complex interplay of differences between original study and replication, different original and replication results, and vague theories. We term cases where the decision has not yet been formalized <em>qualitative</em>. It is inferior to quantitative criteria in that it is not formally reproducible but it is superior to quantitative criteria in that it allows researchers to consider a large number of details.</p>
-</section>
-<section id="quantitative-criteria" class="level5" data-number="8.0.0.1.2">
-<h5 data-number="8.0.0.1.2" class="anchored" data-anchor-id="quantitative-criteria"><span class="header-section-number">8.0.0.1.2</span> Quantitative Criteria</h5>
-<p>With quantitative criteria we refer to those that can be automatically computed based on study details such as effect sizes and statistical tests. They are often a combination of whether the replication effect is different from the expected effect under the assumption of the null hypothesis, different from the original effect, and whether the aggregated effect is different from zero. We list different approaches and brief descriptions in Table 3.</p>
+<section id="defining-and-determining-replication-success" class="level4" data-number="7.0.0.1">
+<h4 data-number="7.0.0.1" class="anchored" data-anchor-id="defining-and-determining-replication-success"><span class="header-section-number">7.0.0.1</span> Defining and Determining Replication Success</h4>
+<p>There is no strong consensus yet on what constitutes a replication success and some approaches can be biased <span class="citation" data-cites="SchauerHedges2021">(<a href="references.html#ref-SchauerHedges2021" role="doc-biblioref">Schauer and Hedges 2021</a>)</span> or imprecise <span class="citation" data-cites="PatilEtAl2016b">(<a href="references.html#ref-PatilEtAl2016b" role="doc-biblioref">Patil, Peng, and Leek 2016</a>)</span>. Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs.&nbsp;failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or <em>p</em>-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their pre-registration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.</p>
+<p>Below, we present different approaches to assessing replication success as summarized by Heyard et al. <span class="citation" data-cites="HeyardEtAl2025 MuradchanianEtAl2021 RoselerWallrich2024 ErringtonEtAl2021a">(<a href="references.html#ref-HeyardEtAl2025" role="doc-biblioref">2025</a>; see also <a href="references.html#ref-MuradchanianEtAl2021" role="doc-biblioref">Muradchanian et al. 2021</a>; <a href="references.html#ref-RoselerWallrich2024" role="doc-biblioref">Röseler and Wallrich 2024</a>; <a href="references.html#ref-ErringtonEtAl2021a" role="doc-biblioref">Errington et al. 2021</a>, Table 1)</span></p>
 <p><strong>Table 3</strong></p>
-<p><em>Quantitative criteria to operationalize replication success</em></p>
-<table class="caption-top table">
+<p><em>Criteria to operationalize replication success (excerpt from Heyard et al., 2025)</em></p>
+<div class="cell">
+<div class="cell-output-display">
+<table class="caption-top table table-sm table-striped small">
+<caption>Success Criteria Table</caption>
 <colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
+<col style="width: 17%">
+<col style="width: 56%">
+<col style="width: 25%">
 </colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Reference</th>
-<th style="text-align: left;">Type</th>
-<th style="text-align: left;">Description</th>
+<th style="text-align: left;">Name</th>
+<th style="text-align: left;">Question answered</th>
+<th style="text-align: left;">Type of Reproducibility investigated</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Brandt et al., 2014</td>
-<td style="text-align: left;">NHST</td>
-<td style="text-align: left;"><em>Comparison of replication effect to 0 and to original effect</em> Success: different from the null (i.e.&nbsp;statistically significant), and similar to the original (i.e.&nbsp;in its 95% confidence interval) or larger and in the same direction Informative failure to replicate: either not different from null, or in the opposite direction from the original, <em>and</em> significantly different from original (i.e.&nbsp;outside its 95% confidence interval) Practical failure to replicate: both significantly different from the null and significantly smaller than the original Inconclusive: neither significantly different from null nor the original</td>
+<td style="text-align: left;">Bayes Factor: Independent Jeffreys-Zellner-Siow BF test</td>
+<td style="text-align: left;">“What is the evidence for the effect being present or absent in light of a replication attempt, given that we know relatively little about the expected effect size beforehand?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Anderson &amp; Maxwell, 2016</td>
-<td style="text-align: left;">NHST (Bayesian)</td>
-<td style="text-align: left;"><em>Consider 6 distinct goals To infer an effect</em> Conduct statistical test on replication effect, and conclude success when it is significant and in same direction as original <em>To infer a null effect</em> NHST: Conduct an equivalence test, showing that the hypothesis that the effect is very small is significant (e.g., one-sided <em>t-</em>test against <em>d</em> = .1) Bayesian: Test whether posterior is in Region of Practical Equivalence (better for <em>multivariate</em> hypotheses) Bayesian: Bayes Factors quantify the relative support for alternative hypothesis and null hypothesis, and can thus provide evidence <em>for</em> the null <em>Quantify the size of an effect</em> Focus on increasing precision of effect size estimate, primary success criterion is to achieve a confidence interval width that allows for decision-making (e.g.&nbsp;to assess value for money) <em>To infer an effect across the two studies</em> Combine original and replication effects in meta-analysis to estimate a more precise and robust effect Accounts for the fact that a non-significant replication can <em>increase</em> the strength of evidence <em>for</em> an effect when pooled with original NB: Only appropriate when original effect size is deemed trustworthy <em>To assess whether replication and original are <strong>in</strong>consistent</em> Construct a confidence interval for the difference between effect sizes If confidence interval excludes 0, replication effect is incompatible with original effect (heterogeneous) <em>To assess whether replication and original are consistent</em> Construct a confidence interval for the difference between effect sizes Conduct an equivalence test on the difference in effect sizes to see whether we can conclude that it is small or uncertain</td>
+<td style="text-align: left;">Bayes Factor: Equality-of-effect-size BF test</td>
+<td style="text-align: left;">“What is the evidence for the effect size in the replication attempt being equal vs.&nbsp;unequal to the effect size in the original study?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Steiner et al., 2023</td>
-<td style="text-align: left;">NHST</td>
-<td style="text-align: left;">Test difference and equivalence of original and replication effects Depending on the combination of outcomes, there is equivalence, difference, a trivial difference, or indeterminacy</td>
+<td style="text-align: left;">Bayes Factor: Fixed-effect meta-analysis BF Test</td>
+<td style="text-align: left;">“When pooling all data, what is the evidence for the effect being present vs.&nbsp;absent?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Bonett, 2020</td>
-<td style="text-align: left;">NHST</td>
-<td style="text-align: left;">Compute confidence intervals for original and replication effect as well as for the difference of the two effects Combination of the three confidence intervals determines the type of evidence across 9 categories (Bonett, 2020, Table 2)</td>
+<td style="text-align: left;">Replication Bayes factor</td>
+<td style="text-align: left;">“What is the evidence for the effect from the replication attempt being comparable to what was found in the original study, or absent?” - “Are the replication results more consistent with the original study or with a null effect?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Verhagen and Wagenmakers, 2014</td>
-<td style="text-align: left;">Bayesian</td>
-<td style="text-align: left;">Test the likelihood of the replication finding between two competing priors: a skeptic hypothesis suggesting and effect size of zero, and a proponent hypothesis, based on the posterior probability from the original study (i.e.&nbsp;a prior centred on the effect size obtained in the original study) Results in a weighted-likelihood ratio between the two hypotheses (i.e.&nbsp;a Bayes Factor)</td>
+<td style="text-align: left;">Significance criterion</td>
+<td style="text-align: left;">“Do the original and replication study both find a statistical significant effect in the same direction?”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - different analysis; Different data - different analysis</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Held et al., 2022</td>
-<td style="text-align: left;">Bayesian</td>
-<td style="text-align: left;">Establish a “sceptical prior” to be just strong enough to render the original study’s finding non-significant, and test the replication effect against it. Replication success is then declared if the replication study’s data conflicts with this sceptical prior, which is equivalent to the relative effect size exceeding a minimum required threshold.</td>
+<td style="text-align: left;">Difference in effect size</td>
+<td style="text-align: left;">“To which degree do the effects from a replication study mirror the original”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - different analysis; Different data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Confidence interval: original effect in replication 95% CI</td>
+<td style="text-align: left;">“Given an original effect size, (what is the probability that) does a repetition of the experiment, with an independent sample of participants, produce(s) a CI that overlaps with the original effect?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Confidence interval: replication effect in original 95%CI</td>
+<td style="text-align: left;">“Given an effect size and 95% CI, (what is the probability that) does a repetition of the experiment, with an independent sample of participants, give(s) an effect that falls within the original CI?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Prediction interval: replication effect in original 95% prediction interval</td>
+<td style="text-align: left;">“Do the findings from the replication study align with a reasonable expectation, given the observed variation in the original study and replication study?” - “Are the replication estimates statistically consistent with the original estimates?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Small Telescopes</td>
+<td style="text-align: left;">“Are the replication results consistent with an effect size big enough to have been detectable in the original?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Meta-analysis</td>
+<td style="text-align: left;">“Given an original-replication study pair, does the pooled effect align with that of the original study?” - “Given a set of replications, is the effect size reproducible across studies?”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - different analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Equivalence testing</td>
+<td style="text-align: left;">“For the replication of an original null finding, does the replication study find an effect that is equally negligible?” - “Are the results from the replication statistically equivalent to the results of the original study?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Minimum effect testing</td>
+<td style="text-align: left;">“Is the replication effect size significantly different from a minimal effect size of interest, required to support the original study?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Causal replication framework</td>
+<td style="text-align: left;">“How can a replication failure be interpreted, from a causal perspective”</td>
+<td style="text-align: left;">Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Text-based machine learning model to estimate reproducibility</td>
+<td style="text-align: left;">“Given the text of an original paper, what is the probability of replication success?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Prediction market</td>
+<td style="text-align: left;">“What do the participants in a prediction market predict as the probability that the original findings will replicate?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Presence/Absence of elements ensuring reproducibility,via proxies</td>
+<td style="text-align: left;">“Do the design, methods and reporting of the original paper align with community standards of reproducible and transparent research?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis; Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Quantified reproducibility assessment, QRA</td>
+<td style="text-align: left;">“After performing multiple measurements of an object, what is the precision of the measured quantity obtained?”</td>
+<td style="text-align: left;">Same data - same analysis; Different data - same analysis; Same data - different analysis; Different data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Jaccard similarity coefficient</td>
+<td style="text-align: left;">“By what extent do the results of two (or more) fMRI experiments overlap?”</td>
+<td style="text-align: left;">Same data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sceptical <span class="math inline">\(p\)</span>-value</td>
+<td style="text-align: left;">“To what extent are the results of a replication study in conflict with the beliefs of a sceptic of the original study?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Modified Brinley plot</td>
+<td style="text-align: left;">“Given a pre-specified desired effect and multiple replications, what is the share of replications that, represented graphically, achieve the desired effect?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis; Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Likelihood-based approach for reproducibility</td>
+<td style="text-align: left;">“Given a theoretically interesting effect size derived from the original study, what is the evidence for or against replicating this effect?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bayesian mixture model for reproducibility rate</td>
+<td style="text-align: left;">“Given the results (<span class="math inline">\(p\)</span>-values) from a set of original and replication studies, what is the rate of reproducibility, and how is it related to certain aspects of the experiments?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Unified framework for estimating the credibility of published research</td>
+<td style="text-align: left;">“For a specific published research work, what is the evidence for its credibility measured on four different dimensions: method and data transparency, analytic reproducibility, analytic robustness and effect reproducibility?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis; Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Reproducibility scale of workflow execution - Tonkaz</td>
+<td style="text-align: left;">“Given a certain original research paper with results based on computation, can the workflow to generate the results be executed and verified?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis; Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Mean relative effect size</td>
+<td style="text-align: left;">“What is the average ratio of replication study effects to original study effects?”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Correlation between effects</td>
+<td style="text-align: left;">“Do the replication studies and the original studies produce effects that are correlated?”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Fragility Index</td>
+<td style="text-align: left;">“Given the results of an original study were significant, what is the smallest change in the original data that is needed to deem the results non-significant? and vice-versa for original null results” - “How fragile are the original results to small changes in the underlying data?”</td>
+<td style="text-align: left;">Same data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Externally standardized residuals</td>
+<td style="text-align: left;">“Is the original study consistent with the replication(s)?” - “Are all studies included in a meta-analysis replicable?”</td>
+<td style="text-align: left;">Different data - same analysis; Same data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Snapshot hybrid</td>
+<td style="text-align: left;">“After replicating an original study, what is the evidence for a null, small, medium or large effect?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bayesian Evidence Synthesis</td>
+<td style="text-align: left;">“Given several conceptual replications with substantial diversity in data, design and methods but investigating the same theory, what is the evidence underlying a certain theory of interest?”</td>
+<td style="text-align: left;">Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Design analysis</td>
+<td style="text-align: left;">“Given the results of an original study and an effect of a hypothetical replication study, what is the probability of the estimate being in the wrong direction, and what is the factor by which the magnitude of the effect is overestimated?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Reproducibility Maps</td>
+<td style="text-align: left;">“For fMRI research, how many and which of the truly active voxels were strongly reproduced?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Continuously cumulating meta-analytic approach</td>
+<td style="text-align: left;">“Given subsequent replications that were performed to date, what is the current evidence for an effect?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Correspondence test</td>
+<td style="text-align: left;">“To what extent does the effect size from the replication study differ or is equivalent to that of the original study?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Z-curve</td>
+<td style="text-align: left;">“Do all studies combined provide credible evidence for a phenomenon?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Cross-validation methods</td>
+<td style="text-align: left;">“To what extent can the stability of a result be trusted, and to what extent can the result be generalized?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Network Comparison Test, NCT</td>
+<td style="text-align: left;">“Given two network structures, how similar are they to each other?”</td>
+<td style="text-align: left;">Same data - same analysis; Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Leave-one-out error</td>
+<td style="text-align: left;">“Given a deep learning model, how generalizable are its results?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Subjective reproducibility assessment</td>
+<td style="text-align: left;">“Does the replication team consider the replication as successful?” - “To what extent does the replication team trust in the reproducibility of a finding?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">I squared - <span class="math inline">\(I^2\)</span></td>
+<td style="text-align: left;">“Given a set of replications, to what extent is the total variation across study results due to heterogeneity?” - “How consistent are the results across replications?”</td>
+<td style="text-align: left;">Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Credibility analysis</td>
+<td style="text-align: left;">“How credible are the results of a study, in a Bayesian framework?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Consistency of original with replications, <span class="math inline">\(P_{\mbox{orig}}\)</span></td>
+<td style="text-align: left;">“To what extent are the replication effect sizes consistent with the effect size of an original study?”</td>
+<td style="text-align: left;">Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Proportion of population effects agreeing in direction with the original, <span class="math inline">\(\hat{P}_{&gt;0}\)</span></td>
+<td style="text-align: left;">“To what extent do the replication effect sizes agree with the sign found in the original study?”</td>
+<td style="text-align: left;">Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">RepliCATS</td>
+<td style="text-align: left;">“How reliable do experts believe the claims from an original finding are?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">RepeAT - Repeatability Assessment Tool</td>
+<td style="text-align: left;">“Does the presented research align with community standards of reproducible biomedical research, using electronic health records?”</td>
+<td style="text-align: left;">Same data - same analysis; Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">P interval</td>
+<td style="text-align: left;">“Given the results of an original study, what is the range of <span class="math inline">\(p\)</span>-values a replication (following the same design) would lie in with 80% probability?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">RipetaScore</td>
+<td style="text-align: left;">“Given certain trust in research, reproducibility and professionalism quality indicators, how high does a paper score?”</td>
+<td style="text-align: left;">Same data - same analysis; Different data - same analysis</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Bland-Altman Plot</td>
+<td style="text-align: left;">“Do the effects estimated in several original-replication study pairs agree with each other?” - “How good is the agreement between repeated measures/studies?”</td>
+<td style="text-align: left;">Same data - same analysis; Same data - different analysis; Different data - same analysis; Different data - different analysis</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Sceptical Bayes Factor</td>
+<td style="text-align: left;">“In light of the replication data, at which level of evidence can an advocate of the original study convince a sceptic?”</td>
+<td style="text-align: left;">Different data - same analysis</td>
 </tr>
 </tbody>
 </table>
-<p>If researchers are unsure about how to compare results for their replication study with originals, they can also browse the FORRT Replication Database (Röseler et al., 2024) and look for replication studies from their area of research, though they might note that current practice is highly variable and often not sufficiently justified.</p>
+</div>
+</div>
+<p><em>Note</em>. For reference and descriptions see the full table by <span class="citation" data-cites="HeyardEtAl2025">Heyard et al. (<a href="references.html#ref-HeyardEtAl2025" role="doc-biblioref">2025</a>, Table 4)</span> also available <a href="http://rachelheyard.com/reproducibility_metrics/#table">online</a>. Reused in accordance with the CC-BY license of the published article and the <a href="https://osf.io/sbcy3">OSF-project</a></p>
+</section>
+<section id="interpreting-divergent-results-replication-failures" class="level4" data-number="7.0.0.2">
+<h4 data-number="7.0.0.2" class="anchored" data-anchor-id="interpreting-divergent-results-replication-failures"><span class="header-section-number">7.0.0.2</span> Interpreting Divergent Results (Replication Failures)</h4>
+<p>When replications succeed, the original claim gains further credence (as long as the methods are sound). However, when replications fail, many explanations and interpretations can be advanced, which need to be carefully considered and discussed in a report. While replication failure can highlight issues with statistical conclusion validity in the original studies <span class="citation" data-cites="JohnEtAl2012 NelsonEtAl2018 SimmonsEtAl2011">(<a href="references.html#ref-JohnEtAl2012" role="doc-biblioref">John, Loewenstein, and Prelec 2012</a>; <a href="references.html#ref-NelsonEtAl2018" role="doc-biblioref">Nelson, Simmons, and Simonsohn 2018</a>; <a href="references.html#ref-SimmonsEtAl2011" role="doc-biblioref">Simmons, Nelson, and Simonsohn 2011</a>)</span>, other explanations need to be considered, including issues with internal, external, and construct validity in both original and replication studies <span class="citation" data-cites="FabrigarEtAl2020 VazireEtAl2022">(<a href="references.html#ref-FabrigarEtAl2020" role="doc-biblioref">Fabrigar, Wegener, and Petty 2020</a>; <a href="references.html#ref-VazireEtAl2022" role="doc-biblioref">Vazire, Schiavone, and Bottesini 2022</a>)</span>. For example, internal validity is threatened when attrition rates differ between experimental conditions in original or replication studies, creating potential confounds in the interpretation of treatment effects <span class="citation" data-cites="ZhouFishbach2016">(<a href="references.html#ref-ZhouFishbach2016" role="doc-biblioref">Zhou and Fishbach 2016</a>)</span>. Construct validity is threatened when original or replication studies use unvalidated ad-hoc measures, fail to employ validated manipulations of the target construct, or when differences in sample characteristics between original and replication studies mean that manipulations and measures do not work as intended <span class="citation" data-cites="FabrigarEtAl2020 FiedlerEtAl2021 FlakeFried2020">(<a href="references.html#ref-FabrigarEtAl2020" role="doc-biblioref">Fabrigar, Wegener, and Petty 2020</a>; <a href="references.html#ref-FiedlerEtAl2021" role="doc-biblioref">Fiedler, McCaughey, and Prager 2021</a>; <a href="references.html#ref-FlakeFried2020" role="doc-biblioref">Flake and Fried 2020</a>)</span>. External validity is threatened when original findings do not generalize to the specifics of the replication study due to person and context differences between studies that moderate the effect. Thus, before making statements about the original finding’s robustness and generalizability, replication researchers need to critically discuss potential methodological shortcomings in both original studies and replication attempts that limit statistical conclusion, internal, external, and construct validity.</p>
+<section id="hidden-moderator-account" class="level5" data-number="7.0.0.2.1">
+<h5 data-number="7.0.0.2.1" class="anchored" data-anchor-id="hidden-moderator-account"><span class="header-section-number">7.0.0.2.1</span> Hidden Moderator Account</h5>
+<p>One challenge for replication researchers is the identification of hidden/unknown confounds that may influence or bias the phenomenon under study. Each study has a set of potential extraneous or unknown moderator variables that is unique to it. These may seem trivial, such as the brightness of an experimental laboratory, or important, such as a cultural difference between the replicating and original studies. Yet even seemingly trivial differences <em>could </em>potentially change results. Often statistical and methodological choices are made to circumvent or attenuate these issues. However, for some paradigms, these variables could be unknown to the original researcher <span class="citation" data-cites="Fiedler2011">(<a href="references.html#ref-Fiedler2011" role="doc-biblioref">Fiedler 2011</a>)</span>. These are referred to in the literature as unknown moderators, background variables, hidden moderators or fringe variables. While they are always a way to reject unpleasant replication results, they can potentially bias replications, which highlights that a single replication is never entirely conclusive (though it might raise enough doubts that researchers do not see the value in addressing the remaining uncertainty). It should be noted that the same argument <em>could </em>be applied to raise doubts about any original study, questioning whether the effect is really due to the hypothesised cause or due to some hidden moderator or background variable. Clearly a skeptic who stops at that level would not be taken very seriously, so that it is important to move conversations about replication failure beyond general suspicion of hidden moderators.</p>
+<p><span class="citation" data-cites="Bargh2006">(<a href="references.html#ref-Bargh2006" role="doc-biblioref">Bargh 2006</a>)</span> suggested that the evidence generated by empirical findings far outweighs the resources of (social) psychology to conceptualize and understand the mechanisms underlying their effects. Therefore, boundary conditions are not easily specified, which can impact both direct and conceptual replication success. Replication failure indicates that the original claim does not generalise to the setting of the replication. Whether that generalises to the setting of the original study needs to be considered in light of theory, and might be a legitimate matter of contention.</p>
 </section>
 </section>
-<section id="interpreting-divergent-results-replication-failures-interpreting-divergent-results-replication-failures" class="level4" data-number="8.0.0.2">
-<h4 data-number="8.0.0.2" class="anchored" data-anchor-id="interpreting-divergent-results-replication-failures-interpreting-divergent-results-replication-failures"><span class="header-section-number">8.0.0.2</span> Interpreting Divergent Results (Replication Failures) {#interpreting-divergent-results-(replication-failures)}</h4>
-<p>When replications succeed, the original claim gains further credence (as long as the methods are sound). However, when replications fail, many explanations and interpretations can be advanced, which need to be carefully considered and discussed in a report. While replication failure can highlight issues with statistical conclusion validity in the original studies (John et al., 2012; Nelson et al., 2018; Simmons et al., 2011), other explanations need to be considered, including issues with internal, external, and construct validity in both original and replication studies (Fabrigar et al., 2020; Vazire et al., 2022). For example, internal validity is threatened when attrition rates differ between experimental conditions in original or replication studies, creating potential confounds in the interpretation of treatment effects (Zhou &amp; Fishbach, 2016). Construct validity is threatened when original or replication studies use unvalidated ad-hoc measures, fail to employ validated manipulations of the target construct, or when differences in sample characteristics between original and replication studies mean that manipulations and measures do not work as intended (Fabrigar et al., 2020; Fiedler et al., 2021; Flake &amp; Fried, 2020). External validity is threatened when original findings do not generalize to the specifics of the replication study due to person and context differences between studies that moderate the effect. Thus, before making statements about the original finding’s robustness and generalizability, replication researchers need to critically discuss potential methodological shortcomings in both original studies and replication attempts that limit statistical conclusion, internal, external, and construct validity.</p>
-<section id="hidden-moderator-account" class="level5" data-number="8.0.0.2.1">
-<h5 data-number="8.0.0.2.1" class="anchored" data-anchor-id="hidden-moderator-account"><span class="header-section-number">8.0.0.2.1</span> Hidden Moderator Account</h5>
-<p>One challenge for replication researchers is the identification of hidden/unknown confounds that may influence or bias the phenomenon under study. Each study has a set of potential extraneous or unknown moderator variables that is unique to it. These may seem trivial, such as the brightness of an experimental laboratory, or important, such as a cultural difference between the replicating and original studies. Yet even seemingly trivial differences <em>could</em> potentially change results. Often statistical and methodological choices are made to circumvent or attenuate these issues. However, for some paradigms, these variables could be unknown to the original researcher (Fiedler, 2011). These are referred to in the literature as unknown moderators, background variables, hidden moderators or fringe variables. While they are always a way to reject unpleasant replication results, they can potentially bias replications, which highlights that a single replication is never entirely conclusive (though it might raise enough doubts that researchers do not see the value in addressing the remaining uncertainty). It should be noted that the same argument <em>could</em> be applied to raise doubts about any original study, questioning whether the effect is really due to the hypothesised cause or due to some hidden moderator or background variable. Clearly a skeptic who stops at that level would not be taken very seriously, so that it is important to move conversations about replication failure beyond general suspicion of hidden moderators.</p>
-<p>Bargh (2006) suggested that the evidence generated by empirical findings far outweighs the resources of (social) psychology to conceptualize and understand the mechanisms underlying their effects. Therefore, boundary conditions are not easily specified, which can impact both direct and conceptual replication success. Replication failure indicates that the original claim does not generalise to the setting of the replication. Whether that generalises to the setting of the original study needs to be considered in light of theory, and might be a legitimate matter of contention.</p>
-</section>
-</section>
-<section id="the-role-of-differences-for-the-interpretation-of-findings" class="level4" data-number="8.0.0.3">
-<h4 data-number="8.0.0.3" class="anchored" data-anchor-id="the-role-of-differences-for-the-interpretation-of-findings"><span class="header-section-number">8.0.0.3</span> The Role of Differences for the Interpretation of Findings</h4>
-<p>Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in Figure 5 and integrated from previous accounts by Borgstede and Scholz (2021) and Freese and Peterson (2017, Figure 3).</p>
+<section id="the-role-of-differences-for-the-interpretation-of-findings" class="level4" data-number="7.0.0.3">
+<h4 data-number="7.0.0.3" class="anchored" data-anchor-id="the-role-of-differences-for-the-interpretation-of-findings"><span class="header-section-number">7.0.0.3</span> The Role of Differences for the Interpretation of Findings</h4>
+<p>Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in Figure 5 and integrated from previous accounts by Borgstede and Scholz <span class="citation" data-cites="BorgstedeScholz2021">(<a href="references.html#ref-BorgstedeScholz2021" role="doc-biblioref">Borgstede and Scholz 2021</a>)</span> and Freese and Peterson <span class="citation" data-cites="FreesePeterson2017">(<a href="references.html#ref-FreesePeterson2017" role="doc-biblioref">Freese and Peterson 2017, fig. 3</a>)</span>.</p>
 <p><strong>Figure 5</strong></p>
-<p><em>Interpretation of replication outcomes depend on similarity of closeness and results as well as the view (inductive vs.&nbsp;deductive).</em></p>
-<p>![][image5]</p>
+<p><em>Interpretation of replication outcomes depend on similarity of <strong>closeness</strong> and results as well as the view (<strong>inductive vs.&nbsp;deductive</strong>).</em></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/eH3_Image_5.png" class="img-fluid figure-img"></p>
+<figcaption>Guidelines for how repliccation outcomes should be interpreted based on similarity of original and replication</figcaption>
+</figure>
+</div>
+<p><em>Note.</em></p>
+<ul>
+<li><p>Inductive or phenomenon-oriented views assume minimal generalizability of the original finding. For example, they cannot cast doubts on the original finding unless the replication is highly similar to the original study.</p></li>
+<li><p>Deductive or theory-oriented views assume maximal generality of a theory. For example, different results (i.e., replication failures) cast doubts on the <em>theory</em> regardless of the replication type.</p></li>
+</ul>
 </section>
-<section id="comments-from-the-original-studys-authors-comments-from-the-original-studys-authors" class="level4" data-number="8.0.0.4">
-<h4 data-number="8.0.0.4" class="anchored" data-anchor-id="comments-from-the-original-studys-authors-comments-from-the-original-studys-authors"><span class="header-section-number">8.0.0.4</span> Comments from the Original Study’s Authors {#comments-from-the-original-study’s-authors}</h4>
+<section id="comments-from-the-original-studys-authors" class="level4" data-number="7.0.0.4">
+<h4 data-number="7.0.0.4" class="anchored" data-anchor-id="comments-from-the-original-studys-authors"><span class="header-section-number">7.0.0.4</span> Comments from the Original Study’s Authors</h4>
 <p>If the replication results do not converge with the original results, replication researchers can reach out to the original study’s authors and ask for a comment that they can publish together with the replication report. A template for asking for a comment is in the appendix. Note that some journals (e.g., <em>Journal of Replications and Comments in Economics</em>) require such statements at the time of submission.</p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
+<div id="ref-Bargh2006" class="csl-entry" role="listitem">
+Bargh, J. A. 2006. <span>“What Have We Been Priming All These Years? On the Development, Mechanisms, and Ecology of Nonconscious Social Behavior.”</span> <em>European Journal of Social Psychology</em> 36 (2): 147–68. <a href="https://doi.org/10.1002/ejsp.336">https://doi.org/10.1002/ejsp.336</a>.
+</div>
+<div id="ref-BorgstedeScholz2021" class="csl-entry" role="listitem">
+Borgstede, M., and M. Scholz. 2021. <span>“Quantitative and Qualitative Approaches to Generalization and Replication–a Representationalist View.”</span> <em>Frontiers in Psychology</em> 12: 605191. <a href="https://doi.org/10.3389/fpsyg.2021.605191">https://doi.org/10.3389/fpsyg.2021.605191</a>.
+</div>
+<div id="ref-ErringtonEtAl2021a" class="csl-entry" role="listitem">
+Errington, T. M., A. Denis, N. Perfito, E. Iorns, and B. A. Nosek. 2021. <span>“Challenges for Assessing Replicability in Preclinical Cancer Biology.”</span> <em>eLife</em> 10: e67995. <a href="https://doi.org/10.7554/eLife.67995">https://doi.org/10.7554/eLife.67995</a>.
+</div>
+<div id="ref-FabrigarEtAl2020" class="csl-entry" role="listitem">
+Fabrigar, L. R., D. T. Wegener, and R. E. Petty. 2020. <span>“A Validity-Based Framework for Understanding Replication in Psychology.”</span> <em>Personality and Social Psychology Review</em> 24 (4): 316–44. <a href="https://doi.org/10.1177/1088868320931366">https://doi.org/10.1177/1088868320931366</a>.
+</div>
+<div id="ref-Fiedler2011" class="csl-entry" role="listitem">
+Fiedler, K. 2011. <span>“Voodoo Correlations Are Everywhere—Not Only in Neuroscience.”</span> <em>Perspectives on Psychological Science</em> 6 (2): 163–71. <a href="https://doi.org/10.1177/1745691611400237">https://doi.org/10.1177/1745691611400237</a>.
+</div>
+<div id="ref-FiedlerEtAl2021" class="csl-entry" role="listitem">
+Fiedler, K., L. McCaughey, and J. Prager. 2021. <span>“Quo Vadis, Methodology? The Key Role of Manipulation Checks for Validity Control and Quality of Science.”</span> <em>Perspectives on Psychological Science</em> 16 (4): 816–26. <a href="https://doi.org/10.1177/1745691620970602">https://doi.org/10.1177/1745691620970602</a>.
+</div>
+<div id="ref-FlakeFried2020" class="csl-entry" role="listitem">
+Flake, J. K., and E. I. Fried. 2020. <span>“Measurement Schmeasurement: Questionable Measurement Practices and How to Avoid Them.”</span> <em>Advances in Methods and Practices in Psychological Science</em> 3 (4): 456–65. <a href="https://doi.org/10.1177/2515245920952393">https://doi.org/10.1177/2515245920952393</a>.
+</div>
+<div id="ref-FreesePeterson2017" class="csl-entry" role="listitem">
+Freese, J., and D. Peterson. 2017. <span>“Replication in Social Science.”</span> <em>Annual Review of Sociology</em> 43 (1): 147–65. <a href="https://doi.org/10.1146/annurev-soc-060116-053450">https://doi.org/10.1146/annurev-soc-060116-053450</a>.
+</div>
+<div id="ref-HeyardEtAl2025" class="csl-entry" role="listitem">
+Heyard, R., S. Pawel, J. Frese, B. Voelkl, H. Würbel, S. McCann, and S. Zellers. 2025. <span>“A Scoping Review on Metrics to Quantify Reproducibility: A Multitude of Questions Leads to a Multitude of Metrics.”</span> <em>Royal Society Open Science</em> 12 (7): 242076. <a href="https://doi.org/10.1098/rsos.242076">https://doi.org/10.1098/rsos.242076</a>.
+</div>
+<div id="ref-JohnEtAl2012" class="csl-entry" role="listitem">
+John, L. K., G. Loewenstein, and D. Prelec. 2012. <span>“Measuring the Prevalence of Questionable Research Practices with Incentives for Truth Telling.”</span> <em>Psychological Science</em> 23 (5): 524–32. <a href="https://doi.org/10.1177/0956797611430953">https://doi.org/10.1177/0956797611430953</a>.
+</div>
+<div id="ref-MuradchanianEtAl2021" class="csl-entry" role="listitem">
+Muradchanian, J., R. Hoekstra, H. Kiers, and D. van Ravenzwaaij. 2021. <span>“How Best to Quantify Replication Success? A Simulation Study on the Comparison of Replication Success Metrics.”</span> <em>Royal Society Open Science</em> 8 (5): 201697. <a href="https://doi.org/10.1098/rsos.201697">https://doi.org/10.1098/rsos.201697</a>.
+</div>
+<div id="ref-NelsonEtAl2018" class="csl-entry" role="listitem">
+Nelson, L. D., J. Simmons, and U. Simonsohn. 2018. <span>“Psychology’s Renaissance.”</span> <em>Annual Review of Psychology</em> 69 (1): 511–34. <a href="https://doi.org/10.1146/annurev-psych-122216-011836">https://doi.org/10.1146/annurev-psych-122216-011836</a>.
+</div>
+<div id="ref-PatilEtAl2016b" class="csl-entry" role="listitem">
+Patil, P., R. D. Peng, and J. T. Leek. 2016. <span>“What Should Researchers Expect When They Replicate Studies? A Statistical View of Replicability in Psychological Science.”</span> <em>Perspectives on Psychological Science</em> 11 (4): 539–44. <a href="https://doi.org/10.1177/1745691616646366">https://doi.org/10.1177/1745691616646366</a>.
+</div>
+<div id="ref-RoselerWallrich2024" class="csl-entry" role="listitem">
+Röseler, L., and L. Wallrich. 2024. <em>FReD: Interfaces to the FORRT Replication Database</em>. <a href="http://forrt.org/FReD/">http://forrt.org/FReD/</a>.
+</div>
+<div id="ref-SchauerHedges2021" class="csl-entry" role="listitem">
+Schauer, J. M., and L. V. Hedges. 2021. <span>“Reconsidering Statistical Methods for Assessing Replication.”</span> <em>Psychological Methods</em> 26 (1): 127–39. <a href="https://doi.org/10.1037/met0000302">https://doi.org/10.1037/met0000302</a>.
+</div>
+<div id="ref-SimmonsEtAl2011" class="csl-entry" role="listitem">
+Simmons, J. P., L. D. Nelson, and U. Simonsohn. 2011. <span>“False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant.”</span> <em>Psychological Science</em> 22 (11): 1359–66. <a href="https://doi.org/10.1177/0956797611417632">https://doi.org/10.1177/0956797611417632</a>.
+</div>
+<div id="ref-VazireEtAl2022" class="csl-entry" role="listitem">
+Vazire, S., S. R. Schiavone, and J. G. Bottesini. 2022. <span>“Credibility Beyond Replicability: Improving the Four Validities in Psychological Science.”</span> <em>Current Directions in Psychological Science</em> 31 (2): 162–68. <a href="https://doi.org/10.1177/09637214211067779">https://doi.org/10.1177/09637214211067779</a>.
+</div>
+<div id="ref-ZhouFishbach2016" class="csl-entry" role="listitem">
+Zhou, Haotian, and Ayelet Fishbach. 2016. <span>“The Pitfall of Experimenting on the Web: How Unattended Selective Attrition Leads to Surprising (yet False) Research Conclusions.”</span> <em>Journal of Personality and Social Psychology</em> 111 (4): 493–504. <a href="https://doi.org/10.1037/pspa0000056">https://doi.org/10.1037/pspa0000056</a>.
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -775,12 +1107,12 @@ ul.task-list li input[type="checkbox"] {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./execution_replications.html" class="pagination-link" aria-label="Execution of Replications">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Execution of Replications</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./publishing.html" class="pagination-link" aria-label="Publishing and Communicating">
-        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Publishing and Communicating</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./publishing.html" class="pagination-link" aria-label="Communicating and Publishing">
+        <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Communicating and Publishing</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -791,7 +1123,7 @@ ul.task-list li input[type="checkbox"] {
       &nbsp;
     </div>   
     <div class="nav-footer-center">
-<p>Röseler, L.*, Wallrich, L.*, Hartmann, H., Hüffmeier, J., Goltermann, J., Pennington, C. R., Boyce, V., Field, S. M., Pittelkow, M.-M., Silverstein, P., van Ravenzwaaij, D., Azevedo, F. (2025). Handbook on Conducting Reproduction and Replication Studies. https://forrt.org/replication_guide *shared first authorship</p>
+<p>Röseler, L.*, Wallrich, L.*, Hartmann, H., Hüffmeier, J., Goltermann, J., Pennington, C. R., Boyce, V., Field, S. M., Pittelkow, M.-M., Silverstein, P., van Ravenzwaaij, D., Azevedo, F. (2025). Handbook for Reproduction and Replication Studies. https://forrt.org/replication_guide *shared first authorship</p>
 </div>
     <div class="nav-footer-right">
       &nbsp;

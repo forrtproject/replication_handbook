@@ -13,14 +13,12 @@ The journals that published the original studies are often also chosen by author
 | PubPeer | Researchers can comment on the original study and say that there is a replication attempt, describe the outcome, and provide links/references/DOIs to the replication(s). Researchers checking pubpeer.com or using the browser plug-in that automatically highlights studies for which there are comments will see your comment. |
 | Manuscript (required for Preprint and Journal Article) | Manuscripts are mostly used as they are the traditional form of a research article. For judgment and decision making, there are useful examples by @Feldman2024. For reproducibility analyses the I4R Replication Report Template (https://osf.io/j2qrx) can be used. Moreover, Röseler et al. [-@RoselerEtAl2025] provide general templates for reproductions and replications. |
 | Preprint | We recommend publishing a report in the form of a traditional or standardized manuscript as a preprint. This secures open access and makes the report visible, citable, and commentable. There are many preprint servers across the social sciences (e.g., PsyArxiv, SOCARXIV, SportRxiv, MediArXiv, MindRxiv, EdArXiv, AfricArXiv, or MetaArXiv). In some countries, researchers have a legal right for a secondary publication of their research (green open access). Be aware that preprints are faster in terms of publication than journal articles, but are usually not peer-reviewed. |
-| Journal article | Most researchers have to “play by the rules”, that is, publish or perish [@BakkerEtAl2012; @KooleLakens2012]. While some have argued for a pottery barn rule (https://thehardestscience.com/2012/09/27/a-pottery-barn-rule-for-scientific-journals/) where journals that published the original finding have to publish respective replication attempts, many journals are not (yet) interested in replications. Notable exceptions are listed in the appendix. This is why journals dedicated to replications have emerged (see @tbl-rep-journals). Moreover, researchers can submit their preprint to a PCI community (see https://peercommunityin.org/current-pcis/), which is a preprint peer-review service. Several journals are PCI-friendly, which means that they publish articles recommended by the respective PCI. 
+| Journal article | Most researchers have to “play by the rules”, that is, publish or perish [@BakkerEtAl2012; @KooleLakens2012]. While some have argued for a pottery barn rule where journals that published the original finding have to publish respective replication attempts [e.g., @Srivastava2012], many journals are not (yet) interested in replications. Notable exceptions are listed in the appendix. This is why journals dedicated to replications have emerged (see @tbl-rep-journals). Moreover, researchers can submit their preprint to a PCI community (see https://peercommunityin.org/current-pcis/), which is a preprint peer-review service. Several journals are PCI-friendly, which means that they publish articles recommended by the respective PCI. 
 
 : Reporting and communicating reproductions and replications. {#tbl-reporting-options}
 
 
-Many institutions and libraries recommend adding a CC-BY disclaimer on journal submissions that give the researchers the right to use the accepted manuscript as they like or choosing Diamond Open Access journals that are defined by no fees for publishing and reading research. |
-
-
+Many institutions and libraries recommend adding a CC-BY disclaimer on journal submissions that give the researchers the right to use the accepted manuscript as they like or choosing Diamond Open Access journals that are defined by no fees for publishing and reading research.
 
 | Journal name | Commercial status | Owners | Disciplines | Article types | Website |
 |---|---|---|---|---|---|
@@ -34,4 +32,4 @@ Many institutions and libraries recommend adding a CC-BY disclaimer on journal s
 | Rescience X | Non-commercial, diamond OA | Etienne B. Roesch | Multidisciplinary | Replications (Experiments) | http://rescience.org/x  |
 | AIS Transactions on Replication Research | Non-commercial, diamond OA | Association for Information Systems | Information Systems | Exact, Methodological, Conceptual Replications | https://aisel.aisnet.org/trr/  |
 
-Active journals dedicated to reproductions and replications. {#tbl-rep-journals}
+: Active journals dedicated to reproductions and replications. {#tbl-rep-journals}

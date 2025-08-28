@@ -276,7 +276,9 @@ format:
     include-before-body: cover-page.tex
     title: ""      # disables title in PDF
     author: ""     # disables authors in PDF
-    titlepage: false
     fig-cap-location: top
 
 editor: visual
+
+filters:
+  - fontawesome

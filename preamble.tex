@@ -29,3 +29,8 @@
 \usepackage{etoolbox}
 \AtBeginEnvironment{longtable}{\small}
 \AtBeginEnvironment{tabular}{\small}
+
+% Avoid duplicate title page in PDF output
+\makeatletter
+\renewcommand{\maketitle}{} % disable auto title page
+\makeatother

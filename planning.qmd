@@ -35,10 +35,7 @@ If the original code and dataset are available, researchers can try to *numerica
 
 If neither code nor data are available (or shared by the authors), no reproduction is possible. Researchers can still use automated tools to compare reported *p*-values with those that can be computed from test statistics via the website statcheck.io (where documents may be uploaded), the corresponding R package [@NuijtenPolanin2020], or papercheck [@papercheckR], which is still actively maintained.
 
-**Figure**** 2**** \
-***Decision tree to choose between types of reproductions depending on available code and data.*
-
-![Reproduction decision tree](images/WBn_Image_3.png)
+![Decision tree to choose between types of reproductions depending on available code and data.](images/WBn_Image_3.png){#fig-repr-decision-tree}
 
 ## Close replication before conceptual replication
 

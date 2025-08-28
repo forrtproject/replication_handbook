@@ -12,3 +12,12 @@ The practice of repeatedly testing published results with the same data (reprodu
 #| echo: false
 cat(paste("Last update:", Sys.Date()))
 ```
+
+# How to Cite
+
+Please cite this handbook as:
+
+Röseler, L., Wallrich, L., Hartmann, H., Altegoer, L., Boyce, V., Field, S. M., 
+Goltermann, J., Hüffmeier, J., Pennington, C. R., Pittelkow, M.-M., Silverstein, P., 
+van Ravenzwaaij, D., & Azevedo, F. (2025). *Handbook for Reproduction and Replication Studies*. 
+Zenodo. https://doi.org/10.5281/zenodo.16990115

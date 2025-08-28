@@ -78,4 +78,4 @@ Each replication outcome should be evaluated in the light of its closeness, whic
 
 ## Comments from the Original Study’s Authors
 
-If the replication results do not converge with the original results, replication researchers can reach out to the original study’s authors and ask for a comment that they can publish together with the replication report. A template for asking for a comment is in the appendix. Note that some journals (e.g., *Journal of Replications and Comments in Economics*) require such statements at the time of submission.
+If the replication results do not converge with the original results, replication researchers can reach out to the original study’s authors and ask for a comment that they can publish together with the replication report. A template for asking for a comment is in the appendix. Note that some journals (e.g., *Journal of Comments and Replications in Economics*) require such statements at the time of submission.

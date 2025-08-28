@@ -5,6 +5,7 @@ project:
 book:
   description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
   title: "Handbook for Reproduction and Replication Studies"
+  citation: "doi:10.5281/zenodo.16990115"
   author:
   - id: roeseler
     number: 1

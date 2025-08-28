@@ -26,6 +26,17 @@ jobs:
       - name: Render site into docs/
         run: quarto render --output-dir docs
 
+      - name: Remove first page from PDF (due to title page issue)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y qpdf
+          # Only files in docs/, not in subdirectories
+          find docs -maxdepth 1 -type f -name '*.pdf' -print0 | while IFS= read -r -d '' f; do
+            tmp="${f%.pdf}_tmp.pdf"
+            qpdf "$f" --pages . 2-z -- "$tmp" || continue
+            mv "$tmp" "$f"
+          done   
+
       - name: Commit and push rendered docs
         run: |
           touch docs/.nojekyll

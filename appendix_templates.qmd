@@ -2,7 +2,7 @@
 title: "Email templates"
 ---
 
-### Asking for materials and data
+## Asking for materials and data
 
 Dear [name of author(s)],
 
@@ -19,7 +19,7 @@ Thank you,
 [Your name]
 
 
-### Asking for comments on an experimental paradigm
+## Asking for comments on an experimental paradigm
 
 Dear [name of authors],
 
@@ -31,7 +31,7 @@ Thanks again,
 [Your name]
 
 
-### Asking for comments on replication results
+## Asking for comments on replication results
 
 Dear [name of author(s)],
 

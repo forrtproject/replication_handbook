@@ -2,18 +2,17 @@
 title: "Discussion"
 ---
 
-#### Defining and Determining Replication Success
+#### Defining and Determining Replication Success {#sec-success-criteria}
 
-There is no strong consensus yet on what constitutes a replication success and some approaches can be biased [@SchauerHedges2021] or imprecise [@PatilEtAl2016b]. Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs. failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or *p*-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their pre-registration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.
+There is no strong consensus yet on what constitutes a replication success and some approaches can be biased [@SchauerHedges2021] or imprecise [@PatilEtAl2016b]. Like in classical null hypothesis significance testing (NHST), replication researchers face the trade-off between dichotomizing something that is not dichotomous (success vs. failure) and making a clear decision about the outcome. On the one hand this is a question about statistical choices and their interpretation, namely how to compare original and replication effect sizes (or *p*-values) and how to interpret differences. On the other hand, it is a more complex question about how to interpret a mixed pattern of results, where some results are consistent across original and replication, while others are not. Here, it is important for replication researchers to specify which effects are of primary interest in their preregistration, and how they will aggregate results, noting that requiring multiple effects to yield the same result will reduce statistical power.
 
 Below, we present different approaches to assessing replication success as summarized by Heyard et al. [-@HeyardEtAl2025; see also @MuradchanianEtAl2021; @RoselerWallrich2024; @ErringtonEtAl2021a, Table 1]
 
-**Table 3**
-
-*Criteria to operationalize replication success (excerpt from Heyard et al., 2025)*
-
 ```{r}
-#| label: success criteria
+#| label: tbl-rep-success-criteria
+#| tbl-cap: |
+#|   Criteria to operationalize replication success (excerpt from @HeyardEtAl2025 [Table 4])
+#|   *Note*. For full references and descriptions, see the original table, also available [online](http://rachelheyard.com/reproducibility_metrics/#table). Reused in accordance with the CC-BY license of the published article.
 #| echo: false
 #| message: false
 #| warning: false
@@ -55,8 +54,6 @@ names(rs) <- gsub("\\.", " ", names(rs)) # replace "." with " " in variable name
 knitr::kable(rs, caption = "Success Criteria Table")
 ```
 
-*Note*. For reference and descriptions see the full table by @HeyardEtAl2025 [Table 4] also available [online]( http://rachelheyard.com/reproducibility_metrics/#table). Reused in accordance with the CC-BY license of the published article and the [OSF-project](https://osf.io/sbcy3)
-
 #### Interpreting Divergent Results (Replication Failures)
 
 When replications succeed, the original claim gains further credence (as long as the methods are sound). However, when replications fail, many explanations and interpretations can be advanced, which need to be carefully considered and discussed in a report. While replication failure can highlight issues with statistical conclusion validity in the original studies [@JohnEtAl2012; @NelsonEtAl2018; @SimmonsEtAl2011], other explanations need to be considered, including issues with internal, external, and construct validity in both original and replication studies [@FabrigarEtAl2020; @VazireEtAl2022]. For example, internal validity is threatened when attrition rates differ between experimental conditions in original or replication studies, creating potential confounds in the interpretation of treatment effects [@ZhouFishbach2016]. Construct validity is threatened when original or replication studies use unvalidated ad-hoc measures, fail to employ validated manipulations of the target construct, or when differences in sample characteristics between original and replication studies mean that manipulations and measures do not work as intended [@FabrigarEtAl2020; @FiedlerEtAl2021; @FlakeFried2020]. External validity is threatened when original findings do not generalize to the specifics of the replication study due to person and context differences between studies that moderate the effect. Thus, before making statements about the original finding’s robustness and generalizability, replication researchers need to critically discuss potential methodological shortcomings in both original studies and replication attempts that limit statistical conclusion, internal, external, and construct validity. 
@@ -67,15 +64,11 @@ One challenge for replication researchers is  the identification of hidden/unkno
 
 [@Bargh2006] suggested that the evidence generated by empirical findings far outweighs the resources of (social) psychology to conceptualize and understand the mechanisms underlying their effects. Therefore, boundary conditions are not easily specified, which can impact both direct and conceptual replication success. Replication failure indicates that the original claim does not generalise to the setting of the replication. Whether that generalises to the setting of the original study needs to be considered in light of theory, and might be a legitimate matter of contention.
 
-#### The Role of Differences for the Interpretation of Findings
+#### The Role of Differences for the Interpretation of Findings {#sec-differences-and-interpretation}
 
-Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in Figure 5 and integrated from previous accounts by Borgstede and Scholz [@BorgstedeScholz2021] and Freese and Peterson [@FreesePeterson2017, Figure 3].
+Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in @fig-success-interpretation and integrated from previous accounts by Borgstede and Scholz [@BorgstedeScholz2021] and Freese and Peterson [@FreesePeterson2017, Figure 3].
 
-**Figure 5**
-
-*Interpretation of replication outcomes depend on similarity of **closeness** and results as well as the view (**inductive vs. deductive**).*
-
-![Guidelines for how repliccation outcomes should be interpreted based on similarity of original and replication](images/eH3_Image_5.png)
+![Interpretation of replication outcomes depend on similarity of **closeness** and results as well as the view (**inductive vs. deductive**).](images/eH3_Image_5.png){#fig-success-interpretation}
 
 *Note.*
 

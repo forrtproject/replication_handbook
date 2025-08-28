@@ -222,7 +222,7 @@ book:
     affiliations:
       - name: "Department of Psychology, University of Groningen, Netherlands"
   reader-mode: true
-  date: "08-15-2025"
+  date: "08-28-2025"
   chapters:
     - index.qmd
     - part: "Foundations"
@@ -264,6 +264,8 @@ format:
   html:
     theme:
       light: [cosmo, theme.scss]
+    fig-cap-location: top
+
   pdf:
     documentclass: scrreprt
     classoption: ["openany", "fontsize=12pt", "parskip=half", "headings=big", "numbers=noenddot"]
@@ -274,5 +276,7 @@ format:
     include-before-body: cover-page.tex
     title: ""      # disables title in PDF
     author: ""     # disables authors in PDF
+    titlepage: false
+    fig-cap-location: top
 
 editor: visual

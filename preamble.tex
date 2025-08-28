@@ -30,16 +30,6 @@
 \AtBeginEnvironment{longtable}{\small}
 \AtBeginEnvironment{tabular}{\small}
 
-% Avoid duplicate title page in PDF output
-\makeatletter
-\renewcommand{\maketitle}{} % disable auto title page
-\makeatother
-
-% Stop Pandoc/Quarto from emitting an empty titlepage
-\makeatletter
-\renewenvironment{titlepage}{}{} % no page, no clearpage
-\makeatother
-
 % Belt-and-braces: prevent forced blank recto pages
 \makeatletter
 \let\cleardoublepage\clearpage

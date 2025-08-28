@@ -6,45 +6,221 @@ book:
   description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
   title: "Handbook for Reproduction and Replication Studies"
   author:
-    - name: "Lukas Röseler*"
-      affiliation: "Münster Center for Open Science, University of Münster, Germany"
-      orcid: 0000-0002-6446-1901
-    - name: "Lukas Wallrich*"
-      affiliation: "Birkbeck Business School, University of London, United Kingdom"
-      orcid: 0000-0003-2121-5177
-    - name: "Helena Hartmann"
-      affiliation: "Department for Neurology and Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Hospital Essen, Germany"
-      orcid: 0000-0002-1331-6683
-    - name: "Luisa Altegoer"
-      affiliation: "University of Münster, Institute for Translational Psychiatry"
-      orcid: 0000-0001-8466-7328
-    - name: "Veronica Boyce"
-      affiliation: "Department of Psychology, Stanford University, United States"
-      orcid: 0000-0002-8890-2775
-    - name: "Sarahanne M. Field"
-      affiliation: "Department of pedagogy, University of Groningen, Netherlands"
-      orcid: 0000-0001-7874-1261
-    - name: "Janik Goltermann"
-      affiliation: "University of Münster, Institute for Translational Psychiatry, Germany"
-      orcid: 0000-0003-3087-1002
-    - name: "Joachim Hüffmeier"
-      affiliation: "TU Dortmund University, Germany"
-      orcid: 0000-0002-0490-7035
-    - name: "Charlotte R. Pennington"
-      affiliation: "School of Psychology, Aston University, Birmingham, United Kingdom"
-      orcid: 0000-0002-5259-642X
-    - name: "Merle-Marie Pittelkow"
-      affiliation: "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Germany"
-      orcid: 0000-0002-7877-7898
-    - name: "Priya Silverstein"
-      affiliation: "Center for Neuroscience and Cell Biology, University of Coimbra; Institute for Globally Distributed Open Research and Education, Portugal"
-      orcid: 0000-0003-0095-339X
-    - name: "Don van Ravenzwaaij"
-      affiliation: "Department of psychology, University of Groningen, Netherlands"
-      orcid: 0000-0002-5030-4091
-    - name: "Flavio Azevedo"
-      affiliation: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
-      orcid: 0000-0001-9000-8513
+  - id: roeseler
+    number: 1
+    name:
+      given: "Lukas"
+      family: "Röseler"
+      literal: "Lukas Röseler"
+    orcid: "0000-0002-6446-1901"
+    note: "*shared first authorship"
+    attributes:
+      corresponding: true
+      equal-contributor: true
+      deceased: false
+    roles:
+      - conceptualization
+      - project-administration
+      - writing-original-draft
+      - writing-review-editing
+    affiliations:
+      - name: "Münster Center for Open Science, University of Münster, Germany"
+
+  - id: wallrich
+    number: 2
+    name:
+      given: "Lukas"
+      family: "Wallrich"
+      literal: "Lukas Wallrich"
+    orcid: "0000-0003-2121-5177"
+    note: "*shared first authorship"
+    attributes:
+      corresponding: true
+      equal-contributor: true
+      deceased: false
+    roles:
+      - writing-original-draft
+      - writing-review-editing
+    affiliations:
+      - name: "Birkbeck Business School, University of London, United Kingdom"
+
+  - id: hartmann
+    number: 3
+    name:
+      given: "Helena"
+      family: "Hartmann"
+      literal: "Helena Hartmann"
+    orcid: "0000-0002-1331-6683"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-original-draft
+      - writing-review-editing
+    affiliations:
+      - name: "Department for Neurology and Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Hospital Essen, Germany"
+
+  - id: azevedo
+    number: 4
+    name:
+      given: "Flavio"
+      family: "Azevedo"
+      literal: "Flavio Azevedo"
+    orcid: "0000-0001-9000-8513"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-original-draft
+      - writing-review-editing
+    affiliations:
+      - name: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
+
+  - id: altegoer
+    number: 5
+    name:
+      given: "Luisa"
+      family: "Altegoer"
+      literal: "Luisa Altegoer"
+    orcid: "0000-0001-8466-7328"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "University of Münster, Institute for Translational Psychiatry, Germany"
+
+  - id: boyce
+    number: 6
+    name:
+      given: "Veronica"
+      family: "Boyce"
+      literal: "Veronica Boyce"
+    orcid: "0000-0002-8890-2775"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "Department of Psychology, Stanford University, United States"
+
+  - id: field
+    number: 7
+    name:
+      given: "Sarahanne M."
+      family: "Field"
+      literal: "Sarahanne M. Field"
+    orcid: "0000-0001-7874-1261"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "Department of Pedagogy, University of Groningen, Netherlands"
+
+  - id: goltermann
+    number: 8
+    name:
+      given: "Janik"
+      family: "Goltermann"
+      literal: "Janik Goltermann"
+    orcid: "0000-0003-3087-1002"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "University of Münster, Institute for Translational Psychiatry, Germany"
+
+  - id: hueffmeier
+    number: 9
+    name:
+      given: "Joachim"
+      family: "Hüffmeier"
+      literal: "Joachim Hüffmeier"
+    orcid: "0000-0002-0490-7035"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "TU Dortmund University, Germany"
+
+  - id: pennington
+    number: 10
+    name:
+      given: "Charlotte R."
+      family: "Pennington"
+      literal: "Charlotte R. Pennington"
+    orcid: "0000-0002-5259-642X"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "School of Psychology, Aston University, Birmingham, United Kingdom"
+
+  - id: pittelkow
+    number: 11
+    name:
+      given: "Merle-Marie"
+      family: "Pittelkow"
+      literal: "Merle-Marie Pittelkow"
+    orcid: "0000-0002-7487-7898"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "Berlin Institute of Health at Charité - Universitätsmedizin Berlin, Germany"
+
+  - id: silverstein
+    number: 12
+    name:
+      given: "Priya"
+      family: "Silverstein"
+      literal: "Priya Silverstein"
+    orcid: "0000-0003-0095-339X"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "Center for Neuroscience and Cell Biology, University of Coimbra; Institute for Globally Distributed Open Research and Education, Portugal"
+
+  - id: vanravenzwaaij
+    number: 13
+    name:
+      given: "Don"
+      family: "van Ravenzwaaij"
+      literal: "Don van Ravenzwaaij"
+    orcid: "0000-0002-5030-4091"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-review-editing
+    affiliations:
+      - name: "Department of Psychology, University of Groningen, Netherlands"
   reader-mode: true
   date: "08-15-2025"
   chapters:

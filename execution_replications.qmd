@@ -82,7 +82,7 @@ To reduce the chance that a failure to replicate is dismissed by the original st
 
 - After no effect of the pen-in-mouth task was found in the facial feedback Registered Replication Report by Wagenmakers et al. [-@WagenmakersEtAl2016], another multilab test, which included one of the original authors, arrived at the same results [-@ColesEtAl2022].
 
-- The Many Labs 4 project set out to test the effect of author involvement on replication success but found an overall null effect for the group of studies that did and that did not include original findings’ authors [@KleinEtAl2022].
+- The Many Labs 4 project set out to test the effect of author involvement on replication success but found an overall null effect for the group of studies that did and that did not include original findings’ authors [@KleinEtAl2014].
 
 - For social priming studies’ replication success, “the strongest predictor of replication success was whether or not the replication team included at least one of the authors of the original paper” [@MacGiollaEtAl2024].
 

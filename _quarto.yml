@@ -61,23 +61,6 @@ book:
     affiliations:
       - name: "Department for Neurology and Center for Translational Neuro- and Behavioral Sciences (C-TNBS), University Hospital Essen, Germany"
 
-  - id: azevedo
-    number: 14
-    name:
-      given: "Flavio"
-      family: "Azevedo"
-      literal: "Flavio Azevedo"
-    orcid: "0000-0001-9000-8513"
-    attributes:
-      corresponding: false
-      equal-contributor: false
-      deceased: false
-    roles:
-      - writing-original-draft
-      - writing-review-editing
-    affiliations:
-      - name: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
-
   - id: altegoer
     number: 5
     name:
@@ -221,6 +204,24 @@ book:
       - writing-review-editing
     affiliations:
       - name: "Department of Psychology, University of Groningen, Netherlands"
+
+  - id: azevedo
+    number: 14
+    name:
+      given: "Flavio"
+      family: "Azevedo"
+      literal: "Flavio Azevedo"
+    orcid: "0000-0001-9000-8513"
+    attributes:
+      corresponding: false
+      equal-contributor: false
+      deceased: false
+    roles:
+      - writing-original-draft
+      - writing-review-editing
+    affiliations:
+      - name: "University of Utrecht, Department of Interdisciplinary Social Science, Netherlands"
+    
   reader-mode: true
   date: "08-28-2025"
   chapters:

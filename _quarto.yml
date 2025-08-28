@@ -268,7 +268,7 @@ format:
 
   pdf:
     documentclass: scrreprt
-    classoption: ["openany", "fontsize=12pt", "parskip=half", "headings=big", "numbers=noenddot"]
+    classoption: ["openany", "fontsize=12pt", "parskip=half", "headings=big", "numbers=noenddot", "titlepage=false"]
     geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
     colorlinks: true
     link-citations: true

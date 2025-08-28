@@ -51,7 +51,7 @@ relevant <- c("Name", "Question.answered", "Type.of.Reproducibility.investigated
 rs <- rs[, relevant]
 names(rs) <- gsub("\\.", " ", names(rs)) # replace "." with " " in variable names
 
-knitr::kable(rs, caption = "Success Criteria Table")
+knitr::kable(rs)
 ```
 
 ## Interpreting Divergent Results (Replication Failures)

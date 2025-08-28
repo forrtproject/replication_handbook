@@ -38,7 +38,7 @@ If neither code nor data are available (or shared by the authors), no reproducti
 **Figure**** 2**** \
 ***Decision tree to choose between types of reproductions depending on available code and data.*
 
-![Reproduction decision tree](Images/WBn_Image_3.png)
+![Reproduction decision tree](images/WBn_Image_3.png)
 
 ## Close replication before conceptual replication
 
@@ -50,6 +50,6 @@ Finally, there may be cases where the sequence of replications is not necessary,
 **Figure**** 3**** \
 ***Sequence of replications from exact replications to conceptual replications under field conditions*
 
-![Pathway from exact to conceptual replications](Images/6sH_Image_4.png)
+![Pathway from exact to conceptual replications](images/6sH_Image_4.png)
 
 Note: This an adaptation and update of the typology of replication studies by Hüffmeier, Mazei, and Schultze (2016). The typology is conceptualized as a hierarchy of studies that together help to (i) establish the validity and replicability of new effects, (ii) exclude alternative explanations, (iii) test relevant boundary conditions, and (iv) test generalizability. 

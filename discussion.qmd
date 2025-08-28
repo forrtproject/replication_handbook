@@ -75,7 +75,7 @@ Each replication outcome should be evaluated in the light of its closeness, whic
 
 *Interpretation of replication outcomes depend on similarity of **closeness** and results as well as the view (**inductive vs. deductive**).*
 
-![Enter image alt description](Images/eH3_Image_5.png)
+![Guidelines for how repliccation outcomes should be interpreted based on similarity of original and replication](images/eH3_Image_5.png)
 
 *Note.*
 

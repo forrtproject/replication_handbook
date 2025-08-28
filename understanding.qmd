@@ -41,7 +41,7 @@ A related dimension of closeness concerns *contextual sensitivity*—the extent 
 
 *Taxonomy for classifying a replication study’s methodological similarity to an original study. Reprinted from @LeBelEtAl2018fig with permission.*
 
-![Enter image alt description](Images/sTS_Image_2.png)
+![Taxonomy to assess replication similary](images/sTS_Image_2.png)
 
 Support for the view that methodological features that are theoretically irrelevant such as the use of text versus image stimuli or the type of sample can have a strong impact on the results is provided by @LandyEtAl2020, who let different groups of researchers test identical hypotheses using different study designs. The groups arrived at entirely different and even opposite conclusions for similar hypotheses. The differences in the study designs were not predicted by the theories involved in the respective studies: A priori, none of the differences (e.g., within- vs. between-subjects design, picture vs. text stimuli) “should” have affected the conclusions. Note that other theories such as demand characteristics [@orne2017social] could help in these cases. Moreover, this does not disconfirm the deductive perspective but may be a demonstration of the lack of specification of theories - as well as a reminder that statistical choices affect statistical power by changing the variance, and thus standardised effect sizes. In line with deviations from original studies mostly having uncertain consequences, close replications more directly test the credibility of original results, while conceptual replications that vary features of the design are concerned with generalizability. 
 

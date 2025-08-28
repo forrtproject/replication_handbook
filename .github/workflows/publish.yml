@@ -19,6 +19,10 @@ jobs:
         with:
           tinytex: true
 
+      - uses: r-lib/actions/setup-r 
+
+      - run: Rscript -e 'install.packages(c("dplyr", "knitr"))'
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:

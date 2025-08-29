@@ -44,3 +44,23 @@
 \makeatletter
 \let\cleardoublepage\clearpage
 \makeatother
+
+% Keep ToC spacing independent of global parskip/line spacing
+\usepackage{etoolbox}
+\makeatletter
+\pretocmd{\tableofcontents}{%
+  \begingroup
+  \setlength{\parskip}{0pt}% no paragraph glue in ToC
+  \setlength{\parindent}{0pt}%
+  \begingroup\setstretch{1}\selectfont % undo global 1.5x linespread
+}{}{}
+\apptocmd{\tableofcontents}{\par\endgroup\endgroup}{}{}
+% Do the same for lists of figures/tables (optional)
+\pretocmd{\listoffigures}{\begingroup\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}\begingroup\setstretch{1}\selectfont}{}{}
+\apptocmd{\listoffigures}{\par\endgroup\endgroup}{}{}
+\pretocmd{\listoftables}{\begingroup\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}\begingroup\setstretch{1}\selectfont}{}{}
+\apptocmd{\listoftables}{\par\endgroup\endgroup}{}{}
+\makeatother
+
+% Optional: avoid page stretching in lists
+\raggedbottom

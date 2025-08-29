@@ -269,15 +269,17 @@ format:
 
   pdf:
     documentclass: scrreprt
-    classoption: ["openany", "fontsize=12pt", "parskip=half", "headings=big", "numbers=noenddot", "titlepage=false"]
+    classoption: ["openany", "fontsize=12pt", "parskip=half", "headings=big", "numbers=noenddot", "titlepage=false", "toc=flat"]
     geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
     colorlinks: true
     link-citations: true
-    include-in-header: preamble.tex
+    include-in-header:
+      - preamble.tex  
     include-before-body: cover-page.tex
     title: ""      # disables title in PDF
     author: ""     # disables authors in PDF
     fig-cap-location: top
+
 
 editor: visual
 

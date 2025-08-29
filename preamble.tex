@@ -1,3 +1,4 @@
+
 % Century Schoolbook-like font
 \usepackage{newcent}
 
@@ -21,46 +22,42 @@
   }
 }
 
-% Line spacing for better readability
+% Line spacing
 \usepackage{setspace}
-\setstretch{1.5} % Slightly more space between lines; adjust as needed
+\setstretch{1.5}
 
-% Reduce font size for all tables in PDF
+% Smaller tables
 \usepackage{etoolbox}
 \AtBeginEnvironment{longtable}{\small}
 \AtBeginEnvironment{tabular}{\small}
 
-% Avoid duplicate title page in PDF output
+% Avoid auto title page
 \makeatletter
-\renewcommand{\maketitle}{} % disable auto title page
+\renewcommand{\maketitle}{}%
 \makeatother
 
-% Stop Pandoc/Quarto from emitting an empty titlepage
-\makeatletter
-\renewenvironment{titlepage}{}{} % no page, no clearpage
-\makeatother
-
-% Belt-and-braces: prevent forced blank recto pages
+% Prevent forced blank recto pages
 \makeatletter
 \let\cleardoublepage\clearpage
 \makeatother
 
-% Keep ToC spacing independent of global parskip/line spacing
-\usepackage{etoolbox}
-\makeatletter
-\pretocmd{\tableofcontents}{%
-  \begingroup
-  \setlength{\parskip}{0pt}% no paragraph glue in ToC
-  \setlength{\parindent}{0pt}%
-  \begingroup\setstretch{1}\selectfont % undo global 1.5x linespread
-}{}{}
-\apptocmd{\tableofcontents}{\par\endgroup\endgroup}{}{}
-% Do the same for lists of figures/tables (optional)
-\pretocmd{\listoffigures}{\begingroup\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}\begingroup\setstretch{1}\selectfont}{}{}
-\apptocmd{\listoffigures}{\par\endgroup\endgroup}{}{}
-\pretocmd{\listoftables}{\begingroup\setlength{\parskip}{0pt}\setlength{\parindent}{0pt}\begingroup\setstretch{1}\selectfont}{}{}
-\apptocmd{\listoftables}{\par\endgroup\endgroup}{}{}
-\makeatother
+% --- TOC layout & spacing ---
+% Let KOMA handle TOC layout and ensure wrapping is sane
+\KOMAoptions{toc=graduated}
 
-% Optional: avoid page stretching in lists
-\raggedbottom
+% Keep TOC single-spaced only inside TOC
+\BeforeTOCHead[toc]{\begingroup\setstretch{1}\selectfont}
+\AfterTOCHead[toc]{\endgroup}
+
+% Optional: do the same for LoF/LoT
+\BeforeTOCHead[lof]{\begingroup\setstretch{1}\selectfont}
+\AfterTOCHead[lof]{\endgroup}
+\BeforeTOCHead[lot]{\begingroup\setstretch{1}\selectfont}
+\AfterTOCHead[lot]{\endgroup}
+
+% TOC depth and number column width for nicer wrapping/alignment
+\setcounter{tocdepth}{2}
+\RedeclareSectionCommand[tocnumwidth=3.5em]{chapter}
+
+% Make pages stretch to avoid bottom clipping
+\flushbottom

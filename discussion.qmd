@@ -68,7 +68,7 @@ One challenge for replication researchers is  the identification of hidden/unkno
 
 Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in @fig-success-interpretation and integrated from previous accounts by Borgstede and Scholz [@BorgstedeScholz2021] and Freese and Peterson [@FreesePeterson2017, Figure 3].
 
-![Interpretation of replication outcomes depend on similarity of **closeness** and results as well as the view (**inductive vs. deductive**).](images/eH3_Image_5.png){#fig-success-interpretation}
+![Interpretation of replication outcomes depend on similarity of **closeness** and results as well as the view (**inductive vs. deductive**).](images/eH3_Image_5.png){#fig-success-interpretation}{.lightbox}
 
 *Note.*
 

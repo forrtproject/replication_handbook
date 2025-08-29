@@ -35,7 +35,7 @@ If the original code and dataset are available, researchers can try to *numerica
 
 If neither code nor data are available (or shared by the authors), no reproduction is possible. Researchers can still use automated tools to compare reported *p*-values with those that can be computed from test statistics via the website statcheck.io (where documents may be uploaded), the corresponding R package [@NuijtenPolanin2020], or papercheck [@papercheckR], which is still actively maintained.
 
-![Decision tree to choose between types of reproductions depending on available code and data.](images/WBn_Image_3.png){#fig-repr-decision-tree}
+![Decision tree to choose between types of reproductions depending on available code and data.](images/WBn_Image_3.png){#fig-repr-decision-tree}{.lightbox}
 
 ## Close replication before conceptual replication
 
@@ -43,6 +43,6 @@ If the goal is to increase the generalizability of a specific finding, we also s
 
 Finally, there may be cases where the sequence of replications is not necessary, or where the context of the replication team requires a focus on generalisability to a specific context (see @sec-differences-and-interpretation).
 
-![Sequence of replications from exact replications to conceptual replications under field conditions](images/6sH_Image_4.png){#fig-replication-sequence}
+![Sequence of replications from exact replications to conceptual replications under field conditions](images/6sH_Image_4.png){#fig-replication-sequence}{.lightbox}
 
 Note: This is an adaptation and update of the typology of replication studies by Hüffmeier, Mazei, and Schultze (2016). The typology is conceptualized as a hierarchy of studies that together help to (i) establish the validity and replicability of new effects, (ii) exclude alternative explanations, (iii) test relevant boundary conditions, and (iv) test generalizability. 

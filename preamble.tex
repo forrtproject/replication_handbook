@@ -61,3 +61,12 @@
 
 % Make pages stretch to avoid bottom clipping
 \flushbottom
+
+\makeatletter
+\let\oldtableofcontents\tableofcontents
+\renewcommand{\tableofcontents}{%
+  \oldtableofcontents
+  \cleardoublepage
+  \mainmatter        % Back to arabic numbering & normal layout
+}
+\makeatother

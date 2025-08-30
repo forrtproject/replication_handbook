@@ -260,6 +260,7 @@ book:
   repo-url: https://github.com/forrtproject/replication_guide/
 
 bibliography: references.bib
+csl: styles/apa.csl 
 
 format:
   html:

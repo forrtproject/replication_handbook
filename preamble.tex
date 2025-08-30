@@ -1,18 +1,17 @@
-
-% Century Schoolbook-like font
+% Font
 \usepackage{newcent}
 
-% Colors and page background
+% Colour + background (optional; safe)
 \usepackage{xcolor}
 \definecolor{forrtbg}{HTML}{FEFDF6}
 \definecolor{FORRTblue}{HTML}{2C3E50}
 \pagecolor{forrtbg}
 
-% Section heading colors
+% Headings colour (optional)
 \addtokomafont{section}{\color{FORRTblue}}
 \addtokomafont{subsection}{\color{FORRTblue}}
 
-% Safe link color configuration
+% Safe link colours
 \AtBeginDocument{
   \hypersetup{
     colorlinks=true,
@@ -31,42 +30,18 @@
 \AtBeginEnvironment{longtable}{\small}
 \AtBeginEnvironment{tabular}{\small}
 
-% Avoid auto title page
+% Do NOT generate an auto title page
 \makeatletter
 \renewcommand{\maketitle}{}%
 \makeatother
 
-% Prevent forced blank recto pages
+% Avoid forced blank recto pages
 \makeatletter
 \let\cleardoublepage\clearpage
 \makeatother
 
-% --- TOC layout & spacing ---
-% Let KOMA handle TOC layout and ensure wrapping is sane
+% TOC layout (wraps nicely)
 \KOMAoptions{toc=graduated}
 
-% Keep TOC single-spaced only inside TOC
-\BeforeTOCHead[toc]{\begingroup\setstretch{1}\selectfont}
-\AfterTOCHead[toc]{\endgroup}
-
-% Optional: do the same for LoF/LoT
-\BeforeTOCHead[lof]{\begingroup\setstretch{1}\selectfont}
-\AfterTOCHead[lof]{\endgroup}
-\BeforeTOCHead[lot]{\begingroup\setstretch{1}\selectfont}
-\AfterTOCHead[lot]{\endgroup}
-
-% TOC depth and number column width for nicer wrapping/alignment
-\setcounter{tocdepth}{2}
-\RedeclareSectionCommand[tocnumwidth=3.5em]{chapter}
-
-% Make pages stretch to avoid bottom clipping
+% Let pages stretch so bottoms align (prevents “clipping” feel)
 \flushbottom
-
-\makeatletter
-\let\oldtableofcontents\tableofcontents
-\renewcommand{\tableofcontents}{%
-  \oldtableofcontents
-  \cleardoublepage
-  \mainmatter        % Back to arabic numbering & normal layout
-}
-\makeatother

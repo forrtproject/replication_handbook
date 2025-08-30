@@ -269,17 +269,17 @@ format:
     fig-cap-location: top
 
   pdf:
-   documentclass: scrreprt
-   classoption: ["openany", "fontsize=12pt", "parskip=half*", "headings=big", "numbers=noenddot", "titlepage=false"]
-   geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
-   colorlinks: true
-   link-citations: true
-   include-in-header:
-     - preamble.tex
-   include-before-body: cover-page.tex
-   title: ""
-   author: ""
-   fig-cap-location: top
+    documentclass: scrreprt
+    classoption: ["openany", "fontsize=12pt", "parskip=half*", "headings=big", "numbers=noenddot", "titlepage=false"]
+    geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
+    colorlinks: true
+    link-citations: true
+    include-in-header:
+      - preamble.tex
+    include-before-body: cover-page.tex
+    title: ""      # important: prevents pandoc \maketitle
+    author: ""     # important: prevents pandoc \maketitle
+    fig-cap-location: top
 
 
 editor: visual

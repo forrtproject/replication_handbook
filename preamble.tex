@@ -1,17 +1,17 @@
 % Font
 \usepackage{newcent}
 
-% Colour + background (optional; safe)
+% Colors (safe)
 \usepackage{xcolor}
-\definecolor{forrtbg}{HTML}{FEFDF6}
 \definecolor{FORRTblue}{HTML}{2C3E50}
-\pagecolor{forrtbg}
+% (Avoid \pagecolor to eliminate any chance of a driver-induced first blank page)
+% \pagecolor{white}
 
-% Headings colour (optional)
+% Heading colours
 \addtokomafont{section}{\color{FORRTblue}}
 \addtokomafont{subsection}{\color{FORRTblue}}
 
-% Safe link colours
+% Links
 \AtBeginDocument{
   \hypersetup{
     colorlinks=true,
@@ -30,7 +30,7 @@
 \AtBeginEnvironment{longtable}{\small}
 \AtBeginEnvironment{tabular}{\small}
 
-% Do NOT generate an auto title page
+% Disable auto title
 \makeatletter
 \renewcommand{\maketitle}{}%
 \makeatother
@@ -40,8 +40,9 @@
 \let\cleardoublepage\clearpage
 \makeatother
 
-% TOC layout (wraps nicely)
+% TOC layout & page building
 \KOMAoptions{toc=graduated}
-
-% Let pages stretch so bottoms align (prevents “clipping” feel)
 \flushbottom
+
+% (Optional) tidy ToC depth
+\setcounter{tocdepth}{2}

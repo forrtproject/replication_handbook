@@ -1,0 +1,12 @@
+\usepackage{etoolbox}
+\AtBeginDocument{
+  \let\oldtableofcontents\tableofcontents
+  \renewcommand{\tableofcontents}{%
+    \begingroup
+      \small                   % use \footnotesize for more compaction
+      \setlength{\parskip}{0pt}    % minimal spacing between lines
+      \setlength{\itemsep}{0pt}
+      \oldtableofcontents
+    \endgroup
+  }
+}

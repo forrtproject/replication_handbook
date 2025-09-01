@@ -21,7 +21,7 @@ Reproduction and replication should always be considered together and if possibl
 
 ## Outcome
 
-Common language often conflates outcome and study descriptions: researchers typically use the phrase “has been replicated” to refer to a replication attempt that has corroborated the findings of the original study, whereas “failed to replicate” or “could not be replicated” is used to refer to circumstances where a replication attempt has not corroborated the original results or has led to a different interpretation or conclusions (see also @PatilEtAl2016a).
+Common language often conflates outcome and study descriptions: researchers typically use the phrase “has been replicated” to refer to a replication attempt that has corroborated the findings of the original study, whereas “failed to replicate” or “could not be replicated” is used to refer to circumstances where a replication attempt has not corroborated the original results or has led to a different interpretation or conclusions [see also @PatilEtAl2016a].
 
 In this article, when we state that a “study was reproduced/replicated” we mean that there has been a replication attempt, irrespective of its outcome. With “replicable” and “reproducible” we express that there was support for the original hypothesis. Note that the outcome of a replication/reproduction study is often not straightforward, but may depend on the success criteria applied. This is discussed in @sec-success-criteria.
 
@@ -45,4 +45,4 @@ In terms of Schöch [-@Schoch2023], who defines an overarching type of *repetiti
 
 ## Types of reproduction
 
-Reproductions can be numerical reproductions, testing whether the same data, code and software lead to the same results, or robustness reproductions, extending the original analysis and exploring the central finding’s limits (@DreberJohannesson2024). Most reproductions would include both a numerical reproduction as baseline and then a robustness reproduction, unless the numerical reproduction is not possible due to a lack of code or software.
+Reproductions can be numerical reproductions, testing whether the same data, code and software lead to the same results, or robustness reproductions, extending the original analysis and exploring the central finding’s limits [@DreberJohannesson2024]. Most reproductions would include both a numerical reproduction as baseline and then a robustness reproduction, unless the numerical reproduction is not possible due to a lack of code or software.

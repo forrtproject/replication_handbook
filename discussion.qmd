@@ -11,7 +11,7 @@ Below, we present different approaches to assessing replication success as summa
 ```{r}
 #| label: tbl-rep-success-criteria
 #| tbl-cap: |
-#|   Criteria to operationalize replication success (excerpt from @HeyardEtAl2025 [Table 4])
+#|   Criteria to operationalize replication success [excerpt from @HeyardEtAl2025 [Table 4]]
 #|   For full references and descriptions, see the [original table](http://rachelheyard.com/reproducibility_metrics/#table). Reused in accordance with the CC-BY license of the article.
 #| echo: false
 #| message: false

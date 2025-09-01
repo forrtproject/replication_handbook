@@ -260,7 +260,7 @@ book:
   repo-url: https://github.com/forrtproject/replication_guide/
 
 bibliography: references.bib
-csl: styles/apa.csl 
+csl: styles/apa.csl
 
 format:
   html:
@@ -270,16 +270,21 @@ format:
 
   pdf:
     documentclass: scrbook
+    pdf-engine: xelatex
     classoption: ["oneside", "openany", "fontsize=12pt", "parskip=half*", "headings=big", "numbers=noenddot", "titlepage=false"]
     geometry: [a4paper, top=25mm, bottom=25mm, left=25mm, right=25mm]
     colorlinks: true
     link-citations: true
     include-in-header:
       - preamble.tex
+      - toc-small.tex
     include-before-body: cover-page.tex
     title: ""      # prevent auto title page
     author: ""     # prevent auto title page
     fig-cap-location: top
+    toc: true
+    number-sections: true
+    toc-depth: 2
 
 
 editor: visual

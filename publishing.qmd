@@ -7,7 +7,7 @@ The final step of replication research is publishing and communicating the resul
 The journals that published the original studies are often also chosen by authors for publication in accordance with the *pottery-barn-rule* [@Srivastava2012]. However, in our experience, many journals reject replications due to their lack of novelty. We list several options for writing and publishing the report in @tbl-reporting-options. These are non-exclusive, that is, researchers can choose multiple of them. An overview of active journals that exclusively publish replications is in @tbl-rep-journals.
 
 | Type | Description |
-|------------------------------------|------------------------------------|
+|----|----|
 | FORRT Replication Database | This open and collaborative database contains thousands of replication findings and makes them visible. Anyone can enter results using a guided survey (<https://t1p.de/fred_submit>). |
 | PubPeer | Researchers can comment on the original study and say that there is a replication attempt, describe the outcome, and provide links/references/DOIs to the replication(s). Researchers checking pubpeer.com or using the browser plug-in that automatically highlights studies for which there are comments will see your comment. |
 | Manuscript (required for Preprint and Journal Article) | Manuscripts are mostly used as they are the traditional form of a research article. For judgment and decision making, there are useful examples by @Feldman2024. For reproducibility analyses the I4R Replication Report Template (<https://osf.io/j2qrx>) can be used. Moreover, Röseler et al. [-@RoselerEtAl2025] provide general templates for reproductions and replications. |
@@ -19,7 +19,7 @@ The journals that published the original studies are often also chosen by author
 Many institutions and libraries recommend adding a CC-BY disclaimer on journal submissions that give the researchers the right to use the accepted manuscript as they like or choosing Diamond Open Access journals that are defined by no fees for publishing and reading research.
 
 | Journal name | Commercial status | Owners | Disciplines | Article types | Website |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | Journal of Comments and Replications in Economics | Non-commercial, diamond OA | ZBW | Economics | Replications, Reproductions and comments research | <https://jcr-econ.org> |
 | Replication Research | Non-commercial, diamond OA | Münster Center for Open Science and FORRT | Multidisciplinary | Reproductions, Replications, Conceptual articles | <https://replicationresearch.org> |
 | Journal of Open Psychology Data | Commercial, Gold OA (APCs: 450 pounds) | Ubiquity Press | Psychology | Reproductions (only as Registered Reports) | <https://openpsychologydata.metajnl.com> |

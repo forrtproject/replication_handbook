@@ -291,3 +291,4 @@ editor: visual
 
 filters:
   - fontawesome
+  - disclaimer.lua

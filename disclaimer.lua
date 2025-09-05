@@ -1,29 +1,31 @@
--- Inject a callout at the start of each top-level chapter
-function Pandoc(doc)
-  local meta = doc.meta
-  local ver = pandoc.utils.stringify(meta.version or "0.1")
-  local email = pandoc.utils.stringify(meta.feedback_email or "lukas.roeseler@uni-muenster.de")
-  local gh = pandoc.utils.stringify(meta.feedback_github or "https://github.com/forrtproject/replication_handbook/issues")
+-- disclaimer.lua — inject disclaimer as callout in every chapter
 
-  local md = ([[
-::: {.callout-warning collapse="false"}
-**Preliminary Version %s**
+local ver, email, gh
 
-We welcome feedback — email [%s](mailto:%s) or open an issue on [GitHub](%s).
-:::
-]]):format(ver, email, email, gh)
+function Meta(m)
+  ver   = pandoc.utils.stringify(m.version or "0.1")
+  email = pandoc.utils.stringify(m.feedback_email or "info@forrt.org")
+  gh    = pandoc.utils.stringify(m.feedback_github or "https://github.com/URL")
+end
 
-  local callout_blocks = pandoc.read(md, "markdown").blocks
+local function callout_block()
+  local title = pandoc.Para({ pandoc.Strong(pandoc.Str("Preliminary Version " .. ver)) })
+  local body = pandoc.Para({
+    pandoc.Str("We welcome feedback — email "),
+    pandoc.Link({ pandoc.Str(email) }, "mailto:" .. email),
+    pandoc.Str(" or open an issue on "),
+    pandoc.Link({ pandoc.Str("GitHub") }, gh),
+    pandoc.Str(".")
+  })
+  return pandoc.Div(
+    { title, body },
+    pandoc.Attr("", { "callout", "callout-warning" }, { collapse = "false" })
+  )
+end
 
-  -- Prepend to each top-level file (chapters)
-  local new_blocks = pandoc.List()
-  -- Optionally skip index.qmd: detect by title if you want
-  for i, blk in ipairs(doc.blocks) do
-    if i == 1 then
-      for _, b in ipairs(callout_blocks) do new_blocks:insert(b) end
-    end
-    new_blocks:insert(blk)
+-- Use only Header hook (works for HTML & PDF)
+function Header(el)
+  if el.level == 1 then
+    return { el, callout_block() }
   end
-  doc.blocks = new_blocks
-  return doc
 end

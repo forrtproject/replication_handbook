@@ -2,6 +2,11 @@ project:
   type: book
   output-dir: docs
 
+# shown in the disclaimer box
+version: "0.1"
+feedback_email: "lukas.roeseler@uni-muenster.de"
+feedback_github: "https://github.com/forrtproject/replication_handbook/issues"
+
 book:
   description: "How to carry out reproductions and replications in the social, cognitive, and behavioral sciences"
   title: "Handbook for Reproduction and Replication Studies"
@@ -278,6 +283,8 @@ format:
     include-in-header:
       - preamble.tex
       - toc-small.tex
+      - text: |
+          \usepackage[skins,breakable]{tcolorbox}
     include-before-body: cover-page.tex
     title: ""      # prevent auto title page
     author: ""     # prevent auto title page

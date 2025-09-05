@@ -36,11 +36,11 @@ local function html_box()
 <div class="callout-header d-flex align-content-center">
   <div class="callout-icon-container"><i class="callout-icon"></i></div>
   <div class="callout-title-container flex-fill">
-    <span class="screen-reader-only">Note</span>Note — Preliminary Version %s
+    <span class="screen-reader-only">Note</span> — Preliminary Version %s
   </div>
 </div>
 <div class="callout-body-container callout-body">
-  <p>This is a preliminary version. Feedback welcome —
+  <p>This is a preliminary version. Feedback welcome:
   <a href="mailto:%s">%s</a> or <a href="%s">GitHub</a>.</p>
 </div>
 </div>]]):format(ver, email, email, gh)
@@ -51,7 +51,7 @@ local function latex_box()
   -- Orange tcolorbox (requires \usepackage[skins,breakable]{tcolorbox})
   local tex = ([[\begin{tcolorbox}[breakable,enhanced,skin=enhancedmiddle,
   colback=orange!5, colframe=orange!60!black, title={Note — Preliminary Version %s}]
-This is a preliminary version. Feedback welcome — \href{mailto:%s}{%s} or \href{%s}{GitHub}.
+This is a preliminary version. Feedback welcome: \href{mailto:%s}{%s} or \href{%s}{GitHub}.
 \end{tcolorbox}]]):format(ver, email, email, gh)
   return pandoc.RawBlock("latex", tex)
 end

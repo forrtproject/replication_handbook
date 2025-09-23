@@ -43,4 +43,4 @@ Finally, there may be cases where the sequence of replications is not necessary,
 
 ![Sequence of replications from exact replications to conceptual replications under field conditions](images/6sH_Image_4.png){#fig-replication-sequence}
 
-Note: This is an adaptation and update of the typology of replication studies by Hüffmeier, Mazei, and Schultze (2016). The typology is conceptualized as a hierarchy of studies that together help to (i) establish the validity and replicability of new effects, (ii) exclude alternative explanations, (iii) test relevant boundary conditions, and (iv) test generalizability.
+Note: This is an adaptation and update of the typology of replication studies by @HueffmeierEtAl2016. The typology is conceptualized as a hierarchy of studies that together help to (i) establish the validity and replicability of new effects, (ii) exclude alternative explanations, (iii) test relevant boundary conditions, and (iv) test generalizability.

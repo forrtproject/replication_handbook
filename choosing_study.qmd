@@ -44,7 +44,7 @@ While a single replication (or robustness reproduction) cannot provide conclusiv
 
 Although there is no comprehensive database with reproductions yet, researchers can check resources such as the Institute for Replication’s discussion paper series [<https://i4replication.org/discussion_paper.html>, cf. @BrodeurEtAl2024b], the ReplicationWiki [@Hoeffler2017], the CODECHECK register [<https://codecheck.org.uk/register/>, cf. @NuestEglen2021], or the Social Science Reproduction Platform (<https://www.socialsciencereproduction.org>).
 
-With regard to replications, researchers can browse the FORRT Replication Database [<https://forrt.org/apps/fred_explorer.html>, cf. @RoselerEtAl2024], though this does not (yet) provide a replacement for manual searches. The following table provides an overview of types of *reproducibility checks*.
+With regard to replications, researchers can browse the FORRT Replication Database [<https://forrt.org/apps/fred_explorer.html>, cf. @RoselerEtAl2024], though this does not (yet) provide a replacement for manual searches. The following table provides an overview of different types of *reproducibility checks*.
 
 | Type | Checker | Nomination | Documentation | Format | Typical Time |
 |------------|------------|------------|------------|------------|------------|

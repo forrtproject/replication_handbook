@@ -7,7 +7,7 @@ Planning depends on whether the focus is on a certain method or a theory, that i
 In addition, the formation of the replication team is important, as replications can take substantial resources. Notably, repetitive research has successfully been conducted collaboratively with graduate and undergraduate students [e.g., @BoyceEtAl2024; @HawkinsEtAl2018; @JekelEtAl2020; @MoreauWiebels2023] and we recommend the use of replication studies to engage students of different levels in conducting and publishing research.
 
 | Type | Description | Goals |
-|------------------------|------------------------|------------------------|
+|----|----|----|
 | Computational Reproduction | Reanalysis of the same data with the same code | Correctness of original report |
 | Recoding reproduction | Reanalysis of the same data, with new (equivalent) code | Correctness of original report |
 | Robustness Reproduction | Reanalysis of the same data with new coding choices; can vary in closeness | Robustness of original finding and sensitivity to different analytical decisions or software |

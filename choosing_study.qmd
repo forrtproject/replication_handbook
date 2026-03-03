@@ -47,7 +47,7 @@ Although there is no comprehensive database with reproductions yet, researchers 
 With regard to replications, researchers can browse the FORRT Replication Database [<https://forrt.org/apps/fred_explorer.html>, cf. @RoselerEtAl2024], though this does not (yet) provide a replacement for manual searches. The following table provides an overview of different types of *reproducibility checks*.
 
 | Type | Checker | Nomination | Documentation | Format | Typical Time |
-|------------|------------|------------|------------|------------|------------|
+|----|----|----|----|----|----|
 | No check | — | — | — | — | — |
 | Informal | Author, Co-Author, Research Assistant, Institutional Service (e.g., Code Review) | Self-nomination | Usually none | No specific format or public report | Before posting preprint or submitting to a journal |
 | Pre-submission (e.g,. [CODECHECK](https://codecheck.org.uk)) | Independent researcher | Self-nomination | On Zenodo with DOI | Standardized report | After posting preprint, before submitting to journal |

@@ -11,7 +11,7 @@ Below, we present different approaches to assessing replication success as summa
 ```{r}
 #| label: tbl-rep-success-criteria
 #| tbl-cap: |
-#|   Criteria to operationalize replication success [excerpt from @HeyardEtAl2025 [Table 4]]
+#|   Criteria to operationalize replication success [adapted from @HeyardEtAl2025 [Table 4]]
 #|   For full references and descriptions, see the [original table](http://rachelheyard.com/reproducibility_metrics/#table). Reused in accordance with the CC-BY license of the article.
 #| echo: false
 #| message: false
@@ -50,6 +50,7 @@ relevant <- c("Name", "Question.answered", "Type.of.Reproducibility.investigated
 
 rs <- rs[, relevant]
 names(rs) <- gsub("\\.", " ", names(rs)) # replace "." with " " in variable names
+names(rs)[names(rs) == "Type of Reproducibility investigated"] <- "Type of Repeatability investigated"
 
 knitr::kable(rs)
 ```
@@ -68,7 +69,7 @@ One challenge for replication researchers is the identification of hidden/unknow
 
 Each replication outcome should be evaluated in the light of its closeness, which is why all deviations with the respective reasons and, if possible, their potential impact on the results should be discussed. Existing theories may help assess whether a deviation should affect the outcomes. For example, most psychological theories are agnostic towards age so that a different distribution of participants’ age will be unproblematic in most cases. Researchers may choose to evaluate replications from both phenomenon-focused / inductive and theory-focused / deductive views. Different types of interpretations are listed in @fig-success-interpretation and integrated from previous accounts by Borgstede and Scholz [@BorgstedeScholz2021] and Freese and Peterson [@FreesePeterson2017, Figure 3].
 
-![Interpretation of replication outcomes depend on similarity of closeness and results as well as the view (inductive vs. deductive).](images/eH3_Image_5.png){#fig-success-interpretation}
+![Interpretation of replication outcomes depends on the similarity/closeness between studies and the results, as well as whether an inductive or deductive view is adopted (see @sec-types-replication for the conceptual framework).](images/eH3_Image_5.png){#fig-success-interpretation}
 
 *Note.*
 
